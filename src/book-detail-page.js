@@ -99,11 +99,21 @@ function renderBookDetail(book) {
   const descEl = document.getElementById('bookDescription');
   if (descEl) descEl.textContent = description;
 
-  // Download button
-  const downloadBtn = document.getElementById('downloadBtn');
-  if (downloadBtn) {
-    downloadBtn.href = book.downloadUrl;
-    downloadBtn.setAttribute('download', '');
+  // Multiple Download Buttons
+  const downloadGroup = document.getElementById('downloadGroup');
+  if (downloadGroup && book.formats) {
+    downloadGroup.innerHTML = book.formats.map(format => `
+      <a href="${format.url}" class="btn btn--download btn--lg" download>
+        ⬇️ <span data-i18n="book.download">Download</span> ${format.type}
+      </a>
+    `).join('');
+  } else if (downloadGroup && book.downloadUrl) {
+    // Fallback for older data structure
+    downloadGroup.innerHTML = `
+      <a href="${book.downloadUrl}" class="btn btn--download btn--lg" download>
+        ⬇️ <span data-i18n="book.download">Download</span>
+      </a>
+    `;
   }
 }
 

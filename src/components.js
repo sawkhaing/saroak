@@ -240,6 +240,9 @@ export async function initCommon() {
   initThemeToggle();
 
   // 2. Translations
+  // Ensure the <html> lang attribute is set immediately on load
+  const currentLang = getCurrentLang();
+  setLang(currentLang);
   applyTranslations();
 
   // 3. Navbar

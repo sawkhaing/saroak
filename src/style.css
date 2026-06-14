@@ -2452,3 +2452,41 @@ body[data-theme="light"] .navbar.scrolled {
 .catalog-main.list-view .btn-view-details {
   margin-top: auto;
 }
+
+/* Download Group Multiple Formats */
+.download-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-2);
+}
+
+.download-group .btn--download {
+  flex: 1;
+  text-align: center;
+  min-width: 140px;
+}
+
+/* ── Typography overrides for Myanmar (Burmese) ──
+   Myanmar characters have tall ascenders and descenders. 
+   We increase line-height to prevent clipping. 
+   `html[lang="my"]` is set by i18n.js 
+*/
+html[lang="my"] body,
+html[lang="my"] p,
+html[lang="my"] .about-card-text,
+html[lang="my"] .book-detail__description {
+  line-height: var(--lh-relaxed);
+}
+
+html[lang="my"] h1,
+html[lang="my"] h2,
+html[lang="my"] h3,
+html[lang="my"] h4,
+html[lang="my"] h5,
+html[lang="my"] h6,
+html[lang="my"] .section-header__title,
+html[lang="my"] .page-title,
+html[lang="my"] .about-card-title {
+  line-height: var(--lh-normal);
+  padding-bottom: 0.1em; /* extra breathing room */
+}
