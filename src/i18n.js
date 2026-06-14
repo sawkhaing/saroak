@@ -73,6 +73,7 @@ const translations = {
     'footer.categories': 'Categories',
     'footer.connect': 'Connect',
     'footer.rights': '© 2024 SarOak. All rights reserved.',
+    'footer.madeWith': 'Made with ❤️ by SarOak',
 
     // Common
     'common.viewAll': 'View All',
@@ -146,6 +147,7 @@ const translations = {
     'footer.categories': 'အမျိုးအစားများ',
     'footer.connect': 'ချိတ်ဆက်ရန်',
     'footer.rights': '© ၂၀၂၄ SarOak။ မူပိုင်ခွင့် အားလုံးရယူထားသည်။',
+    'footer.madeWith': 'SarOak မှ ❤️ ဖြင့် ဖန်တီးသည်',
 
     // Common
     'common.viewAll': 'အားလုံးကြည့်ရန်',
