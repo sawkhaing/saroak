@@ -895,7 +895,6 @@ body[data-theme="light"] .navbar.scrolled {
   word-wrap: break-word;
   overflow-wrap: break-word;
   word-break: break-word;
-  line-break: anywhere;
   line-height: 1.4;
 }
 
@@ -2565,7 +2564,6 @@ html[lang="my"] body {
   word-wrap: break-word;
   overflow-wrap: break-word;
   word-break: break-word;
-  line-break: anywhere;
 }
 
 html[lang="my"] body,
