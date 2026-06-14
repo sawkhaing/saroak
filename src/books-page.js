@@ -49,7 +49,7 @@ function renderCategoryFilters() {
     ${categories.map(cat => {
       const lang = getCurrentLang();
       const name = cat.name[lang] || cat.name.en;
-      return `<button class="filter-chip ${currentCategory === cat.id ? 'active' : ''}" data-category="${cat.id}" style="width: 100%; text-align: left; justify-content: flex-start; margin-bottom: var(--sp-2);">${name}</button>`;
+      return `<button class="filter-chip ${currentCategory === cat.id ? 'active' : ''}" data-category="${cat.id}">${name}</button>`;
     }).join('')}
   `;
 
@@ -61,14 +61,13 @@ function renderCategoryFilters() {
       btn.classList.add('active');
       currentPage = 1;
       renderBooks();
-      if (window.closeMobileFilters) window.closeMobileFilters();
     });
   });
 }
 
 function renderAuthorFilters() {
-  const container = document.getElementById('authorFilters');
-  if (!container) return;
+  const select = document.getElementById('authorFilterSelect');
+  if (!select) return;
 
   // Extract unique authors
   const authorsSet = new Set();
@@ -78,34 +77,27 @@ function renderAuthorFilters() {
     }
   });
 
-  // Limit to top 10 authors to avoid massive sidebar, or just show all
   const uniqueAuthors = Array.from(authorsSet).sort();
 
-  container.innerHTML = uniqueAuthors.map(author => `
-    <label class="checkbox-label">
-      <input type="checkbox" value="${author}" ${currentAuthors.includes(author) ? 'checked' : ''} /> 
-      <span class="checkbox-text">${author}</span>
-    </label>
+  select.innerHTML = '<option value="">All Authors</option>' + uniqueAuthors.map(author => `
+    <option value="${author}" ${currentAuthors.includes(author) ? 'selected' : ''}>${author}</option>
   `).join('');
 
-  // Add event listeners to the new checkboxes
-  const authorCheckboxes = container.querySelectorAll('input[type="checkbox"]');
-  authorCheckboxes.forEach(cb => {
-    cb.addEventListener('change', (e) => {
-      if (e.target.checked) {
-        currentAuthors.push(e.target.value);
-      } else {
-        currentAuthors = currentAuthors.filter(a => a !== e.target.value);
-      }
-      currentPage = 1;
-      renderBooks();
-    });
+  select.addEventListener('change', (e) => {
+    const val = e.target.value;
+    if (val) {
+      currentAuthors = [val]; // Single author select for simplicity in dropdown
+    } else {
+      currentAuthors = [];
+    }
+    currentPage = 1;
+    renderBooks();
   });
 }
 
 function renderFormatFilters() {
-  const container = document.getElementById('formatFilters');
-  if (!container) return;
+  const select = document.getElementById('formatFilterSelect');
+  if (!select) return;
 
   // Extract unique formats
   const formatsSet = new Set();
@@ -119,25 +111,19 @@ function renderFormatFilters() {
 
   const uniqueFormats = Array.from(formatsSet).sort();
 
-  container.innerHTML = uniqueFormats.map(format => `
-    <label class="checkbox-label">
-      <input type="checkbox" value="${format}" ${currentFormats.includes(format) ? 'checked' : ''} /> 
-      <span class="checkbox-text">${format}</span>
-    </label>
+  select.innerHTML = '<option value="">All Formats</option>' + uniqueFormats.map(format => `
+    <option value="${format}" ${currentFormats.includes(format) ? 'selected' : ''}>${format}</option>
   `).join('');
 
-  // Add event listeners
-  const formatCheckboxes = container.querySelectorAll('input[type="checkbox"]');
-  formatCheckboxes.forEach(cb => {
-    cb.addEventListener('change', (e) => {
-      if (e.target.checked) {
-        currentFormats.push(e.target.value);
-      } else {
-        currentFormats = currentFormats.filter(f => f !== e.target.value);
-      }
-      currentPage = 1;
-      renderBooks();
-    });
+  select.addEventListener('change', (e) => {
+    const val = e.target.value;
+    if (val) {
+      currentFormats = [val];
+    } else {
+      currentFormats = [];
+    }
+    currentPage = 1;
+    renderBooks();
   });
 }
 
@@ -438,30 +424,7 @@ function setupEventListeners() {
     });
   }
 
-  // Mobile Filter Drawer Toggle
-  const mobileFilterBtn = document.getElementById('mobileFilterBtn');
-  const closeFilterBtn = document.getElementById('closeFilterBtn');
-  const catalogSidebar = document.getElementById('catalogSidebar');
-  const sidebarOverlay = document.getElementById('sidebarOverlay');
 
-  function openFilters() {
-    catalogSidebar?.classList.add('open');
-    sidebarOverlay?.classList.add('open');
-    document.body.style.overflow = 'hidden'; // Prevent background scrolling
-  }
-
-  function closeFilters() {
-    catalogSidebar?.classList.remove('open');
-    sidebarOverlay?.classList.remove('open');
-    document.body.style.overflow = '';
-  }
-
-  mobileFilterBtn?.addEventListener('click', openFilters);
-  closeFilterBtn?.addEventListener('click', closeFilters);
-  sidebarOverlay?.addEventListener('click', closeFilters);
-  
-  // Attach close function to window so we can call it when a filter is clicked
-  window.closeMobileFilters = closeFilters;
 }
 
 initBooksPage();
