@@ -1,7 +1,7 @@
 // main.js — Homepage logic for SarOak
 import './style.css';
 import { books, categories } from './books-data.js';
-import { createBookCard, createCategoryCard, populateFooterCategories, initCommon } from './components.js';
+import { createBookCard, createCategoryCard, populateFooterCategories, initCommon, initScrollAnimations } from './components.js';
 
 async function initHomePage() {
   // Common setup (theme, lang, navbar, scroll animations)
@@ -12,12 +12,16 @@ async function initHomePage() {
   renderRecentBooks();
   populateFooterCategories(categories);
 
+  // Trigger animations for dynamically added elements
+  initScrollAnimations();
+
   // Re-render on language change
   window.addEventListener('langchange', () => {
     renderFeaturedBooks();
     renderCategories();
     renderRecentBooks();
     populateFooterCategories(categories);
+    initScrollAnimations();
   });
 
   // Newsletter form
@@ -37,13 +41,15 @@ function renderFeaturedBooks() {
   if (!container) return;
   container.innerHTML = '';
 
-  const featured = books.filter(b => b.featured).slice(0, 4);
+  // Fallback to slicing the first 4 books if none are explicitly featured
+  let featured = books.filter(b => b.featured).slice(0, 4);
+  if (featured.length === 0) {
+    featured = books.slice(0, 4);
+  }
+
   featured.forEach(book => {
     container.appendChild(createBookCard(book));
   });
-
-  // Re-init scroll animations for new elements
-  const { initScrollAnimations } = import('./components.js');
 }
 
 function renderCategories() {

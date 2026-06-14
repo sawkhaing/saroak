@@ -2135,7 +2135,28 @@ body[data-theme="light"] .navbar.scrolled {
 
   .grid-auto-fill,
   .grid-auto-fit {
-    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: var(--sp-4);
+  }
+
+  /* Specific fix for categories grid on mobile so text doesn't overlap */
+  #categoriesGrid {
+    grid-template-columns: 1fr;
+  }
+
+  /* Toolbar wrapping on mobile */
+  .toolbar {
+    flex-wrap: wrap;
+    gap: var(--sp-4);
+  }
+  
+  .toolbar-actions {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .pagination {
+    flex-wrap: wrap;
   }
 
   /* Hero */
@@ -2533,4 +2554,92 @@ html[lang="my"] .about-card-title {
 .pagination-btn:disabled {
   opacity: 0.5;
   cursor: not-allowed;
+}
+
+/* ── About Page Styles ── */
+.about-grid,
+.contribute-steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--sp-8);
+  margin-top: var(--sp-12);
+}
+
+.about-card,
+.step-card {
+  padding: var(--sp-8);
+  border-radius: var(--radius-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.about-card-icon {
+  font-size: var(--fs-3xl);
+  margin-bottom: var(--sp-4);
+}
+
+.about-card-title,
+.step-card h3 {
+  font-size: var(--fs-xl);
+  color: var(--clr-text-primary);
+  margin-bottom: var(--sp-3);
+  font-weight: var(--fw-bold);
+}
+
+.about-card-text,
+.step-card p {
+  color: var(--clr-text-secondary);
+  line-height: var(--lh-relaxed);
+}
+
+.step-number {
+  width: 48px;
+  height: 48px;
+  background: rgba(0, 210, 255, 0.1);
+  color: var(--clr-accent-cyan);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--fs-xl);
+  font-weight: var(--fw-bold);
+  margin-bottom: var(--sp-4);
+}
+
+.contact-section {
+  text-align: center;
+  margin-top: var(--sp-12);
+}
+
+.contact-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--sp-6);
+  margin-top: var(--sp-8);
+}
+
+.contact-card {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  padding: var(--sp-4) var(--sp-6);
+  border-radius: var(--radius-full);
+  color: var(--clr-text-primary);
+  text-decoration: none;
+  font-weight: var(--fw-medium);
+  transition: all var(--duration-fast) ease;
+}
+
+.contact-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--clr-accent-cyan);
+  background: rgba(0, 210, 255, 0.05);
+  color: var(--clr-accent-cyan);
+}
+
+.contact-icon {
+  font-size: var(--fs-xl);
 }
