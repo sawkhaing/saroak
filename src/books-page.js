@@ -46,7 +46,7 @@ function renderCategoryFilters() {
 
   const lang = getCurrentLang();
 
-  select.innerHTML = `<option value="all">${t('filter.all')}</option>` + categories.map(cat => {
+  select.innerHTML = `<option value="all">Category</option>` + categories.map(cat => {
     const name = cat.name[lang] || cat.name.en;
     return `<option value="${cat.id}" ${currentCategory === cat.id ? 'selected' : ''}>${name}</option>`;
   }).join('');
@@ -72,7 +72,7 @@ function renderAuthorFilters() {
 
   const uniqueAuthors = Array.from(authorsSet).sort();
 
-  select.innerHTML = '<option value="">All Authors</option>' + uniqueAuthors.map(author => `
+  select.innerHTML = '<option value="">Author</option>' + uniqueAuthors.map(author => `
     <option value="${author}" ${currentAuthors.includes(author) ? 'selected' : ''}>${author}</option>
   `).join('');
 
@@ -104,7 +104,7 @@ function renderFormatFilters() {
 
   const uniqueFormats = Array.from(formatsSet).sort();
 
-  select.innerHTML = '<option value="">All Formats</option>' + uniqueFormats.map(format => `
+  select.innerHTML = '<option value="">Format</option>' + uniqueFormats.map(format => `
     <option value="${format}" ${currentFormats.includes(format) ? 'selected' : ''}>${format}</option>
   `).join('');
 
