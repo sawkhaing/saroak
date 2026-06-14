@@ -62,6 +62,12 @@
             </div>
             
             <div class="toolbar-actions">
+              <!-- Category Filter Dropdown -->
+              <select class="sort-select toolbar-input" id="categoryFilterSelect">
+                <option value="all" data-i18n="filter.all">All Categories</option>
+                <!-- Populated by JS -->
+              </select>
+
               <!-- Author Filter Dropdown -->
               <select class="sort-select toolbar-input" id="authorFilterSelect">
                 <option value="">All Authors</option>
@@ -95,9 +101,8 @@
           </div>
 
           <!-- Bottom Row: Category Tabs -->
-          <div class="category-tabs" id="categoryFilters">
-            <button class="filter-chip active" data-category="all" data-i18n="filter.all">All</button>
-            <!-- Categories populated by JS -->
+          <div class="category-tabs hidden" id="categoryFilters">
+            <!-- Keeping this container hidden so we don't break JS that might expect it, or we can just delete it and update JS -->
           </div>
         </div>
 

@@ -41,27 +41,20 @@ let currentPage = 1;
 const itemsPerPage = 24;
 
 function renderCategoryFilters() {
-  const container = document.getElementById('categoryFilters');
-  if (!container) return;
+  const select = document.getElementById('categoryFilterSelect');
+  if (!select) return;
 
-  container.innerHTML = `
-    <button class="filter-chip ${currentCategory === 'all' ? 'active' : ''}" data-category="all">${t('filter.all')}</button>
-    ${categories.map(cat => {
-      const lang = getCurrentLang();
-      const name = cat.name[lang] || cat.name.en;
-      return `<button class="filter-chip ${currentCategory === cat.id ? 'active' : ''}" data-category="${cat.id}">${name}</button>`;
-    }).join('')}
-  `;
+  const lang = getCurrentLang();
 
-  // Add click listeners
-  container.querySelectorAll('.filter-chip').forEach(btn => {
-    btn.addEventListener('click', () => {
-      currentCategory = btn.dataset.category;
-      container.querySelectorAll('.filter-chip').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      currentPage = 1;
-      renderBooks();
-    });
+  select.innerHTML = `<option value="all">${t('filter.all')}</option>` + categories.map(cat => {
+    const name = cat.name[lang] || cat.name.en;
+    return `<option value="${cat.id}" ${currentCategory === cat.id ? 'selected' : ''}>${name}</option>`;
+  }).join('');
+
+  select.addEventListener('change', (e) => {
+    currentCategory = e.target.value;
+    currentPage = 1;
+    renderBooks();
   });
 }
 
