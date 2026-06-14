@@ -282,4 +282,37 @@ export async function initCommon() {
 
   // 5. Scroll animations
   initScrollAnimations();
+
+  // 6. Latest GitHub Commit
+  fetchLatestCommit();
+}
+
+/**
+ * Fetches the latest commit from the GitHub repository and injects it into the footer.
+ */
+async function fetchLatestCommit() {
+  const containers = document.querySelectorAll('.footer__commit');
+  if (containers.length === 0) return;
+
+  try {
+    const response = await fetch('https://api.github.com/repos/sawkhaing/saroak/commits/master');
+    if (!response.ok) throw new Error('Network response was not ok');
+    
+    const data = await response.json();
+    const sha = data.sha.substring(0, 7);
+    const date = new Date(data.commit.committer.date).toLocaleDateString();
+    const message = data.commit.message.split('\n')[0]; // get only the first line of the commit message
+    
+    const html = `
+      <p style="font-size: var(--fs-xs); color: var(--clr-text-secondary); margin-top: var(--sp-2);">
+        Latest update: <a href="${data.html_url}" target="_blank" rel="noopener noreferrer" style="color: var(--clr-accent-cyan); text-decoration: none;">[${sha}] ${message}</a> (${date})
+      </p>
+    `;
+
+    containers.forEach(c => {
+      c.innerHTML = html;
+    });
+  } catch (error) {
+    console.error('Failed to fetch latest commit:', error);
+  }
 }
