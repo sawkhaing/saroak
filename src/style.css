@@ -1275,6 +1275,10 @@ body[data-theme="light"] .navbar.scrolled {
   background-repeat: no-repeat;
   background-position: right var(--sp-3) center;
   transition: border-color var(--duration-fast) ease;
+  max-width: 180px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .sort-select:focus {
