@@ -2159,6 +2159,10 @@ body[data-theme="light"] .navbar.scrolled {
     grid-template-columns: 1fr;
   }
 
+  .catalog-layout {
+    grid-template-columns: 1fr;
+  }
+
   /* Toolbar wrapping on mobile */
   .toolbar {
     flex-wrap: wrap;
@@ -2380,7 +2384,8 @@ body[data-theme="light"] .navbar.scrolled {
   display: none;
   align-items: center;
   justify-content: center;
-  padding: 0 var(--sp-3);
+  padding: var(--sp-2) var(--sp-3);
+  height: 100%;
   border-radius: var(--radius-md);
 }
 
@@ -2568,8 +2573,10 @@ body[data-theme="light"] .navbar.scrolled {
   z-index: 10;
 }
 
-.book-card:hover .book-card__overlay {
-  opacity: 1;
+@media (hover: hover) {
+  .book-card:hover .book-card__overlay {
+    opacity: 1;
+  }
 }
 
 .book-card__title {
