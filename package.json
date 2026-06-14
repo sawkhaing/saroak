@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "sync:books": "node scripts/sync-books.js",
+    "build": "npm run sync:books && vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
