@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="public/logo.png" alt="SarOak Logo" width="180" />
+</div>
+
 # SarOak — Myanmar Digital Library 📚
 
 SarOak is a fast, beautiful, and open-source digital library built to preserve and distribute Myanmar literature in the digital age. 
@@ -27,10 +31,9 @@ SarOak is a fast, beautiful, and open-source digital library built to preserve a
 
 ## 📖 Importing Books
 If you have a local directory of ebooks you'd like to import into the library:
-1. Open `import-books.js`.
-2. Update `sourceDir` to point to your local folder.
-3. Run `node import-books.js`.
-4. The script will automatically copy the books to `/public/books/` and update the `books-data.js` database!
+1. Drop your `.epub`, `.azw3`, or `.pdf` files into the `/public/books/` folder.
+2. Run `npm run sync:books`.
+3. The script will automatically clean the author names, intelligently assign AI categories, and update the `books-data.js` database! (Note: This also runs automatically before every build).
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues, submit pull requests, or share more open-source Myanmar literature to add to the library.
