@@ -20,6 +20,7 @@ const translations = {
     'hero.subtitle':
       'Your gateway to the finest Myanmar ebooks — read, download, and explore.',
     'hero.cta': 'Browse Books',
+    'hero.learnMore': 'Learn More',
     'hero.stats.books': 'Books',
     'hero.stats.authors': 'Authors',
     'hero.stats.readers': 'Readers',
@@ -93,6 +94,7 @@ const translations = {
     'hero.subtitle':
       'အကောင်းဆုံးမြန်မာ eBook များကို ဖတ်ရှု၊ ဒေါင်းလုဒ်လုပ်ပြီး စူးစမ်းလိုက်ပါ။',
     'hero.cta': 'စာအုပ်များ ကြည့်ရန်',
+    'hero.learnMore': 'ပိုမိုလေ့လာရန်',
     'hero.stats.books': 'စာအုပ်',
     'hero.stats.authors': 'စာရေးဆရာ',
     'hero.stats.readers': 'စာဖတ်သူ',
