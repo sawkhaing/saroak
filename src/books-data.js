@@ -5797,14 +5797,6 @@ export const books = [
 ];
 
 // Multiply the books to showcase multiple rows dynamically
-const originalCount = books.length;
-for (let i = 0; i < 4; i++) {
-  const copies = books.slice(0, originalCount).map(b => ({
-    ...b,
-    id: b.id + '-copy-' + i
-  }));
-  books.push(...copies);
-}
 // ── Category metadata ────────────────────────────────────────
 // Counts are derived from the books array above.
 export const categories = [

@@ -19,12 +19,14 @@ async function initBooksPage() {
   }
 
   renderCategoryFilters();
+  renderAuthorFilters();
   renderBooks();
   populateFooterCategories(categories);
   setupEventListeners();
 
   window.addEventListener('langchange', () => {
     renderCategoryFilters();
+    renderAuthorFilters();
     renderBooks();
     populateFooterCategories(categories);
   });
@@ -54,6 +56,43 @@ function renderCategoryFilters() {
       currentCategory = btn.dataset.category;
       container.querySelectorAll('.filter-chip').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
+      currentPage = 1;
+      renderBooks();
+    });
+  });
+}
+
+function renderAuthorFilters() {
+  const container = document.getElementById('authorFilters');
+  if (!container) return;
+
+  // Extract unique authors
+  const authorsSet = new Set();
+  books.forEach(b => {
+    if (b.author && b.author.en) {
+      authorsSet.add(b.author.en);
+    }
+  });
+
+  // Limit to top 10 authors to avoid massive sidebar, or just show all
+  const uniqueAuthors = Array.from(authorsSet).sort();
+
+  container.innerHTML = uniqueAuthors.map(author => `
+    <label class="checkbox-label">
+      <input type="checkbox" value="${author}" ${currentAuthors.includes(author) ? 'checked' : ''} /> 
+      <span class="checkbox-text">${author}</span>
+    </label>
+  `).join('');
+
+  // Add event listeners to the new checkboxes
+  const authorCheckboxes = container.querySelectorAll('input[type="checkbox"]');
+  authorCheckboxes.forEach(cb => {
+    cb.addEventListener('change', (e) => {
+      if (e.target.checked) {
+        currentAuthors.push(e.target.value);
+      } else {
+        currentAuthors = currentAuthors.filter(a => a !== e.target.value);
+      }
       currentPage = 1;
       renderBooks();
     });
@@ -219,20 +258,6 @@ function setupEventListeners() {
     currentSort = e.target.value;
     currentPage = 1;
     renderBooks();
-  });
-
-  // Authors Checkboxes
-  const authorCheckboxes = document.querySelectorAll('#authorFilters input[type="checkbox"]');
-  authorCheckboxes.forEach(cb => {
-    cb.addEventListener('change', (e) => {
-      if (e.target.checked) {
-        currentAuthors.push(e.target.value);
-      } else {
-        currentAuthors = currentAuthors.filter(a => a !== e.target.value);
-      }
-      currentPage = 1;
-      renderBooks();
-    });
   });
 
   // View Toggles

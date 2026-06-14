@@ -2323,6 +2323,17 @@ body[data-theme="light"] .navbar.scrolled {
   display: flex;
   flex-direction: column;
   gap: var(--sp-2);
+  max-height: 280px;
+  overflow-y: auto;
+  padding-right: var(--sp-2); /* For scrollbar */
+}
+
+.sidebar-list::-webkit-scrollbar {
+  width: 4px;
+}
+.sidebar-list::-webkit-scrollbar-thumb {
+  background: var(--clr-border);
+  border-radius: 4px;
 }
 
 .checkbox-label {
