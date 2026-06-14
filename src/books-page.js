@@ -58,6 +58,7 @@ function renderCategoryFilters() {
       btn.classList.add('active');
       currentPage = 1;
       renderBooks();
+      if (window.closeMobileFilters) window.closeMobileFilters();
     });
   });
 }
@@ -280,6 +281,31 @@ function setupEventListeners() {
       gridBtn.classList.remove('active');
     });
   }
+
+  // Mobile Filter Drawer Toggle
+  const mobileFilterBtn = document.getElementById('mobileFilterBtn');
+  const closeFilterBtn = document.getElementById('closeFilterBtn');
+  const catalogSidebar = document.getElementById('catalogSidebar');
+  const sidebarOverlay = document.getElementById('sidebarOverlay');
+
+  function openFilters() {
+    catalogSidebar?.classList.add('open');
+    sidebarOverlay?.classList.add('open');
+    document.body.style.overflow = 'hidden'; // Prevent background scrolling
+  }
+
+  function closeFilters() {
+    catalogSidebar?.classList.remove('open');
+    sidebarOverlay?.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  mobileFilterBtn?.addEventListener('click', openFilters);
+  closeFilterBtn?.addEventListener('click', closeFilters);
+  sidebarOverlay?.addEventListener('click', closeFilters);
+  
+  // Attach close function to window so we can call it when a filter is clicked
+  window.closeMobileFilters = closeFilters;
 }
 
 initBooksPage();
