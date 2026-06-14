@@ -2490,3 +2490,45 @@ html[lang="my"] .about-card-title {
   line-height: var(--lh-normal);
   padding-bottom: 0.1em; /* extra breathing room */
 }
+
+/* ── Pagination ── */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--sp-2);
+  margin-top: var(--sp-12);
+}
+
+.pagination-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 40px;
+  height: 40px;
+  padding: 0 var(--sp-3);
+  border: 1px solid var(--clr-border);
+  background: var(--clr-bg-card);
+  color: var(--clr-text-primary);
+  border-radius: var(--radius-md);
+  font-weight: var(--fw-medium);
+  cursor: pointer;
+  transition: all var(--duration-fast) ease;
+}
+
+.pagination-btn:hover:not(:disabled) {
+  border-color: var(--clr-accent-cyan);
+  background: rgba(0, 210, 255, 0.06);
+  color: var(--clr-accent-cyan);
+}
+
+.pagination-btn.active {
+  background: var(--clr-accent-cyan);
+  color: #000;
+  border-color: var(--clr-accent-cyan);
+}
+
+.pagination-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
