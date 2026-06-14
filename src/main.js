@@ -41,6 +41,19 @@ function renderFeaturedBooks() {
   if (!container) return;
   container.innerHTML = '';
 
+  // Update hero stats dynamically
+  const booksStat = document.querySelector('.hero__stat:nth-child(1) .hero__stat-value');
+  const authorsStat = document.querySelector('.hero__stat:nth-child(2) .hero__stat-value');
+  if (booksStat) booksStat.textContent = `${books.length}+`;
+  
+  if (authorsStat) {
+    const authorsSet = new Set();
+    books.forEach(b => {
+      if (b.author && b.author.en) authorsSet.add(b.author.en);
+    });
+    authorsStat.textContent = `${authorsSet.size}+`;
+  }
+
   // Fallback to slicing the first 4 books if none are explicitly featured
   let featured = books.filter(b => b.featured).slice(0, 4);
   if (featured.length === 0) {
