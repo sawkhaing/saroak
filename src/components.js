@@ -120,7 +120,7 @@ export function createCategoryCard(category) {
   const name = category.name[lang] || category.name.en;
 
   const card = document.createElement('a');
-  card.href      = `/books.html?category=${category.id}`;
+  card.href      = `/books.html?category=${encodeURIComponent(category.id)}`;
   card.className = 'category-card glass-card animate-on-scroll';
 
   card.innerHTML = `
@@ -145,7 +145,7 @@ export function populateFooterCategories(categories) {
   container.innerHTML = categories
     .map((cat) => {
       const name = cat.name[lang] || cat.name.en;
-      return `<li><a href="/books.html?category=${cat.id}" class="footer__link">${name}</a></li>`;
+      return `<li><a href="/books.html?category=${encodeURIComponent(cat.id)}" class="footer__link">${name}</a></li>`;
     })
     .join('');
 }
