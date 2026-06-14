@@ -6,7 +6,7 @@ SarOak is a fast, beautiful, and open-source digital library built to preserve a
 
 - **Bilingual Interface**: Seamlessly switch between English and Myanmar languages with custom typography settings to ensure perfect Burmese font rendering without clipping.
 - **Smart Book Importing**: Have a folder full of books? A custom Node script parses file names and automatically groups multiple ebook formats (EPUB, KFX, AZW3) for the same title into a unified catalog entry!
-- **Beautiful UI/UX**: Built with a sleek, responsive CSS Grid layout, a default dark mode, and premium glassmorphic UI elements.
+- **Beautiful UI/UX**: Built with a sleek, responsive CSS Grid layout, a modern flat aesthetic, and full Light/Dark mode support.
 - **Instant Client-Side Filtering**: Search, sort, and filter through the entire book collection instantly. Pagination ensures the UI stays snappy even with 1,000+ books.
 - **Zero Server Overhead**: The entire frontend is static. You can host this for free on Cloudflare Pages or GitHub Pages!
 
