@@ -47,43 +47,73 @@
     </div>
   </section>
 
-  <!-- Filter Bar -->
-  <section class="section" style="padding-top: 0;">
-    <div class="container">
-      <div class="filter-bar">
-        <div class="search-bar" style="flex: 1;">
-          <span class="search-bar__icon">🔍</span>
-          <input type="text" class="search-bar__input" id="searchInput" data-i18n-placeholder="filter.search" placeholder="Search books..." />
+  <!-- Catalog Layout -->
+  <section class="section">
+    <div class="container catalog-layout">
+      <!-- Sidebar -->
+      <aside class="catalog-sidebar">
+        <div class="sidebar-section">
+          <h3 class="sidebar-title" data-i18n="filter.categories">Categories</h3>
+          <div id="categoryFilters" class="sidebar-list">
+            <button class="filter-chip active" data-category="all" data-i18n="filter.all" style="width: 100%; text-align: left; justify-content: flex-start; margin-bottom: var(--sp-2);">All</button>
+            <!-- Categories populated by JS -->
+          </div>
         </div>
-        <div id="categoryFilters" style="display: flex; gap: var(--sp-2); flex-wrap: wrap;">
-          <button class="filter-chip active" data-category="all" data-i18n="filter.all">All</button>
-          <!-- Categories populated by JS -->
+        <div class="sidebar-section">
+          <h3 class="sidebar-title">Author</h3>
+          <div id="authorFilters" class="sidebar-list">
+            <!-- Static for prototype -->
+            <label class="checkbox-label"><input type="checkbox" value="Mya Thandar Win" /> Mya Thandar Win</label>
+            <label class="checkbox-label"><input type="checkbox" value="Kyaw Zin Htet" /> Kyaw Zin Htet</label>
+            <label class="checkbox-label"><input type="checkbox" value="Thiri Swe" /> Thiri Swe</label>
+          </div>
         </div>
-        <div style="display: flex; align-items: center; gap: var(--sp-2);">
-          <label data-i18n="filter.sortBy" style="font-size: var(--fs-sm); color: var(--clr-text-secondary);">Sort by</label>
-          <select class="sort-select" id="sortSelect">
-            <option value="newest" data-i18n="filter.newest">Newest</option>
-            <option value="popular" data-i18n="filter.popular">Popular</option>
-            <option value="title" data-i18n="filter.title">Title</option>
-          </select>
+      </aside>
+      
+      <!-- Main Content -->
+      <main class="catalog-main">
+        <!-- Toolbar -->
+        <div class="catalog-toolbar">
+          <div class="search-bar" style="flex: 1; max-width: 400px;">
+            <span class="search-bar__icon">🔍</span>
+            <input type="text" class="search-bar__input" id="searchInput" data-i18n-placeholder="filter.search" placeholder="Search books..." />
+          </div>
+          
+          <div class="toolbar-actions">
+            <div class="sort-control">
+              <label data-i18n="filter.sortBy" class="sort-label">Sort by:</label>
+              <select class="sort-select" id="sortSelect">
+                <option value="newest" data-i18n="filter.newest">Newest</option>
+                <option value="popular" data-i18n="filter.popular">Popular</option>
+                <option value="title" data-i18n="filter.title">Title</option>
+              </select>
+            </div>
+            
+            <div class="view-toggles">
+              <button class="view-toggle active" id="gridViewBtn" title="Grid View">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+              </button>
+              <button class="view-toggle" id="listViewBtn" title="List View">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
+              </button>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
-  </section>
 
-  <!-- Books Grid -->
-  <section class="section" style="padding-top: 0;">
-    <div class="container">
-      <div id="booksResults" style="margin-bottom: var(--sp-6);">
-        <p id="resultsCount" style="color: var(--clr-text-secondary);"></p>
-      </div>
-      <div class="grid-auto-fill" id="booksGrid">
-        <!-- Populated by JS -->
-      </div>
-      <div class="glass-card hidden" id="noResults" style="text-align: center; padding: var(--sp-12);">
-        <span style="font-size: var(--fs-3xl); display: block; margin-bottom: var(--sp-4);">📭</span>
-        <p style="color: var(--clr-text-secondary);">No books found matching your search.</p>
-      </div>
+        <!-- Books Grid -->
+        <div id="booksResults" style="margin-bottom: var(--sp-6);">
+          <p id="resultsCount" style="color: var(--clr-text-secondary);"></p>
+        </div>
+        
+        <div class="grid-auto-fill" id="booksGrid">
+          <!-- Populated by JS -->
+        </div>
+        
+        <div class="glass-card hidden" id="noResults" style="text-align: center; padding: var(--sp-12);">
+          <span style="font-size: var(--fs-3xl); display: block; margin-bottom: var(--sp-4);">📭</span>
+          <p style="color: var(--clr-text-secondary);">No books found matching your search.</p>
+        </div>
+      </main>
     </div>
   </section>
 

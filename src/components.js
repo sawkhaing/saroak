@@ -66,6 +66,7 @@ export function generateCoverSVG(book) {
 export function createBookCard(book) {
   const lang     = getCurrentLang();
   const title    = book.title[lang]  || book.title.en;
+  const author   = book.author[lang] || book.author.en;
   const coverSrc = generateCoverSVG(book);
 
   const card = document.createElement('div');
@@ -74,12 +75,14 @@ export function createBookCard(book) {
   card.dataset.bookId   = book.id;
 
   card.innerHTML = `
-    <a href="/book-detail.html?id=${book.id}" class="book-card-link" style="text-decoration:none;color:inherit;display:flex;flex-direction:column;align-items:center;height:100%">
+    <a href="/book-detail.html?id=${book.id}" class="book-card-link" style="text-decoration:none;color:inherit;display:block;height:100%">
       <div class="book-card__cover">
         <img src="${coverSrc}" alt="${title}" loading="lazy" />
-      </div>
-      <div class="book-card__body">
-        <h3 class="book-card__title">${title}</h3>
+        <div class="book-card__overlay">
+          <h3 class="book-card__title">${title}</h3>
+          <p class="book-card__author">${author}</p>
+          <span class="btn-view-details" data-i18n="book.viewDetails">View Details</span>
+        </div>
       </div>
     </a>
   `;
