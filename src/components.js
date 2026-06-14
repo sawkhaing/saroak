@@ -305,7 +305,7 @@ async function fetchLatestCommit() {
     
     const html = `
       <p style="font-size: var(--fs-xs); color: var(--clr-text-secondary); margin-top: var(--sp-2);">
-        Latest update: <a href="${data.html_url}" target="_blank" rel="noopener noreferrer" style="color: var(--clr-accent-cyan); text-decoration: none;">[${sha}] ${message}</a> (${date})
+        Latest update: <a href="${data.html_url}" target="_blank" rel="noopener noreferrer" style="color: var(--clr-accent-cyan); text-decoration: none;">[${sha}]</a> (${date})
       </p>
     `;
 
