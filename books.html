@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Browse and download Myanmar ebooks. Filter by category, search by title or author." />
+  <title>Books - SarOak | စာအုပ်များ</title>
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+Myanmar:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body data-theme="dark">
+  <!-- Navigation -->
+  <nav class="navbar" id="navbar">
+    <div class="container" style="display: flex; align-items: center; justify-content: space-between; height: 100%;">
+      <a href="/" class="navbar__logo">
+        <span class="navbar__logo-icon">📚</span>
+        <span>Sar<span style="color: var(--clr-accent-cyan)">Oak</span></span>
+      </a>
+      <div class="navbar__links" id="navLinks">
+        <a href="/" class="navbar__link" data-i18n="nav.home">Home</a>
+        <a href="/books.html" class="navbar__link active" data-i18n="nav.books">Books</a>
+        <a href="/about.html" class="navbar__link" data-i18n="nav.about">About</a>
+      </div>
+      <div class="navbar__actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+          <span class="theme-icon">🌙</span>
+        </button>
+        <div class="lang-toggle" id="langToggle">
+          <button class="lang-toggle__btn active" data-lang="en">EN</button>
+          <button class="lang-toggle__btn" data-lang="mm">မြ</button>
+        </div>
+        <button class="navbar__hamburger" id="navHamburger" aria-label="Toggle menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <section class="page-header">
+    <div class="container">
+      <div class="section-header">
+        <h1 class="section-header__title" data-i18n="nav.books">Books</h1>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filter Bar -->
+  <section class="section" style="padding-top: 0;">
+    <div class="container">
+      <div class="filter-bar">
+        <div class="search-bar" style="flex: 1;">
+          <span class="search-bar__icon">🔍</span>
+          <input type="text" class="search-bar__input" id="searchInput" data-i18n-placeholder="filter.search" placeholder="Search books..." />
+        </div>
+        <div id="categoryFilters" style="display: flex; gap: var(--sp-2); flex-wrap: wrap;">
+          <button class="filter-chip active" data-category="all" data-i18n="filter.all">All</button>
+          <!-- Categories populated by JS -->
+        </div>
+        <div style="display: flex; align-items: center; gap: var(--sp-2);">
+          <label data-i18n="filter.sortBy" style="font-size: var(--fs-sm); color: var(--clr-text-secondary);">Sort by</label>
+          <select class="sort-select" id="sortSelect">
+            <option value="newest" data-i18n="filter.newest">Newest</option>
+            <option value="popular" data-i18n="filter.popular">Popular</option>
+            <option value="title" data-i18n="filter.title">Title</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Books Grid -->
+  <section class="section" style="padding-top: 0;">
+    <div class="container">
+      <div id="booksResults" style="margin-bottom: var(--sp-6);">
+        <p id="resultsCount" style="color: var(--clr-text-secondary);"></p>
+      </div>
+      <div class="grid-auto-fill" id="booksGrid">
+        <!-- Populated by JS -->
+      </div>
+      <div class="glass-card hidden" id="noResults" style="text-align: center; padding: var(--sp-12);">
+        <span style="font-size: var(--fs-3xl); display: block; margin-bottom: var(--sp-4);">📭</span>
+        <p style="color: var(--clr-text-secondary);">No books found matching your search.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer" id="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div class="footer__brand">
+          <a href="/" class="footer__logo">
+            <span class="footer__logo-icon">📚</span>
+            <span>Sar<span style="color: var(--clr-accent-cyan)">Oak</span></span>
+          </a>
+          <p class="footer__desc" data-i18n="footer.description">Your digital library for Myanmar literature.</p>
+          <div class="footer__social">
+            <a href="#" class="footer__social-link">📘</a>
+            <a href="#" class="footer__social-link">💬</a>
+            <a href="#" class="footer__social-link">💻</a>
+          </div>
+        </div>
+        <div>
+          <h3 class="footer__col-title" data-i18n="footer.quickLinks">Quick Links</h3>
+          <ul class="footer__links">
+            <li><a href="/" class="footer__link" data-i18n="nav.home">Home</a></li>
+            <li><a href="/books.html" class="footer__link" data-i18n="nav.books">Books</a></li>
+            <li><a href="/about.html" class="footer__link" data-i18n="nav.about">About</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3 class="footer__col-title" data-i18n="footer.categories">Categories</h3>
+          <ul class="footer__links" id="footerCategories"></ul>
+        </div>
+        <div>
+          <h3 class="footer__col-title" data-i18n="footer.connect">Connect</h3>
+          <ul class="footer__links">
+            <li><a href="#" class="footer__link">Facebook</a></li>
+            <li><a href="#" class="footer__link">Telegram</a></li>
+            <li><a href="#" class="footer__link">GitHub</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <p data-i18n="footer.rights">© 2024 SarOak. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script type="module" src="/src/books-page.js"></script>
+</body>
+</html>

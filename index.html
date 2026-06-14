@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="SarOak - Discover the finest Myanmar ebooks. Read, download, and explore Myanmar literature online for free." />
+  <meta name="keywords" content="Myanmar ebooks, Myanmar literature, free ebooks, စာအုပ်, မြန်မာစာအုပ်" />
+  <meta name="author" content="SarOak" />
+  <meta property="og:title" content="SarOak - Myanmar Digital Library" />
+  <meta property="og:description" content="Discover the finest Myanmar ebooks. Read, download, and explore Myanmar literature online for free." />
+  <meta property="og:type" content="website" />
+  <title>SarOak - Myanmar Digital Library | မြန်မာဒစ်ဂျစ်တယ်စာကြည့်တိုက်</title>
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+Myanmar:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body data-theme="dark">
+  <!-- ════════════════════════════════════════════════════════════
+       NAVIGATION
+       ════════════════════════════════════════════════════════════ -->
+  <nav class="navbar" id="navbar">
+    <div class="container" style="display: flex; align-items: center; justify-content: space-between; height: 100%;">
+      <a href="/" class="navbar__logo">
+        <span class="navbar__logo-icon">📚</span>
+        <span>Sar<span style="color: var(--clr-accent-cyan)">Oak</span></span>
+      </a>
+      <div class="navbar__links" id="navLinks">
+        <a href="/" class="navbar__link active" data-i18n="nav.home">Home</a>
+        <a href="/books.html" class="navbar__link" data-i18n="nav.books">Books</a>
+        <a href="/about.html" class="navbar__link" data-i18n="nav.about">About</a>
+      </div>
+      <div class="navbar__actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+          <span class="theme-icon">🌙</span>
+        </button>
+        <div class="lang-toggle" id="langToggle">
+          <button class="lang-toggle__btn active" data-lang="en">EN</button>
+          <button class="lang-toggle__btn" data-lang="mm">မြ</button>
+        </div>
+        <button class="navbar__hamburger" id="navHamburger" aria-label="Toggle menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Mobile nav drawer -->
+  <div class="navbar__mobile-menu" id="mobileMenu">
+    <a href="/" class="navbar__link active" data-i18n="nav.home">Home</a>
+    <a href="/books.html" class="navbar__link" data-i18n="nav.books">Books</a>
+    <a href="/about.html" class="navbar__link" data-i18n="nav.about">About</a>
+  </div>
+
+  <!-- ════════════════════════════════════════════════════════════
+       HERO SECTION
+       ════════════════════════════════════════════════════════════ -->
+  <section class="hero" id="hero">
+    <div class="hero__particles">
+      <div class="hero__particle"></div>
+      <div class="hero__particle"></div>
+      <div class="hero__particle"></div>
+      <div class="hero__particle"></div>
+    </div>
+    <div class="hero__content">
+      <h1 class="hero__title" data-i18n="hero.title">
+        Discover <span class="text-gradient">Myanmar</span> Literature
+      </h1>
+      <p class="hero__subtitle" data-i18n="hero.subtitle">
+        Your gateway to the finest Myanmar ebooks — read, download, and explore a world of stories, knowledge, and inspiration.
+      </p>
+      <div class="hero__actions">
+        <a href="/books.html" class="btn btn--primary btn--lg" data-i18n="hero.cta">Browse Books</a>
+        <a href="/about.html" class="btn btn--secondary btn--lg" data-i18n="hero.learnMore">Learn More</a>
+      </div>
+      <div class="hero__stats">
+        <div class="hero__stat">
+          <span class="hero__stat-value">500+</span>
+          <span class="hero__stat-label" data-i18n="hero.stats.books">Books</span>
+        </div>
+        <div class="hero__stat">
+          <span class="hero__stat-value">120+</span>
+          <span class="hero__stat-label" data-i18n="hero.stats.authors">Authors</span>
+        </div>
+        <div class="hero__stat">
+          <span class="hero__stat-value">10K+</span>
+          <span class="hero__stat-label" data-i18n="hero.stats.readers">Readers</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════
+       FEATURED BOOKS
+       ════════════════════════════════════════════════════════════ -->
+  <section class="section" id="featuredSection">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <h2 class="section-header__title" data-i18n="section.featured">Featured Books</h2>
+        </div>
+        <a href="/books.html" class="section-header__link" data-i18n="common.viewAll">
+          View All →
+        </a>
+      </div>
+      <div class="grid grid-auto-fill stagger-children" id="featuredBooks">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════
+       CATEGORIES
+       ════════════════════════════════════════════════════════════ -->
+  <section class="section section--alt" id="categoriesSection">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <h2 class="section-header__title" data-i18n="section.categories">Browse by Category</h2>
+        </div>
+      </div>
+      <div class="grid grid-auto-fill stagger-children" id="categoriesGrid">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════
+       RECENTLY ADDED
+       ════════════════════════════════════════════════════════════ -->
+  <section class="section" id="recentSection">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <h2 class="section-header__title" data-i18n="section.recent">Recently Added</h2>
+        </div>
+        <a href="/books.html" class="section-header__link" data-i18n="common.viewAll">
+          View All →
+        </a>
+      </div>
+      <div class="grid grid-auto-fill stagger-children" id="recentBooks">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════
+       NEWSLETTER
+       ════════════════════════════════════════════════════════════ -->
+  <section class="newsletter" id="newsletterSection">
+    <div class="newsletter__bg"></div>
+    <div class="newsletter__content">
+      <h2 class="newsletter__title" data-i18n="section.newsletter">Stay Updated</h2>
+      <p class="newsletter__desc" data-i18n="section.newsletter.desc">
+        Subscribe to get notified about new books and updates.
+      </p>
+      <form class="newsletter__form" id="newsletterForm">
+        <input
+          type="email"
+          class="newsletter__input"
+          placeholder="Enter your email"
+          data-i18n-placeholder="newsletter.placeholder"
+          required
+        />
+        <button type="submit" class="btn btn--primary" data-i18n="newsletter.subscribe">Subscribe</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════
+       FOOTER
+       ════════════════════════════════════════════════════════════ -->
+  <footer class="footer" id="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div class="footer__brand">
+          <a href="/" class="footer__logo">
+            <span class="footer__logo-icon">📚</span>
+            Sar<span class="text-gradient">Oak</span>
+          </a>
+          <p class="footer__desc" data-i18n="footer.description">
+            Your digital library for Myanmar literature. Free, open-source, and community-driven.
+          </p>
+        </div>
+        <div>
+          <h4 class="footer__col-title" data-i18n="footer.quickLinks">Quick Links</h4>
+          <ul class="footer__links">
+            <li><a href="/" class="footer__link" data-i18n="nav.home">Home</a></li>
+            <li><a href="/books.html" class="footer__link" data-i18n="nav.books">Books</a></li>
+            <li><a href="/about.html" class="footer__link" data-i18n="nav.about">About</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="footer__col-title" data-i18n="footer.categories">Categories</h4>
+          <ul class="footer__links" id="footerCategories">
+            <!-- Populated by JS -->
+          </ul>
+        </div>
+        <div>
+          <h4 class="footer__col-title" data-i18n="footer.connect">Connect</h4>
+          <ul class="footer__links">
+            <li><a href="#" class="footer__link">Facebook</a></li>
+            <li><a href="#" class="footer__link">Telegram</a></li>
+            <li><a href="#" class="footer__link">GitHub</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <p data-i18n="footer.rights">© 2024 SarOak. All rights reserved.</p>
+        <p data-i18n="footer.madeWith">Made with ❤️ for Myanmar readers</p>
+      </div>
+    </div>
+  </footer>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
