@@ -14,7 +14,7 @@ export const books = [
       "mm": "Noriko Otsu",
       "en": "Noriko Otsu"
     },
-    "category": "non-fiction",
+    "category": "Translated",
     "coverColor": "hsl(53, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -41,10 +41,10 @@ export const books = [
       "en": "ကင်မလီ"
     },
     "author": {
-      "mm": "မောင်ထွန်းသူ",
-      "en": "မောင်ထွန်းသူ"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "biography",
+    "category": "Translated",
     "coverColor": "hsl(138, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -67,10 +67,10 @@ export const books = [
       "en": "ကမ္ဘာ့စာပေ"
     },
     "author": {
-      "mm": "တစေ့တစောင်း နတ်နွယ်",
-      "en": "တစေ့တစောင်း နတ်နွယ်"
+      "mm": "နတ်နွယ် (Nat Nwe)",
+      "en": "နတ်နွယ် (Nat Nwe)"
     },
-    "category": "history",
+    "category": "History",
     "coverColor": "hsl(182, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -93,10 +93,10 @@ export const books = [
       "en": "ကယ်တင်ရှင် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(295, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -119,10 +119,10 @@ export const books = [
       "en": "ကာမင်း"
     },
     "author": {
-      "mm": "မောင်ထွန်းသူ",
-      "en": "မောင်ထွန်းသူ"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "history",
+    "category": "Translated",
     "coverColor": "hsl(188, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -145,10 +145,10 @@ export const books = [
       "en": "ကာလနာသာ တရားခံ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(126, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -171,10 +171,10 @@ export const books = [
       "en": "ကာလနာသာတရားခံ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(274, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -197,10 +197,10 @@ export const books = [
       "en": "ကားမှတ်တိုင်မှစကားသံ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(316, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -223,10 +223,10 @@ export const books = [
       "en": "ကိုခြောက်ချက်၏ ဒဿန မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(285, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -249,10 +249,10 @@ export const books = [
       "en": "ကိုနှံကောင်၏ဆောင်းရာသီ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(200, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -275,10 +275,10 @@ export const books = [
       "en": "ကိုယ့်ဘာသာ ကိုယ်ဝတာ ဘာဖြစ်လဲ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(41, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -301,10 +301,10 @@ export const books = [
       "en": "ကိုယ် ဘာမှမတတ်နိုင်တဲ့အခါ လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(277, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -327,10 +327,10 @@ export const books = [
       "en": "ကော်ဖီသောက်သူများ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(55, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -353,10 +353,10 @@ export const books = [
       "en": "ကြက်ဈေး "
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(219, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -379,10 +379,10 @@ export const books = [
       "en": "ကြက်သွန်ကြော်လုပ်ငန်း Ludu"
     },
     "author": {
-      "mm": "Daw Amar",
-      "en": "Daw Amar"
+      "mm": "လူထုဒေါ်အမာ (Ludu Daw Amar)",
+      "en": "လူထုဒေါ်အမာ (Ludu Daw Amar)"
     },
-    "category": "non-fiction",
+    "category": "Non-Fiction",
     "coverColor": "hsl(315, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -405,10 +405,10 @@ export const books = [
       "en": "ကြယ်ကြွေတို့ရဲ့ အတောင်ပံ"
     },
     "author": {
-      "mm": "ဂျူး Juu",
-      "en": "ဂျူး Juu"
+      "mm": "ဂျူး (Juu)",
+      "en": "ဂျူး (Juu)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(206, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -431,10 +431,10 @@ export const books = [
       "en": "ကြားလိုက်ရသောကြောင့် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(134, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -457,10 +457,10 @@ export const books = [
       "en": "ကြောက်လို့ရယ် မဟုတ်ပါဘူး မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(180, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -483,10 +483,10 @@ export const books = [
       "en": "ကွက်လပ်ကလေးဖြည့်ပေးပါ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(290, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -509,10 +509,10 @@ export const books = [
       "en": "ခတ္တာပွင့်ချိန် Ludu"
     },
     "author": {
-      "mm": "Daw Amar",
-      "en": "Daw Amar"
+      "mm": "လူထုဒေါ်အမာ (Ludu Daw Amar)",
+      "en": "လူထုဒေါ်အမာ (Ludu Daw Amar)"
     },
-    "category": "translated",
+    "category": "Non-Fiction",
     "coverColor": "hsl(71, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -535,10 +535,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "ခိုးခိုးခစ်ခစ် မင်းလူ",
-      "en": "ခိုးခိုးခစ်ခစ် မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "fiction",
+    "category": "Humor & Satire",
     "coverColor": "hsl(183, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -561,10 +561,10 @@ export const books = [
       "en": "ခေတ်ရယ် အချစ်ရယ် စံပယ်ဖြူနု Sabal"
     },
     "author": {
-      "mm": "Phyu Nu",
-      "en": "Phyu Nu"
+      "mm": "စံပယ်ဖြူနု (Sabal Phyu Nu)",
+      "en": "စံပယ်ဖြူနု (Sabal Phyu Nu)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(157, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -587,10 +587,10 @@ export const books = [
       "en": "ခေါင်းခါပြလိုက်ပြီ မြသန်းတင့် Mya"
     },
     "author": {
-      "mm": "Than Tint",
-      "en": "Than Tint"
+      "mm": "မြသန်းတင့် (Mya Than Tint)",
+      "en": "မြသန်းတင့် (Mya Than Tint)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(266, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -613,10 +613,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "ခေါင်းလောင်းထိုးသောလူတယောက် မင်းလူ",
-      "en": "ခေါင်းလောင်းထိုးသောလူတယောက် မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "history",
+    "category": "Humor & Satire",
     "coverColor": "hsl(60, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -639,10 +639,10 @@ export const books = [
       "en": "ချာလီ"
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(180, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -665,10 +665,10 @@ export const books = [
       "en": "ခြစ်ဒုက္ခ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(246, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -691,10 +691,10 @@ export const books = [
       "en": "ဂျာအေးကိုရိုက်ပါလို့ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(74, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -717,10 +717,10 @@ export const books = [
       "en": "ဂျီဟောသူ"
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(287, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -743,10 +743,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "ဂျူးမကလေးအီဗာ လင်းယုန်မောင်မောင်",
-      "en": "ဂျူးမကလေးအီဗာ လင်းယုန်မောင်မောင်"
+      "mm": "ဂျူး (Juu)",
+      "en": "ဂျူး (Juu)"
     },
-    "category": "fiction",
+    "category": "Translated",
     "coverColor": "hsl(122, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -769,10 +769,10 @@ export const books = [
       "en": "ငဘ --- မောင်ထင်"
     },
     "author": {
-      "mm": "Mg Htin",
-      "en": "Mg Htin"
+      "mm": "မောင်ထင် (Mg Htin)",
+      "en": "မောင်ထင် (Mg Htin)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(341, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -795,10 +795,10 @@ export const books = [
       "en": "ငယ်သူမို့ မသိပါ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(214, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -821,10 +821,10 @@ export const books = [
       "en": "ငါ့ဓား ငါ့သွေး ငါ့ဧရာဝတီ"
     },
     "author": {
-      "mm": "နန္ဒ Nanda",
-      "en": "နန္ဒ Nanda"
+      "mm": "နန္ဒ (Nanda)",
+      "en": "နန္ဒ (Nanda)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(5, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -855,10 +855,10 @@ export const books = [
       "en": "ငါးကင်စားသူများ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(36, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -881,10 +881,10 @@ export const books = [
       "en": "ငါးကျပ်တန်တစ်ရွက်"
     },
     "author": {
-      "mm": "နီကိုရဲ Nikoye",
-      "en": "နီကိုရဲ Nikoye"
+      "mm": "နီကိုရဲ (Ni Ko Ye)",
+      "en": "နီကိုရဲ (Ni Ko Ye)"
     },
-    "category": "translated",
+    "category": "Humor & Satire",
     "coverColor": "hsl(273, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -907,10 +907,10 @@ export const books = [
       "en": "ငါးပုတ်သင် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(353, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -933,10 +933,10 @@ export const books = [
       "en": "ငါးမူး တစ်ကျပ် ပေးရတယ် မင်းလူ"
     },
     "author": {
-      "mm": "Min Lu",
-      "en": "Min Lu"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "fiction",
+    "category": "Humor & Satire",
     "coverColor": "hsl(260, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -959,10 +959,10 @@ export const books = [
       "en": "ငွေစက္ကူများ လူများ လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(100, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -985,10 +985,10 @@ export const books = [
       "en": "ငှက်ကလေး"
     },
     "author": {
-      "mm": "မင်းလူ",
-      "en": "မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "fiction",
+    "category": "Humor & Satire",
     "coverColor": "hsl(131, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1011,10 +1011,10 @@ export const books = [
       "en": "စက်ဝိုင်း မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(350, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1037,10 +1037,10 @@ export const books = [
       "en": "စင်ပေါ်ကအပျိုကြီး လမင်းမိုမို La Min"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(235, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1063,10 +1063,10 @@ export const books = [
       "en": "စည်းကြိုးနှင့် ကြက်တောင် ထင်လင်း"
     },
     "author": {
-      "mm": "Htin Lin",
-      "en": "Htin Lin"
+      "mm": "ထင်လင်း (Htin Lin)",
+      "en": "ထင်လင်း (Htin Lin)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(191, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1089,10 +1089,10 @@ export const books = [
       "en": "စာအုပ်ပိုး ဖေမြင့်"
     },
     "author": {
-      "mm": "Phae Myint",
-      "en": "Phae Myint"
+      "mm": "ဖေမြင့် (Phae Myint)",
+      "en": "ဖေမြင့် (Phae Myint)"
     },
-    "category": "poetry",
+    "category": "Non-Fiction",
     "coverColor": "hsl(16, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1115,10 +1115,10 @@ export const books = [
       "en": "စိတ္တဇ မောင်မိုးသူ Mg"
     },
     "author": {
-      "mm": "Moe Thu",
-      "en": "Moe Thu"
+      "mm": "မောင်မိုးသူ (Mg Moe Thu)",
+      "en": "မောင်မိုးသူ (Mg Moe Thu)"
     },
-    "category": "poetry",
+    "category": "Mystery & Detective",
     "coverColor": "hsl(264, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1149,10 +1149,10 @@ export const books = [
       "en": "စိတ်အိုင်ပက်သူ နီကိုရဲ Ni"
     },
     "author": {
-      "mm": "Ko Ye",
-      "en": "Ko Ye"
+      "mm": "နီကိုရဲ (Ni Ko Ye)",
+      "en": "နီကိုရဲ (Ni Ko Ye)"
     },
-    "category": "poetry",
+    "category": "Humor & Satire",
     "coverColor": "hsl(145, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1175,10 +1175,10 @@ export const books = [
       "en": "စီးဆင်းနေသော မြစ်များ ယဉ်ယဉ်နုမန္တလေး Yin Yin"
     },
     "author": {
-      "mm": "Nu Mdy",
-      "en": "Nu Mdy"
+      "mm": "ယဉ်ယဉ်နု (Yin Yin Nu)",
+      "en": "ယဉ်ယဉ်နု (Yin Yin Nu)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(156, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1201,10 +1201,10 @@ export const books = [
       "en": "စီးဆင်းလာသော ပုတ္တောဝါဒ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(160, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1227,10 +1227,10 @@ export const books = [
       "en": "စောင်းကြိုးတင်းသည့် သီချင်းသံ ထင်လင်း"
     },
     "author": {
-      "mm": "Htin Lin",
-      "en": "Htin Lin"
+      "mm": "ထင်လင်း (Htin Lin)",
+      "en": "ထင်လင်း (Htin Lin)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(350, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1253,10 +1253,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "ဆင်ကုန်သည် မောင်ထွန်းသူ",
-      "en": "ဆင်ကုန်သည် မောင်ထွန်းသူ"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "non-fiction",
+    "category": "Translated",
     "coverColor": "hsl(149, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1279,10 +1279,10 @@ export const books = [
       "en": "ဆားပုလင်းနှင်းမောင်နှင့် မြကျွန်းသာပေါ်က မျောက်သုံးကောင်"
     },
     "author": {
-      "mm": "Min Thein",
-      "en": "Min Thein"
+      "mm": "မင်းသိင်္ခ (Min Thein Kha)",
+      "en": "မင်းသိင်္ခ (Min Thein Kha)"
     },
-    "category": "history",
+    "category": "Mystery & Detective",
     "coverColor": "hsl(137, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1309,10 +1309,10 @@ export const books = [
       "en": "ဆားဖျက်လေတယ် ဆင်ဖြူကျွန်းအောင်သိန်း Sin Phyu Kyon"
     },
     "author": {
-      "mm": "Aung Thein",
-      "en": "Aung Thein"
+      "mm": "ဆင်ဖြူကျွန်းအောင်သိန်း (Aung Thein)",
+      "en": "ဆင်ဖြူကျွန်းအောင်သိန်း (Aung Thein)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(59, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1335,10 +1335,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "ဇစ်မြစ် မောင်ထွန်းသူ",
-      "en": "ဇစ်မြစ် မောင်ထွန်းသူ"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "non-fiction",
+    "category": "Translated",
     "coverColor": "hsl(44, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1361,10 +1361,10 @@ export const books = [
       "en": "ညဉ့်မှောင်ရိပ်မှ ဖန်မီးအိမ်"
     },
     "author": {
-      "mm": "ဇင်သန့် ဘာသာပြန်",
-      "en": "ဇင်သန့် ဘာသာပြန်"
+      "mm": "ဇင်သန့် (Zin Thant)",
+      "en": "ဇင်သန့် (Zin Thant)"
     },
-    "category": "fiction",
+    "category": "Translated",
     "coverColor": "hsl(80, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1391,10 +1391,10 @@ export const books = [
       "en": "တက္ကသိုလ်ကျောင်းသားတဦး ဝင်းဦး"
     },
     "author": {
-      "mm": "Win Oo",
-      "en": "Win Oo"
+      "mm": "ဝင်းဦး (Win Oo)",
+      "en": "ဝင်းဦး (Win Oo)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(94, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1421,10 +1421,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "တကွေ့ကွေတော့တွေ့ကြဦးမည် နတ်နွယ်",
-      "en": "တကွေ့ကွေတော့တွေ့ကြဦးမည် နတ်နွယ်"
+      "mm": "နတ်နွယ် (Nat Nwe)",
+      "en": "နတ်နွယ် (Nat Nwe)"
     },
-    "category": "biography",
+    "category": "History",
     "coverColor": "hsl(294, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1447,10 +1447,10 @@ export const books = [
       "en": "တမလွန်သို့ ပေးစာတစ်စောင် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar-copy1",
-      "en": "Ma Sandar-copy1"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(265, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1473,10 +1473,10 @@ export const books = [
       "en": "တမလွန်သို့ ပေးစာတစ်စောင် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(289, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1499,10 +1499,10 @@ export const books = [
       "en": "တယ်လီဖုန်း လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(208, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1525,10 +1525,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "တိမ်ဖုံးပါလို့လမသာ မစန္ဒာ",
-      "en": "တိမ်ဖုံးပါလို့လမသာ မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(285, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1551,10 +1551,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "တို့ပိုင်တဲ့မြေ မောင်ထွန်းသူ",
-      "en": "တို့ပိုင်တဲ့မြေ မောင်ထွန်းသူ"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "fiction",
+    "category": "Translated",
     "coverColor": "hsl(154, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1577,10 +1577,10 @@ export const books = [
       "en": "တို့ဘဝ တို့ ကမ္ဘာ မောင်ထွန်းသူ Mg"
     },
     "author": {
-      "mm": "Htun Thu",
-      "en": "Htun Thu"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "history",
+    "category": "Translated",
     "coverColor": "hsl(44, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1603,10 +1603,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "တို့ယာမြေ မောင်ထွန်းသူ",
-      "en": "တို့ယာမြေ မောင်ထွန်းသူ"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "fiction",
+    "category": "Translated",
     "coverColor": "hsl(56, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1629,10 +1629,10 @@ export const books = [
       "en": "တီဗွီနာ "
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(270, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1655,10 +1655,10 @@ export const books = [
       "en": "တီရွာ မောင်ထွန်းသူ Mg"
     },
     "author": {
-      "mm": "Htun Thu",
-      "en": "Htun Thu"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "poetry",
+    "category": "Translated",
     "coverColor": "hsl(348, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1681,10 +1681,10 @@ export const books = [
       "en": "တီရှာ မောင်ထွန်းသူ Mg"
     },
     "author": {
-      "mm": "Htun Thu",
-      "en": "Htun Thu"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "fiction",
+    "category": "Translated",
     "coverColor": "hsl(85, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1711,10 +1711,10 @@ export const books = [
       "en": "ထိုနေ့က ကားကျပ်သည်။ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(84, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1737,10 +1737,10 @@ export const books = [
       "en": "ထိုနေ့က တက်သောကြောင့် ကျသည် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(165, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1763,10 +1763,10 @@ export const books = [
       "en": "ထိုနေ့က မီးမလာပါ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(166, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1789,10 +1789,10 @@ export const books = [
       "en": "ထီး"
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(222, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1815,10 +1815,10 @@ export const books = [
       "en": "ဒါတော့ သိဘူးလေ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(6, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1841,10 +1841,10 @@ export const books = [
       "en": "ဒီနားခဏ မောင်ဝဏ္ဏ"
     },
     "author": {
-      "mm": "Mg Wanna",
-      "en": "Mg Wanna"
+      "mm": "မောင်ဝဏ္ဏ (Mg Wanna)",
+      "en": "မောင်ဝဏ္ဏ (Mg Wanna)"
     },
-    "category": "poetry",
+    "category": "Humor & Satire",
     "coverColor": "hsl(56, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1867,10 +1867,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "ဒေဝတာမြို့တော် မင်းလူ",
-      "en": "ဒေဝတာမြို့တော် မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "poetry",
+    "category": "Humor & Satire",
     "coverColor": "hsl(12, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1893,10 +1893,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "ဒေါသမာန် မောင်ထွန်းသူ",
-      "en": "ဒေါသမာန် မောင်ထွန်းသူ"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "translated",
+    "category": "Translated",
     "coverColor": "hsl(33, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1919,10 +1919,10 @@ export const books = [
       "en": "နဂါးမျက်စောင်း မင်းခိုက်စိုးစံ Min Khite"
     },
     "author": {
-      "mm": "Soe San",
-      "en": "Soe San"
+      "mm": "မင်းခိုက်စိုးစန် (Min Khite Soe San)",
+      "en": "မင်းခိုက်စိုးစန် (Min Khite Soe San)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(276, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1945,10 +1945,10 @@ export const books = [
       "en": "နာမည်တစ်လုံးနှင့်လူ မင်းလူ"
     },
     "author": {
-      "mm": "Min Lu",
-      "en": "Min Lu"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "history",
+    "category": "Humor & Satire",
     "coverColor": "hsl(76, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1971,10 +1971,10 @@ export const books = [
       "en": "နေရိပ်လွတ်သော ပန်းကလေး လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(45, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -1997,10 +1997,10 @@ export const books = [
       "en": "နောက်ဆုံးကျတော့ ကျော်ဟိန်းက ကျော်ဟိန်းပါပဲ မောင်သာရ Maung"
     },
     "author": {
-      "mm": "Thar Ya",
-      "en": "Thar Ya"
+      "mm": "မောင်သာရ (Mg Thar Ya)",
+      "en": "မောင်သာရ (Mg Thar Ya)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(91, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2027,10 +2027,10 @@ export const books = [
       "en": "နောက်ဆုံးလို့ နှုတ်မဆက်ခင်မှာ မိချမ်းဝေ Mi"
     },
     "author": {
-      "mm": "Chan Wai",
-      "en": "Chan Wai"
+      "mm": "မိချမ်းဝေ (Mi Chan Wai)",
+      "en": "မိချမ်းဝေ (Mi Chan Wai)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(25, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2053,10 +2053,10 @@ export const books = [
       "en": "နေ့တိုင်း အောင်မြင်လို့ ရပါတယ် လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(330, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2079,10 +2079,10 @@ export const books = [
       "en": "နှင့်"
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(331, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2105,10 +2105,10 @@ export const books = [
       "en": "နှစ်ကိုယ်ခွဲ"
     },
     "author": {
-      "mm": "Min Lu",
-      "en": "Min Lu"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "biography",
+    "category": "Humor & Satire",
     "coverColor": "hsl(116, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2131,10 +2131,10 @@ export const books = [
       "en": "နှစ်ဆယ့်တစ်ရာစုအကြို ဦးနှောက်များ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(216, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2157,10 +2157,10 @@ export const books = [
       "en": "နှစ်ဆယ့်ရှစ်နှစ်ရှိပြီဖြစ်တဲ့"
     },
     "author": {
-      "mm": "မိန်းမတစ်ယောက် နုနုရည်အင်းဝ",
-      "en": "မိန်းမတစ်ယောက် နုနုရည်အင်းဝ"
+      "mm": "နုနုရည်အင်းဝ (Nu Nu Yi Inwa)",
+      "en": "နုနုရည်အင်းဝ (Nu Nu Yi Inwa)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(47, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2183,10 +2183,10 @@ export const books = [
       "en": "နှစ်ပေါင်းရှစ်ဆယ် ငွေရှစ်ဆယ် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(74, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2209,10 +2209,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "နှစ်လောက မောင်ထွန်းသူ",
-      "en": "နှစ်လောက မောင်ထွန်းသူ"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "non-fiction",
+    "category": "Translated",
     "coverColor": "hsl(189, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2235,10 +2235,10 @@ export const books = [
       "en": "နှမ်းတစ်စေ့၊ ကြယ်တစ်ပွင့်နှင့် မင်တစ်စက် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(302, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2261,10 +2261,10 @@ export const books = [
       "en": "နှလုံးသားနှင့်လဲလှယ်ကာ လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(353, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2295,10 +2295,10 @@ export const books = [
       "en": "ပဆစ်အိမ် မောင်သိန်းဆိုင် Maung"
     },
     "author": {
-      "mm": "Thein Saing",
-      "en": "Thein Saing"
+      "mm": "မောင်သိန်းဆိုင် (Mg Thein Saing)",
+      "en": "မောင်သိန်းဆိုင် (Mg Thein Saing)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(142, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2329,10 +2329,10 @@ export const books = [
       "en": "ပန်းကျောင်း"
     },
     "author": {
-      "mm": "မင်းလူ",
-      "en": "မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "translated",
+    "category": "Humor & Satire",
     "coverColor": "hsl(234, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2355,10 +2355,10 @@ export const books = [
       "en": "ပန်းတွေနဲ့ ဝေ မောင်ဝဏ္ဏ"
     },
     "author": {
-      "mm": "Mg Wanna",
-      "en": "Mg Wanna"
+      "mm": "မောင်ဝဏ္ဏ (Mg Wanna)",
+      "en": "မောင်ဝဏ္ဏ (Mg Wanna)"
     },
-    "category": "history",
+    "category": "Humor & Satire",
     "coverColor": "hsl(178, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2381,10 +2381,10 @@ export const books = [
       "en": "ပန်းပွင့်ခရေ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(42, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2407,10 +2407,10 @@ export const books = [
       "en": "ပန်းသာမစာဥ သခင်ဘသောင်း Thakin"
     },
     "author": {
-      "mm": "Ba Thaung",
-      "en": "Ba Thaung"
+      "mm": "သခင်ဘသောင်း (Ba Thaung)",
+      "en": "သခင်ဘသောင်း (Ba Thaung)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(79, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2433,10 +2433,10 @@ export const books = [
       "en": "ပါစတာကို မုန်းတယ် စန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(341, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2459,10 +2459,10 @@ export const books = [
       "en": "ပါတိတ် "
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(289, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2485,10 +2485,10 @@ export const books = [
       "en": "ပါရမီမယ် မရင့်သော်‌‌ကြောင့် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(148, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2511,10 +2511,10 @@ export const books = [
       "en": "ပိုချစ်ရတဲ့သူ ကိုယ်ပဲဖြစ်ပါစေ"
     },
     "author": {
-      "mm": "ဂျူး Juu",
-      "en": "ဂျူး Juu"
+      "mm": "ဂျူး (Juu)",
+      "en": "ဂျူး (Juu)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(70, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2541,10 +2541,10 @@ export const books = [
       "en": "ပီကင်း"
     },
     "author": {
-      "mm": "မောင်ထွန်းသူ",
-      "en": "မောင်ထွန်းသူ"
+      "mm": "မောင်ထွန်းသူ (Mg Htun Thu)",
+      "en": "မောင်ထွန်းသူ (Mg Htun Thu)"
     },
-    "category": "history",
+    "category": "Translated",
     "coverColor": "hsl(120, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2567,10 +2567,10 @@ export const books = [
       "en": "ပေါက်ပင်ကိုင်းကိုင်း မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(209, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2593,10 +2593,10 @@ export const books = [
       "en": "ပျို့ကရုဏာ ဂျာနယ်ကျော်မမလေး Journal Kyaw Ma"
     },
     "author": {
-      "mm": "Ma Lay",
-      "en": "Ma Lay"
+      "mm": "ဂျာနယ်ကျော်မမလေး (Journal Kyaw Ma Ma Lay)",
+      "en": "ဂျာနယ်ကျော်မမလေး (Journal Kyaw Ma Ma Lay)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(121, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2619,10 +2619,10 @@ export const books = [
       "en": "ပျောက်ဆုံးနေသော"
     },
     "author": {
-      "mm": "Juu",
-      "en": "Juu"
+      "mm": "ဂျူး (Juu)",
+      "en": "ဂျူး (Juu)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(243, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2653,10 +2653,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "ပြန်ခေါ်သက်သေ မင်းလူ",
-      "en": "ပြန်ခေါ်သက်သေ မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "fiction",
+    "category": "Humor & Satire",
     "coverColor": "hsl(302, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2679,10 +2679,10 @@ export const books = [
       "en": "ပြောင်းဖူးပြုတ် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(292, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2705,10 +2705,10 @@ export const books = [
       "en": "ပွေ ့ဖက်ခြင်း လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(316, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2731,10 +2731,10 @@ export const books = [
       "en": "ဖန်ခွက်ထဲကရေတစ်ဝက် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(333, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2757,10 +2757,10 @@ export const books = [
       "en": "ဗာလာနံ ဆိုသော်လည်း မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(119, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2783,10 +2783,10 @@ export const books = [
       "en": "ဘကြီးမိုး"
     },
     "author": {
-      "mm": "Mg Wanna",
-      "en": "Mg Wanna"
+      "mm": "မောင်ဝဏ္ဏ (Mg Wanna)",
+      "en": "မောင်ဝဏ္ဏ (Mg Wanna)"
     },
-    "category": "poetry",
+    "category": "Humor & Satire",
     "coverColor": "hsl(33, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2809,10 +2809,10 @@ export const books = [
       "en": "ဘကြီးအောင်တော်တယ် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(27, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2835,10 +2835,10 @@ export const books = [
       "en": "ဘဝတဏှာ"
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(31, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2861,10 +2861,10 @@ export const books = [
       "en": "ဘဝအိပ်မက် ပန်းအိပ်မက်"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(119, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2887,10 +2887,10 @@ export const books = [
       "en": "မစပ်သော ငရုတ် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(129, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2913,10 +2913,10 @@ export const books = [
       "en": "မစိန်မြ၏ဒဿန မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(43, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2939,10 +2939,10 @@ export const books = [
       "en": "မနက်ဖြန်အတွက် ဒီကနေ့ ဝင်းဖေဝင်း ဘာသာပြန် Win"
     },
     "author": {
-      "mm": "Phae Win",
-      "en": "Phae Win"
+      "mm": "ဝင်းဖေဝင်း (Win Phae Win)",
+      "en": "ဝင်းဖေဝင်း (Win Phae Win)"
     },
-    "category": "poetry",
+    "category": "Translated",
     "coverColor": "hsl(159, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2973,10 +2973,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "မန္တလေးငပိချက် လူထုဒေါ်အမာ",
-      "en": "မန္တလေးငပိချက် လူထုဒေါ်အမာ"
+      "mm": "လူထုဒေါ်အမာ (Ludu Daw Amar)",
+      "en": "လူထုဒေါ်အမာ (Ludu Daw Amar)"
     },
-    "category": "poetry",
+    "category": "Non-Fiction",
     "coverColor": "hsl(240, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -2999,10 +2999,10 @@ export const books = [
       "en": "မန္တလေးပဲပြုတ်"
     },
     "author": {
-      "mm": " Ludu Daw Amar",
-      "en": " Ludu Daw Amar"
+      "mm": "လူထုဒေါ်အမာ (Ludu Daw Amar)",
+      "en": "လူထုဒေါ်အမာ (Ludu Daw Amar)"
     },
-    "category": "poetry",
+    "category": "Non-Fiction",
     "coverColor": "hsl(302, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3025,10 +3025,10 @@ export const books = [
       "en": "မန်ကျည်းကိုးပင် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(157, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3051,10 +3051,10 @@ export const books = [
       "en": "မမရေချယ် တင်မောင်မြင့် Tin"
     },
     "author": {
-      "mm": "Maung Myint",
-      "en": "Maung Myint"
+      "mm": "တင်မောင်မြင့် (Tin Maung Myint)",
+      "en": "တင်မောင်မြင့် (Tin Maung Myint)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(85, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3081,10 +3081,10 @@ export const books = [
       "en": "မသုဓမ္မစာရီ မိုးမိုး အင်းလျား"
     },
     "author": {
-      "mm": "Moe Moe",
-      "en": "Moe Moe"
+      "mm": "မိုးမိုး အင်းလျား (Moe Moe Inya)",
+      "en": "မိုးမိုး အင်းလျား (Moe Moe Inya)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(90, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3115,10 +3115,10 @@ export const books = [
       "en": "မဟာမြိုင်ဓားသမားနှင့်မုတ်ဆိတ်ဖြူအဘိုးအို မင်းသိင်္ခ Min"
     },
     "author": {
-      "mm": "Thein Kha",
-      "en": "Thein Kha"
+      "mm": "မင်းသိင်္ခ (Min Thein Kha)",
+      "en": "မင်းသိင်္ခ (Min Thein Kha)"
     },
-    "category": "history",
+    "category": "Mystery & Detective",
     "coverColor": "hsl(261, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3141,10 +3141,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "မဟာရာဇဝင်ကြီး ဦးကုလား",
-      "en": "မဟာရာဇဝင်ကြီး ဦးကုလား"
+      "mm": "ဦးကုလား (U Kala)",
+      "en": "ဦးကုလား (U Kala)"
     },
-    "category": "history",
+    "category": "History",
     "coverColor": "hsl(149, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3167,10 +3167,10 @@ export const books = [
       "en": "မိခင်လောင်းတစ်ဦး၏ မှတ်တမ်း မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(48, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3193,10 +3193,10 @@ export const books = [
       "en": "မိငယ်သိတဲ့ကိုကိုမောင် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(52, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3219,10 +3219,10 @@ export const books = [
       "en": "မိတ်ဆွေကောင်း မိတ်ဆွေညစ် လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(101, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3245,10 +3245,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "မိန်းကလေးလက်ရေးသီရင် မောင်ဝဏ္ဏ",
-      "en": "မိန်းကလေးလက်ရေးသီရင် မောင်ဝဏ္ဏ"
+      "mm": "မောင်ဝဏ္ဏ (Mg Wanna)",
+      "en": "မောင်ဝဏ္ဏ (Mg Wanna)"
     },
-    "category": "poetry",
+    "category": "Humor & Satire",
     "coverColor": "hsl(162, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3271,10 +3271,10 @@ export const books = [
       "en": "မိဘမဲ့"
     },
     "author": {
-      "mm": "Ludu U Hla",
-      "en": "Ludu U Hla"
+      "mm": "လူထုဦးလှ (Ludu U Hla)",
+      "en": "လူထုဦးလှ (Ludu U Hla)"
     },
-    "category": "biography",
+    "category": "Non-Fiction",
     "coverColor": "hsl(174, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3297,10 +3297,10 @@ export const books = [
       "en": "မောင့်စွမ်းဆောင်ရှင် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(241, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3326,7 +3326,7 @@ export const books = [
       "mm": "Ludu Daw",
       "en": "Ludu Daw"
     },
-    "category": "non-fiction",
+    "category": "Non-Fiction",
     "coverColor": "hsl(120, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3349,10 +3349,10 @@ export const books = [
       "en": "မျက်နှာကြက်နဲ့ ခိုအိမ် ဆူးငှက်"
     },
     "author": {
-      "mm": "Su Nhat",
-      "en": "Su Nhat"
+      "mm": "ဆူးငှက် (Su Nhat)",
+      "en": "ဆူးငှက် (Su Nhat)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(154, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3375,10 +3375,10 @@ export const books = [
       "en": "မြတ် သက် မော် ရွှေဥဒေါင်း Shwe"
     },
     "author": {
-      "mm": "Eu Daung",
-      "en": "Eu Daung"
+      "mm": "ရွှေဥဒေါင်း (Shwe U Daung)",
+      "en": "ရွှေဥဒေါင်း (Shwe U Daung)"
     },
-    "category": "biography",
+    "category": "Mystery & Detective",
     "coverColor": "hsl(148, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3409,10 +3409,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "မြန်မာပြည်မြောက်ပိုင်း နတ်နွယ်",
-      "en": "မြန်မာပြည်မြောက်ပိုင်း နတ်နွယ်"
+      "mm": "နတ်နွယ် (Nat Nwe)",
+      "en": "နတ်နွယ် (Nat Nwe)"
     },
-    "category": "poetry",
+    "category": "History",
     "coverColor": "hsl(295, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3435,10 +3435,10 @@ export const books = [
       "en": "မြန်မာပြည်မှာ ဝယ်ကြသည် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(127, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3461,10 +3461,10 @@ export const books = [
       "en": "မြန်မာအမျိုးသမီးနှစ်ယောက်ရှိလေသည် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(109, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3487,10 +3487,10 @@ export const books = [
       "en": "မြောက်ပြန်လေတွင်"
     },
     "author": {
-      "mm": "တင်သောကမ္ပည်း ငြိမ်းကျော်",
-      "en": "တင်သောကမ္ပည်း ငြိမ်းကျော်"
+      "mm": "ငြိမ်းကျော် (Nyein Kyaw)",
+      "en": "ငြိမ်းကျော် (Nyein Kyaw)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(309, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3517,10 +3517,10 @@ export const books = [
       "en": "မြောက်ဖျားက"
     },
     "author": {
-      "mm": "အလွမ်းရာသီ စံပယ်ဖြူနု",
-      "en": "အလွမ်းရာသီ စံပယ်ဖြူနု"
+      "mm": "စံပယ်ဖြူနု (Sabal Phyu Nu)",
+      "en": "စံပယ်ဖြူနု (Sabal Phyu Nu)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(109, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3543,10 +3543,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "မြောက်ဖျားကအလွမ်းရာသီ စံပယ်ဖြူနု",
-      "en": "မြောက်ဖျားကအလွမ်းရာသီ စံပယ်ဖြူနု"
+      "mm": "စံပယ်ဖြူနု (Sabal Phyu Nu)",
+      "en": "စံပယ်ဖြူနု (Sabal Phyu Nu)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(196, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3569,10 +3569,10 @@ export const books = [
       "en": "မြောက်ဦးမြို့မှသည် တာချီလိတ်ဆီသို့ ကလျာဝိဇ္ဇာ"
     },
     "author": {
-      "mm": "သိပ္ပံ Kalayar",
-      "en": "သိပ္ပံ Kalayar"
+      "mm": "ဦးကုလား (U Kala)",
+      "en": "ဦးကုလား (U Kala)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(355, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3603,10 +3603,10 @@ export const books = [
       "en": "မှားတော့ မှားတယ် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(101, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3629,10 +3629,10 @@ export const books = [
       "en": "မှောင်မိုက်မှာ ငို မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(39, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3655,10 +3655,10 @@ export const books = [
       "en": "ယတြာ လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(73, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3681,10 +3681,10 @@ export const books = [
       "en": "ယမကာလုလင်"
     },
     "author": {
-      "mm": "မင်းလူ",
-      "en": "မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "non-fiction",
+    "category": "Humor & Satire",
     "coverColor": "hsl(46, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3707,10 +3707,10 @@ export const books = [
       "en": "ယုန်နဲ့ခရု"
     },
     "author": {
-      "mm": "Ludu U Hla",
-      "en": "Ludu U Hla"
+      "mm": "လူထုဦးလှ (Ludu U Hla)",
+      "en": "လူထုဦးလှ (Ludu U Hla)"
     },
-    "category": "poetry",
+    "category": "Non-Fiction",
     "coverColor": "hsl(177, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3733,10 +3733,10 @@ export const books = [
       "en": "ရင်ချင်းဆက်စွယ်တော်ရွက်များ မင်းလူ"
     },
     "author": {
-      "mm": "Min Lu",
-      "en": "Min Lu"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "history",
+    "category": "Humor & Satire",
     "coverColor": "hsl(241, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3759,10 +3759,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "ရင်ထဲကဆောင်းရာသီ မင်းလူ",
-      "en": "ရင်ထဲကဆောင်းရာသီ မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "history",
+    "category": "Humor & Satire",
     "coverColor": "hsl(265, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3785,10 +3785,10 @@ export const books = [
       "en": "ရင်ထဲရောက်လာသော ဦးနှောက်များ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(207, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3811,10 +3811,10 @@ export const books = [
       "en": "ရိုးရှင်းသော ဘဝမှာ နေထိုင်ပါ လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(355, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3837,10 +3837,10 @@ export const books = [
       "en": "ရီကွန်ဒီးရှင်း မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(292, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3863,10 +3863,10 @@ export const books = [
       "en": "ရုပ်ချောသူ ပီမိုးနင်း P"
     },
     "author": {
-      "mm": "Moe Nin",
-      "en": "Moe Nin"
+      "mm": "ပီမိုးနင်း (P. Moe Nin)",
+      "en": "ပီမိုးနင်း (P. Moe Nin)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(106, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3889,10 +3889,10 @@ export const books = [
       "en": "ရေခဲခြစ်‌နှင်‌့‌‌ရေခဲချစ်‌ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(24, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3915,10 +3915,10 @@ export const books = [
       "en": "ရေတွင်မြုပ်သော ဖောင်ကလေး စန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(2, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3941,10 +3941,10 @@ export const books = [
       "en": "ရေတွင်းကုန်းက ငတုံးတွေအကြောင်း မြင့်သန်း"
     },
     "author": {
-      "mm": "Myint Than",
-      "en": "Myint Than"
+      "mm": "မြင့်သန်း (Myint Than)",
+      "en": "မြင့်သန်း (Myint Than)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(205, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3967,10 +3967,10 @@ export const books = [
       "en": "ရွှေဖလားနဲ့ကြက်သားကိုင် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(11, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -3993,10 +3993,10 @@ export const books = [
       "en": "ရှယ် "
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(100, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4019,10 +4019,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "လက်ဖက်ရည်ဆိုင်ထဲကအိမ် မိုးကျော်ဇင်",
-      "en": "လက်ဖက်ရည်ဆိုင်ထဲကအိမ် မိုးကျော်ဇင်"
+      "mm": "မိုးကျော်ဇင် (Moe Kyaw Zin)",
+      "en": "မိုးကျော်ဇင် (Moe Kyaw Zin)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(60, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4049,10 +4049,10 @@ export const books = [
       "en": "လမင်းလိုက်မုဆိုး နီကိုရဲ Ni"
     },
     "author": {
-      "mm": "Ko ye",
-      "en": "Ko ye"
+      "mm": "နီကိုရဲ (Ni Ko Ye)",
+      "en": "နီကိုရဲ (Ni Ko Ye)"
     },
-    "category": "biography",
+    "category": "Humor & Satire",
     "coverColor": "hsl(185, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4075,10 +4075,10 @@ export const books = [
       "en": "လမင်းလိုက်မုဆိုး နီကိုရဲi Ni"
     },
     "author": {
-      "mm": "Ko ye",
-      "en": "Ko ye"
+      "mm": "နီကိုရဲ (Ni Ko Ye)",
+      "en": "နီကိုရဲ (Ni Ko Ye)"
     },
-    "category": "translated",
+    "category": "Humor & Satire",
     "coverColor": "hsl(154, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4101,10 +4101,10 @@ export const books = [
       "en": "လူ "
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(137, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4127,10 +4127,10 @@ export const books = [
       "en": "လူစင်စစ် မောင်ကျပ်ခိုး Mg"
     },
     "author": {
-      "mm": "Kyat Khoe",
-      "en": "Kyat Khoe"
+      "mm": "မောင်ကျပ်ခိုး (Mg Kyat Khoe)",
+      "en": "မောင်ကျပ်ခိုး (Mg Kyat Khoe)"
     },
-    "category": "history",
+    "category": "Humor & Satire",
     "coverColor": "hsl(343, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4153,10 +4153,10 @@ export const books = [
       "en": "လူဆိုး မင်းခိုက်စိုးစန် Min Khite"
     },
     "author": {
-      "mm": "Soe San",
-      "en": "Soe San"
+      "mm": "မင်းခိုက်စိုးစန် (Min Khite Soe San)",
+      "en": "မင်းခိုက်စိုးစန် (Min Khite Soe San)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(350, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4179,10 +4179,10 @@ export const books = [
       "en": "လွမ်းရင်းမျှော် မျှော်ရင်းလွမ်း လူထုစိန်ဝင်း Ludu"
     },
     "author": {
-      "mm": "Sein Win",
-      "en": "Sein Win"
+      "mm": "လူထုစိန်ဝင်း (Ludu Sein Win)",
+      "en": "လူထုစိန်ဝင်း (Ludu Sein Win)"
     },
-    "category": "non-fiction",
+    "category": "Non-Fiction",
     "coverColor": "hsl(178, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4205,10 +4205,10 @@ export const books = [
       "en": "လှ၍ မလှသူနှင့် မလှ၍ လှသူ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(349, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4231,10 +4231,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "ဝတ္ထုတိုပေါင်းချုပ် မင်းလူ",
-      "en": "ဝတ္ထုတိုပေါင်းချုပ် မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "poetry",
+    "category": "Humor & Satire",
     "coverColor": "hsl(169, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4257,10 +4257,10 @@ export const books = [
       "en": "ဝေမျှခြင်း လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(326, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4283,10 +4283,10 @@ export const books = [
       "en": "သက်နှင်းနှင့် သူ၏အရိပ်များ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(173, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4309,10 +4309,10 @@ export const books = [
       "en": "သင့်မှာ ကူးစက်နေပြီလား မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(148, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4335,10 +4335,10 @@ export const books = [
       "en": "သန်းခေါင်ယံလွတ်လပ်ရေး မောင်ပေါ်ထွန်း Maung"
     },
     "author": {
-      "mm": "Paw Htun",
-      "en": "Paw Htun"
+      "mm": "မောင်ပေါ်ထွန်း (Mg Paw Htun)",
+      "en": "မောင်ပေါ်ထွန်း (Mg Paw Htun)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(222, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4369,10 +4369,10 @@ export const books = [
       "en": "သာဓုနှစ်ခါ ခေါ်လိုက်ပါ၏ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(268, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4395,10 +4395,10 @@ export const books = [
       "en": "သိရက်နှင့်ကယ် မောင်ဝဏ္ဏ"
     },
     "author": {
-      "mm": "Mg Wanna",
-      "en": "Mg Wanna"
+      "mm": "မောင်ဝဏ္ဏ (Mg Wanna)",
+      "en": "မောင်ဝဏ္ဏ (Mg Wanna)"
     },
-    "category": "fiction",
+    "category": "Humor & Satire",
     "coverColor": "hsl(98, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4421,10 +4421,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "သူငယ်ချင်းတစ်ယောက်အကြောင်း မင်းလူ",
-      "en": "သူငယ်ချင်းတစ်ယောက်အကြောင်း မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "poetry",
+    "category": "Humor & Satire",
     "coverColor": "hsl(311, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4447,10 +4447,10 @@ export const books = [
       "en": "သူစောင့်တဲ့ ဥပုသ် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(34, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4473,10 +4473,10 @@ export const books = [
       "en": "သူတော်ကောင်းဆိုသည်မှာ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(64, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4499,10 +4499,10 @@ export const books = [
       "en": "သူ့ကုသိုလ်"
     },
     "author": {
-      "mm": "မစန္ဒာ- MSI",
-      "en": "မစန္ဒာ- MSI"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(244, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4525,10 +4525,10 @@ export const books = [
       "en": "သံသရာ"
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(118, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4551,10 +4551,10 @@ export const books = [
       "en": "ဟိုဘက်ကမ်းက လွမ်းပုံပြင် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(202, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4577,10 +4577,10 @@ export const books = [
       "en": "အကျိုးထူးပေးတော့မယ် တဲ့ဗျ မောင်ဝဏ္ဏ"
     },
     "author": {
-      "mm": "Mg Wanna",
-      "en": "Mg Wanna"
+      "mm": "မောင်ဝဏ္ဏ (Mg Wanna)",
+      "en": "မောင်ဝဏ္ဏ (Mg Wanna)"
     },
-    "category": "non-fiction",
+    "category": "Humor & Satire",
     "coverColor": "hsl(248, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4603,10 +4603,10 @@ export const books = [
       "en": "အကြံအဖန် "
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(153, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4629,10 +4629,10 @@ export const books = [
       "en": "အခါတော်ပေးတာက မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(117, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4655,10 +4655,10 @@ export const books = [
       "en": "အချိန်နှင့် ဒီရေသည် လူကိုမစောင့် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(17, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4681,10 +4681,10 @@ export const books = [
       "en": "အတ္ထုပ္ပတ္တိ"
     },
     "author": {
-      "mm": "Ludu Daw Amar",
-      "en": "Ludu Daw Amar"
+      "mm": "လူထုဒေါ်အမာ (Ludu Daw Amar)",
+      "en": "လူထုဒေါ်အမာ (Ludu Daw Amar)"
     },
-    "category": "biography",
+    "category": "Non-Fiction",
     "coverColor": "hsl(295, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4707,10 +4707,10 @@ export const books = [
       "en": "အထီးကျန်"
     },
     "author": {
-      "mm": "လွတ်မြောက်မှု မောင်ဝဏ္ဏ",
-      "en": "လွတ်မြောက်မှု မောင်ဝဏ္ဏ"
+      "mm": "မောင်ဝဏ္ဏ (Mg Wanna)",
+      "en": "မောင်ဝဏ္ဏ (Mg Wanna)"
     },
-    "category": "history",
+    "category": "Humor & Satire",
     "coverColor": "hsl(26, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4733,10 +4733,10 @@ export const books = [
       "en": "အနီးကဝေး"
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(184, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4759,10 +4759,10 @@ export const books = [
       "en": "အပိန်နှင့် အပဲ့တို့၏ သမိုင်း မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "History",
     "coverColor": "hsl(24, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4785,10 +4785,10 @@ export const books = [
       "en": "အဘွားကြီးနှစ်ယောက်ရှိလေသည် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(112, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4811,10 +4811,10 @@ export const books = [
       "en": "အဘွားခင်ပေးတဲ့ ဆာပရာဒင်း မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(59, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4837,10 +4837,10 @@ export const books = [
       "en": "အမေချက်တဲ့ ပုစွန်ကျား ခုနစ်ကောင် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(8, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4863,10 +4863,10 @@ export const books = [
       "en": "အမေ့ဆီက ဘတ်ကြိုး မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(326, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4889,10 +4889,10 @@ export const books = [
       "en": "အများထဲက တစ်ယောက်အကြောင်း မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(316, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4915,10 +4915,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "အများနှင့်မသက်ဆိုင်သောသူ မင်းလူ",
-      "en": "အများနှင့်မသက်ဆိုင်သောသူ မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "translated",
+    "category": "Humor & Satire",
     "coverColor": "hsl(221, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4941,10 +4941,10 @@ export const books = [
       "en": "အမှတ်အနည်းဆုံးကျောင်းသား မြန်မာစာကိုသွား မောင်စွမ်းရည် Mg"
     },
     "author": {
-      "mm": "Swan Yay",
-      "en": "Swan Yay"
+      "mm": "မောင်စွမ်းရည် (Mg Swan Yay)",
+      "en": "မောင်စွမ်းရည် (Mg Swan Yay)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(208, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4967,10 +4967,10 @@ export const books = [
       "en": "အမှောင်ထဲမှာ လမင်းမိုမို Lamin"
     },
     "author": {
-      "mm": "Mo Mo",
-      "en": "Mo Mo"
+      "mm": "လမင်းမိုမို (Lamin Mo Mo)",
+      "en": "လမင်းမိုမို (Lamin Mo Mo)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(183, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -4993,10 +4993,10 @@ export const books = [
       "en": "အရိပ်---မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(273, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5023,10 +5023,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "အရိပ်မဲ့ရုပ်ပုံလွှာ တင်မောင်မြင့်",
-      "en": "အရိပ်မဲ့ရုပ်ပုံလွှာ တင်မောင်မြင့်"
+      "mm": "တင်မောင်မြင့် (Tin Maung Myint)",
+      "en": "တင်မောင်မြင့် (Tin Maung Myint)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(43, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5049,10 +5049,10 @@ export const books = [
       "en": "အရုပ်သည်ကြီး"
     },
     "author": {
-      "mm": "Min Lu",
-      "en": "Min Lu"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "non-fiction",
+    "category": "Humor & Satire",
     "coverColor": "hsl(308, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5075,10 +5075,10 @@ export const books = [
       "en": "အရွယ််"
     },
     "author": {
-      "mm": "မစန္ဒာ- Ma Sandar",
-      "en": "မစန္ဒာ- Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(21, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5101,10 +5101,10 @@ export const books = [
       "en": "အလွမ်းမပါသော ပြဇာတ် သစ္စာနီ Thit"
     },
     "author": {
-      "mm": "Sar Ni",
-      "en": "Sar Ni"
+      "mm": "သစ္စာနီ (Thit Sar Ni)",
+      "en": "သစ္စာနီ (Thit Sar Ni)"
     },
-    "category": "fiction",
+    "category": "Fiction",
     "coverColor": "hsl(196, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5127,10 +5127,10 @@ export const books = [
       "en": "အလွမ်းသစ်"
     },
     "author": {
-      "mm": "မင်းလူ",
-      "en": "မင်းလူ"
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "non-fiction",
+    "category": "Humor & Satire",
     "coverColor": "hsl(77, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5153,10 +5153,10 @@ export const books = [
       "en": "အလွမ်း၌ ချစ်စေသတည်း Min"
     },
     "author": {
-      "mm": "Lu ",
-      "en": "Lu "
+      "mm": "မင်းလူ (Min Lu)",
+      "en": "မင်းလူ (Min Lu)"
     },
-    "category": "poetry",
+    "category": "Humor & Satire",
     "coverColor": "hsl(35, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5179,10 +5179,10 @@ export const books = [
       "en": "အလှတရားကို တွေ့ရှိခြင်း မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(78, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5205,10 +5205,10 @@ export const books = [
       "en": "အသေဝနာစ ဗာလာနံ ဆိုသော်လည်း မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(150, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5231,10 +5231,10 @@ export const books = [
       "en": "အသွားနှင့်အပြန် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(176, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5257,10 +5257,10 @@ export const books = [
       "en": "အိပ်ဇိုးဒပ် မောင်မိုးသူ Maung"
     },
     "author": {
-      "mm": "Moe Thu",
-      "en": "Moe Thu"
+      "mm": "မောင်မိုးသူ (Mg Moe Thu)",
+      "en": "မောင်မိုးသူ (Mg Moe Thu)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(167, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5294,7 +5294,7 @@ export const books = [
       "mm": "Hnin Nwe",
       "en": "Hnin Nwe"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(222, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5317,10 +5317,10 @@ export const books = [
       "en": ""
     },
     "author": {
-      "mm": "အိုက်ခ်မန်းစစ်ဆင်ရေး လင်းယုန်မောင်မောင်",
-      "en": "အိုက်ခ်မန်းစစ်ဆင်ရေး လင်းယုန်မောင်မောင်"
+      "mm": "လင်းယုန်မောင်မောင် (Linyon Mg Mg)",
+      "en": "လင်းယုန်မောင်မောင် (Linyon Mg Mg)"
     },
-    "category": "non-fiction",
+    "category": "Translated",
     "coverColor": "hsl(231, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5343,10 +5343,10 @@ export const books = [
       "en": "အုန်းသီးထဲက အရည်ချိုချို မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "biography",
+    "category": "Fiction",
     "coverColor": "hsl(235, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5369,10 +5369,10 @@ export const books = [
       "en": "အေပီစီ ဘတ်စပရို မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "history",
+    "category": "Fiction",
     "coverColor": "hsl(134, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5395,10 +5395,10 @@ export const books = [
       "en": "အောင်ဇေရမ်းပုံပြင် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(111, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5421,10 +5421,10 @@ export const books = [
       "en": "အဲဒါ တို့မြန်မာ မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(253, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5447,10 +5447,10 @@ export const books = [
       "en": "အံကယ် နဲ့ ဦးလေး မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(155, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5473,10 +5473,10 @@ export const books = [
       "en": "ဤသို့ပင် မျှော်လင့်မိပါသည် မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(286, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5499,10 +5499,10 @@ export const books = [
       "en": "ဦးခက်၊ ဒေါ်သက်နှင့် အရပ်ထဲက လူများအကြောင်း မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "non-fiction",
+    "category": "Fiction",
     "coverColor": "hsl(320, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5525,10 +5525,10 @@ export const books = [
       "en": "ဧည့်သည်"
     },
     "author": {
-      "mm": "မစန္ဒာ",
-      "en": "မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(20, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5551,10 +5551,10 @@ export const books = [
       "en": "၂၁ ရာစု မြို့ပြချစ်ခရီး မစန္ဒာ"
     },
     "author": {
-      "mm": "Ma Sandar",
-      "en": "Ma Sandar"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "poetry",
+    "category": "Fiction",
     "coverColor": "hsl(317, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5577,10 +5577,10 @@ export const books = [
       "en": "၅၂၈"
     },
     "author": {
-      "mm": "- မစန္ဒာ",
-      "en": "- မစန္ဒာ"
+      "mm": "မစန္ဒာ (Ma Sandar)",
+      "en": "မစန္ဒာ (Ma Sandar)"
     },
-    "category": "translated",
+    "category": "Fiction",
     "coverColor": "hsl(228, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
@@ -5603,39 +5603,39 @@ export const books = [
 // Counts are derived from the books array above.
 export const categories = [
   {
-    id: 'novel',
-    name: { en: 'Novel', mm: 'ဝတ္ထု' },
+    id: 'Fiction',
+    name: { en: 'Fiction', mm: 'ရသစာပေ' },
     icon: '📖',
-    count: books.filter((b) => b.category === 'novel').length
+    count: books.filter((b) => b.category === 'Fiction').length
   },
   {
-    id: 'short-story',
-    name: { en: 'Short Story', mm: 'ဝတ္ထုတို' },
-    icon: '📝',
-    count: books.filter((b) => b.category === 'short-story').length
+    id: 'Humor & Satire',
+    name: { en: 'Humor & Satire', mm: 'ဟာသနှင့် သရော်စာ' },
+    icon: '😂',
+    count: books.filter((b) => b.category === 'Humor & Satire').length
   },
   {
-    id: 'poetry',
-    name: { en: 'Poetry', mm: 'ကဗျာ' },
-    icon: '✨',
-    count: books.filter((b) => b.category === 'poetry').length
+    id: 'Translated',
+    name: { en: 'Translated', mm: 'ဘာသာပြန်' },
+    icon: '🌍',
+    count: books.filter((b) => b.category === 'Translated').length
   },
   {
-    id: 'history',
+    id: 'Non-Fiction',
+    name: { en: 'Non-Fiction', mm: 'သုတစာပေ' },
+    icon: '💡',
+    count: books.filter((b) => b.category === 'Non-Fiction').length
+  },
+  {
+    id: 'History',
     name: { en: 'History', mm: 'သမိုင်း' },
     icon: '🏛️',
-    count: books.filter((b) => b.category === 'history').length
+    count: books.filter((b) => b.category === 'History').length
   },
   {
-    id: 'self-help',
-    name: { en: 'Self-Help', mm: 'ကိုယ်တိုင်ဖွံ့ဖြိုးရေး' },
-    icon: '🌱',
-    count: books.filter((b) => b.category === 'self-help').length
-  },
-  {
-    id: 'technology',
-    name: { en: 'Technology', mm: 'နည်းပညာ' },
-    icon: '💻',
-    count: books.filter((b) => b.category === 'technology').length
+    id: 'Mystery & Detective',
+    name: { en: 'Mystery & Detective', mm: 'စုံထောက်နှင့် လျှို့ဝှက်သည်းဖို' },
+    icon: '🕵️‍♂️',
+    count: books.filter((b) => b.category === 'Mystery & Detective').length
   }
 ];

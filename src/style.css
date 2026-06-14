@@ -898,6 +898,11 @@ body[data-theme="light"] .navbar.scrolled {
   font-size: var(--fs-base);
   font-weight: var(--fw-semibold);
   color: var(--clr-text-primary);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  line-break: anywhere;
+  line-height: 1.4;
 }
 
 .category-card__count {
@@ -2571,6 +2576,13 @@ body[data-theme="light"] .navbar.scrolled {
    We increase line-height to prevent clipping. 
    `html[lang="my"]` is set by i18n.js 
 */
+html[lang="my"] body {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  line-break: anywhere;
+}
+
 html[lang="my"] body,
 html[lang="my"] p,
 html[lang="my"] .about-card-text,
