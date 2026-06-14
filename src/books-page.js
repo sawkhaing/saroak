@@ -20,6 +20,7 @@ async function initBooksPage() {
 
   renderCategoryFilters();
   renderAuthorFilters();
+  renderFormatFilters();
   renderBooks();
   populateFooterCategories(categories);
   setupEventListeners();
@@ -27,12 +28,14 @@ async function initBooksPage() {
   window.addEventListener('langchange', () => {
     renderCategoryFilters();
     renderAuthorFilters();
+    renderFormatFilters();
     renderBooks();
     populateFooterCategories(categories);
   });
 }
 
 let currentAuthors = [];
+let currentFormats = [];
 let currentView = 'grid';
 let currentPage = 1;
 const itemsPerPage = 24;
@@ -100,6 +103,44 @@ function renderAuthorFilters() {
   });
 }
 
+function renderFormatFilters() {
+  const container = document.getElementById('formatFilters');
+  if (!container) return;
+
+  // Extract unique formats
+  const formatsSet = new Set();
+  books.forEach(b => {
+    if (b.formats && Array.isArray(b.formats)) {
+      b.formats.forEach(f => {
+        if (f.type) formatsSet.add(f.type.toUpperCase());
+      });
+    }
+  });
+
+  const uniqueFormats = Array.from(formatsSet).sort();
+
+  container.innerHTML = uniqueFormats.map(format => `
+    <label class="checkbox-label">
+      <input type="checkbox" value="${format}" ${currentFormats.includes(format) ? 'checked' : ''} /> 
+      <span class="checkbox-text">${format}</span>
+    </label>
+  `).join('');
+
+  // Add event listeners
+  const formatCheckboxes = container.querySelectorAll('input[type="checkbox"]');
+  formatCheckboxes.forEach(cb => {
+    cb.addEventListener('change', (e) => {
+      if (e.target.checked) {
+        currentFormats.push(e.target.value);
+      } else {
+        currentFormats = currentFormats.filter(f => f !== e.target.value);
+      }
+      currentPage = 1;
+      renderBooks();
+    });
+  });
+}
+
 function getFilteredBooks() {
   let filtered = [...books];
 
@@ -115,6 +156,15 @@ function getFilteredBooks() {
       const authorEn = (b.author.en || '').toLowerCase();
       const authorMm = (b.author.mm || '').toLowerCase();
       return currentAuthors.some(a => authorEn.includes(a.toLowerCase()) || authorMm.includes(a.toLowerCase()));
+    });
+  }
+
+  // Format filter
+  if (currentFormats.length > 0) {
+    filtered = filtered.filter(b => {
+      if (!b.formats || !Array.isArray(b.formats)) return false;
+      const bookFormats = b.formats.map(f => f.type ? f.type.toUpperCase() : '');
+      return currentFormats.some(f => bookFormats.includes(f));
     });
   }
 
@@ -177,6 +227,112 @@ function renderBooks() {
 
   if (resultsCount) {
     resultsCount.textContent = `${filtered.length} ${t('hero.stats.books')}`;
+  }
+
+  renderActiveFilters();
+}
+
+function renderActiveFilters() {
+  const container = document.getElementById('activeFilters');
+  if (!container) return;
+
+  let pillsHtml = '';
+  let filterCount = 0;
+
+  // Search pill
+  if (currentSearch) {
+    pillsHtml += `
+      <div class="filter-pill">
+        <span>Search: ${currentSearch}</span>
+        <button class="filter-pill-remove" data-type="search">&times;</button>
+      </div>`;
+    filterCount++;
+  }
+
+  // Category pill
+  if (currentCategory !== 'all') {
+    const lang = getCurrentLang();
+    const cat = categories.find(c => c.id === currentCategory);
+    const catName = cat ? (cat.name[lang] || cat.name.en) : currentCategory;
+    pillsHtml += `
+      <div class="filter-pill">
+        <span>Category: ${catName}</span>
+        <button class="filter-pill-remove" data-type="category">&times;</button>
+      </div>`;
+    filterCount++;
+  }
+
+  // Author pills
+  currentAuthors.forEach(author => {
+    pillsHtml += `
+      <div class="filter-pill">
+        <span>Author: ${author}</span>
+        <button class="filter-pill-remove" data-type="author" data-value="${author}">&times;</button>
+      </div>`;
+    filterCount++;
+  });
+
+  // Format pills
+  currentFormats.forEach(format => {
+    pillsHtml += `
+      <div class="filter-pill">
+        <span>Format: ${format}</span>
+        <button class="filter-pill-remove" data-type="format" data-value="${format}">&times;</button>
+      </div>`;
+    filterCount++;
+  });
+
+  // Clear All button
+  if (filterCount > 1) {
+    pillsHtml += `<button class="btn-clear-filters" id="clearAllFilters">Clear All</button>`;
+  }
+
+  container.innerHTML = pillsHtml;
+
+  // Event Listeners for pills
+  container.querySelectorAll('.filter-pill-remove').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      const type = e.currentTarget.dataset.type;
+      const value = e.currentTarget.dataset.value;
+
+      if (type === 'search') {
+        currentSearch = '';
+        const searchInput = document.getElementById('searchInput');
+        if (searchInput) searchInput.value = '';
+      } else if (type === 'category') {
+        currentCategory = 'all';
+        renderCategoryFilters();
+      } else if (type === 'author') {
+        currentAuthors = currentAuthors.filter(a => a !== value);
+        renderAuthorFilters();
+      } else if (type === 'format') {
+        currentFormats = currentFormats.filter(f => f !== value);
+        renderFormatFilters();
+      }
+
+      currentPage = 1;
+      renderBooks();
+    });
+  });
+
+  // Event Listener for Clear All
+  const clearAllBtn = document.getElementById('clearAllFilters');
+  if (clearAllBtn) {
+    clearAllBtn.addEventListener('click', () => {
+      currentSearch = '';
+      currentCategory = 'all';
+      currentAuthors = [];
+      currentFormats = [];
+      
+      const searchInput = document.getElementById('searchInput');
+      if (searchInput) searchInput.value = '';
+      
+      renderCategoryFilters();
+      renderAuthorFilters();
+      renderFormatFilters();
+      currentPage = 1;
+      renderBooks();
+    });
   }
 }
 
