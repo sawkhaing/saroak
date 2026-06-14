@@ -123,7 +123,10 @@ Object.keys(bookGroups).forEach(baseName => {
   
   if (baseName.includes('_')) {
     const parts = baseName.split('_');
-    if (parts.length >= 2) {
+    if (parts.length === 2) {
+      title = parts[0];
+      author = parts[1];
+    } else if (parts.length > 2) {
       author = parts.slice(-2).join(' ').replace(/_/g, ' ');
       title = parts.slice(0, -2).join(' ').replace(/_/g, ' ');
     }
