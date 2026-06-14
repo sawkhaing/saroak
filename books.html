@@ -53,37 +53,37 @@
       <!-- Main Content -->
       <main class="catalog-main" style="width: 100%;">
         <!-- Toolbar -->
-        <div class="catalog-toolbar" style="flex-direction: column; align-items: stretch; gap: var(--sp-4);">
+        <div class="catalog-toolbar">
           <!-- Top Row: Search and Actions -->
-          <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: var(--sp-4);">
-            <div class="search-bar" style="flex: 1; max-width: 400px; background: var(--clr-bg-secondary); border: 1px solid var(--clr-border);">
+          <div class="toolbar-top-row">
+            <div class="search-bar toolbar-input" style="flex: 1; max-width: 400px; border-radius: var(--radius-full);">
               <span class="search-bar__icon">🔍</span>
-              <input type="text" class="search-bar__input" id="searchInput" data-i18n-placeholder="filter.search" placeholder="Search books..." style="background: transparent;" />
+              <input type="text" class="search-bar__input" id="searchInput" data-i18n-placeholder="filter.search" placeholder="Search books..." style="background: transparent; border: none; box-shadow: none;" />
             </div>
             
-            <div class="toolbar-actions" style="display: flex; align-items: center; gap: var(--sp-4); flex-wrap: wrap;">
+            <div class="toolbar-actions">
               <!-- Author Filter Dropdown -->
-              <select class="sort-select" id="authorFilterSelect" style="background: var(--clr-bg-secondary); border: 1px solid var(--clr-border);">
+              <select class="sort-select toolbar-input" id="authorFilterSelect">
                 <option value="">All Authors</option>
                 <!-- Populated by JS -->
               </select>
 
               <!-- Format Filter Dropdown -->
-              <select class="sort-select" id="formatFilterSelect" style="background: var(--clr-bg-secondary); border: 1px solid var(--clr-border);">
+              <select class="sort-select toolbar-input" id="formatFilterSelect">
                 <option value="">All Formats</option>
                 <!-- Populated by JS -->
               </select>
 
               <div class="sort-control">
                 <label data-i18n="filter.sortBy" class="sort-label">Sort by:</label>
-                <select class="sort-select" id="sortSelect" style="background: var(--clr-bg-secondary); border: 1px solid var(--clr-border);">
+                <select class="sort-select toolbar-input" id="sortSelect">
                   <option value="newest" data-i18n="filter.newest">Newest</option>
                   <option value="popular" data-i18n="filter.popular">Popular</option>
                   <option value="title" data-i18n="filter.title">Title</option>
                 </select>
               </div>
               
-              <div class="view-toggles" style="background: var(--clr-bg-secondary); border: 1px solid var(--clr-border);">
+              <div class="view-toggles toolbar-input">
                 <button class="view-toggle active" id="gridViewBtn" title="Grid View">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
                 </button>
@@ -95,7 +95,7 @@
           </div>
 
           <!-- Bottom Row: Category Tabs -->
-          <div class="category-tabs" id="categoryFilters" style="display: flex; gap: var(--sp-2); overflow-x: auto; padding-bottom: var(--sp-2); border-bottom: 1px solid var(--clr-border);">
+          <div class="category-tabs" id="categoryFilters">
             <button class="filter-chip active" data-category="all" data-i18n="filter.all">All</button>
             <!-- Categories populated by JS -->
           </div>

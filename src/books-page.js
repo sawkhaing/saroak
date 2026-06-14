@@ -45,7 +45,7 @@ function renderCategoryFilters() {
   if (!container) return;
 
   container.innerHTML = `
-    <button class="filter-chip ${currentCategory === 'all' ? 'active' : ''}" data-category="all" style="width: 100%; text-align: left; justify-content: flex-start; margin-bottom: var(--sp-2);">${t('filter.all')}</button>
+    <button class="filter-chip ${currentCategory === 'all' ? 'active' : ''}" data-category="all">${t('filter.all')}</button>
     ${categories.map(cat => {
       const lang = getCurrentLang();
       const name = cat.name[lang] || cat.name.en;
