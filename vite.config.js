@@ -8,7 +8,6 @@ export default defineConfig({
         main: resolve(__dirname, 'index.html'),
         books: resolve(__dirname, 'books.html'),
         'book-detail': resolve(__dirname, 'book-detail.html'),
-        about: resolve(__dirname, 'about.html'),
       },
     },
   },
