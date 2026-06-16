@@ -7,7 +7,7 @@ const dataFile = path.join(process.cwd(), 'src', 'books-data.js');
 // ==========================================
 // 1. Configuration & Rules
 // ==========================================
-const VALID_EXTENSIONS = ['.epub', '.kfx', '.azw3', '.pdf', '.docx'];
+const VALID_EXTENSIONS = ['.epub', '.kfx', '.azw3', '.pdf'];
 
 const AUTHOR_MAPPINGS = [
   { keywords: ['min lu', 'မင်းလူ', 'lu '], name: 'မင်းလူ (Min Lu)' },
