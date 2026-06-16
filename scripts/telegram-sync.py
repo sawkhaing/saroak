@@ -26,7 +26,7 @@ except ValueError:
     CHANNEL_USERNAME = CHANNEL_ENV
 
 # Constants
-MAX_DOWNLOADS = 5
+MAX_DOWNLOADS = int(os.environ.get('MAX_DOWNLOADS', 5))
 VALID_EXTENSIONS = ['.epub', '.pdf', '.azw3', '.kfx']
 PUBLIC_BOOKS_DIR = Path('public/books')
 STATE_FILE = Path('telegram-sync-state.json')

@@ -31,6 +31,7 @@ jobs:
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
           TELEGRAM_CHANNEL: '-1001283083186'
+          MAX_DOWNLOADS: '5'
         run: python scripts/telegram-sync.py
 
       - name: Commit and Push Changes
