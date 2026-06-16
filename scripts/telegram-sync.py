@@ -19,7 +19,11 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 API_ID = os.environ.get('TELEGRAM_API_ID')
 API_HASH = os.environ.get('TELEGRAM_API_HASH')
 SESSION_STRING = os.environ.get('TELEGRAM_SESSION')
-CHANNEL_USERNAME = os.environ.get('TELEGRAM_CHANNEL', '@myanmar_ebooks') # Replace with default channel if needed
+CHANNEL_ENV = os.environ.get('TELEGRAM_CHANNEL', '@myanmar_ebooks') # Replace with default channel if needed
+try:
+    CHANNEL_USERNAME = int(CHANNEL_ENV)
+except ValueError:
+    CHANNEL_USERNAME = CHANNEL_ENV
 
 # Constants
 MAX_DOWNLOADS = 30
