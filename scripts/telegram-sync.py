@@ -72,6 +72,11 @@ async def main():
             if not message.document:
                 continue
 
+            # Cloudflare Pages has a strict 25MB limit for static assets
+            if message.document.size > 24 * 1024 * 1024:
+                logging.info(f"Skipping document (too large for Cloudflare): {message.document.size / 1024 / 1024:.2f} MB")
+                continue
+
             # Extract filename and extension safely
             filename = None
             for attr in message.document.attributes:
