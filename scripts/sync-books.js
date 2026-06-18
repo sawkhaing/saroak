@@ -53,7 +53,12 @@ const AUTHOR_MAPPINGS = [
   { keywords: ['soe san', 'မင်းခိုက်စိုးစန်'], mm: 'မင်းခိုက်စိုးစန်', en: 'Min Khite Soe San' },
   { keywords: ['su nhat', 'ဆူးငှက်'], mm: 'ဆူးငှက်', en: 'Su Nhat' },
   { keywords: ['nanda', 'နန္ဒ'], mm: 'နန္ဒ', en: 'Nanda' },
-  { keywords: ['noriko otsu'], mm: 'နိုရီကိုအိုဆု', en: 'Noriko Otsu' }
+  { keywords: ['noriko otsu'], mm: 'နိုရီကိုအိုဆု', en: 'Noriko Otsu' },
+  { keywords: ['pu nya khin', 'ပုညခင်'], mm: 'ပုညခင်', en: 'Pu Nya Khin' },
+  { keywords: ['banya dala', 'ဗညားဒလ'], mm: 'ဗညားဒလ', en: 'Banya Dala' },
+  { keywords: ['lin eain', 'လင်းအိမ်'], mm: 'လင်းအိမ်', en: 'Lin Eain' },
+  { keywords: ['u nu', 'ဦးနု'], mm: 'ဦးနု', en: 'U Nu' },
+  { keywords: ['george orwell'], mm: 'ဂျော့ချ်အော်ဝဲလ်', en: 'George Orwell' }
 ];
 
 const CATEGORY_RULES = [
