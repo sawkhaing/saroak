@@ -11,7 +11,7 @@ const AUTHOR_MAPPINGS = [
   { keywords: ['ma sandar', 'မစန္ဒာ'], mm: 'မစန္ဒာ', en: 'Ma Sandar' },
   { keywords: ['juu', 'ဂျူး'], mm: 'ဂျူး', en: 'Juu' },
   { keywords: ['htun thu', 'မောင်ထွန်းသူ'], mm: 'မောင်ထွန်းသူ', en: 'Mg Htun Thu' },
-  { keywords: ['daw amar', 'လူထုဒေါ်အမာ'], mm: 'လူထုဒေါ်အမာ', en: 'Ludu Daw Amar' },
+  { keywords: ['daw amar', 'ludu daw', 'လူထုဒေါ်အမာ'], mm: 'လူထုဒေါ်အမာ', en: 'Ludu Daw Amar' },
   { keywords: ['nat nwe', 'နတ်နွယ်'], mm: 'နတ်နွယ်', en: 'Nat Nwe' },
   { keywords: ['ni ko ye', 'nikoye', 'ko ye', 'နီကိုရဲ'], mm: 'နီကိုရဲ', en: 'Ni Ko Ye' },
   { keywords: ['wanna', 'မောင်ဝဏ္ဏ'], mm: 'မောင်ဝဏ္ဏ', en: 'Mg Wanna' },
@@ -58,7 +58,9 @@ const AUTHOR_MAPPINGS = [
   { keywords: ['banya dala', 'ဗညားဒလ'], mm: 'ဗညားဒလ', en: 'Banya Dala' },
   { keywords: ['lin eain', 'လင်းအိမ်'], mm: 'လင်းအိမ်', en: 'Lin Eain' },
   { keywords: ['u nu', 'ဦးနု'], mm: 'ဦးနု', en: 'U Nu' },
-  { keywords: ['george orwell'], mm: 'ဂျော့ချ်အော်ဝဲလ်', en: 'George Orwell' }
+  { keywords: ['george orwell'], mm: 'ဂျော့ချ်အော်ဝဲလ်', en: 'George Orwell' },
+  { keywords: ['khin hnin yu', 'ခင်နှင်းယု'], mm: 'ခင်နှင်းယု', en: 'Khin Hnin Yu' },
+  { keywords: ['khat zaw', 'ခက်ဇော်'], mm: 'ခက်ဇော်', en: 'Khat Zaw' }
 ];
 
 const CATEGORY_RULES = [
