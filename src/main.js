@@ -23,17 +23,6 @@ async function initHomePage() {
     populateFooterCategories(categories);
     initScrollAnimations();
   });
-
-  // Newsletter form
-  const form = document.getElementById('newsletterForm');
-  form?.addEventListener('submit', (e) => {
-    e.preventDefault();
-    const input = form.querySelector('input');
-    if (input?.value) {
-      alert('Thank you for subscribing! 🎉');
-      input.value = '';
-    }
-  });
 }
 
 function renderFeaturedBooks() {
