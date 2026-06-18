@@ -23,7 +23,8 @@ const translations = {
     'hero.learnMore': 'Learn More',
     'hero.stats.books': 'Books',
     'hero.stats.authors': 'Authors',
-    'hero.stats.readers': 'Readers',
+    'hero.stats.updates.value': 'Daily',
+    'hero.stats.updates.label': 'Updates',
 
     // Sections
     'section.featured': 'Featured Books',
@@ -70,6 +71,7 @@ const translations = {
 
     // Footer
     'footer.description': 'Your digital library for Myanmar literature.',
+    'footer.disclaimer': 'We built SarOak to share the joy of Myanmar literature. If you are an author and see your book here but prefer it not to be shared for free, please let us know. We will promptly remove it. Please support our local authors by buying their physical books!',
     'footer.quickLinks': 'Quick Links',
     'footer.categories': 'Categories',
     'footer.connect': 'Connect',
@@ -97,7 +99,8 @@ const translations = {
     'hero.learnMore': 'ပိုမိုလေ့လာရန်',
     'hero.stats.books': 'စာအုပ်',
     'hero.stats.authors': 'စာရေးဆရာ',
-    'hero.stats.readers': 'စာဖတ်သူ',
+    'hero.stats.updates.value': 'နေ့စဉ်',
+    'hero.stats.updates.label': 'အသစ်တင်ခြင်း',
 
     // Sections
     'section.featured': 'အသားပေးစာအုပ်များ',
@@ -145,6 +148,7 @@ const translations = {
     // Footer
     'footer.description':
       'မြန်မာစာပေအတွက် သင်၏ ဒစ်ဂျစ်တယ် စာကြည့်တိုက်။',
+    'footer.disclaimer': 'မြန်မာစာပေဖတ်ရှုခြင်းရဲ့ အနှစ်သာရကို မျှဝေရန်အတွက် SarOak ကို ဖန်တီးခဲ့ခြင်းဖြစ်ပါတယ်။ အကယ်၍ သင်သည် စာရေးဆရာတစ်ဦးဖြစ်ပြီး သင့်စာအုပ်ကို ဤနေရာတွင် အခမဲ့မမျှဝေလိုပါက ကျေးဇူးပြု၍ ကျွန်ုပ်တို့ထံ အကြောင်းကြားပေးပါ။ ကျွန်ုပ်တို့အနေဖြင့် ချက်ချင်း ဖယ်ရှားပေးသွားမည်ဖြစ်ပါသည်။ ကျွန်ုပ်တို့၏ ပြည်တွင်းစာရေးဆရာများကို ၎င်းတို့၏ စာအုပ်များအား ဝယ်ယူခြင်းဖြင့် ကူညီပံ့ပိုးပေးကြပါ။',
     'footer.quickLinks': 'အမြန်လင့်များ',
     'footer.categories': 'အမျိုးအစားများ',
     'footer.connect': 'ချိတ်ဆက်ရန်',
