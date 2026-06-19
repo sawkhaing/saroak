@@ -4,7 +4,7 @@ import path from 'path';
 const publicBooksDir = path.join(process.cwd(), 'public', 'books');
 const dataFile = path.join(process.cwd(), 'src', 'books-data.js');
 
-const VALID_EXTENSIONS = ['.epub', '.kfx', '.azw3', '.pdf'];
+const VALID_EXTENSIONS = ['.epub', '.kfx', '.azw3'];
 
 const AUTHOR_MAPPINGS = [
   { keywords: ['min lu', 'မင်းလူ', 'lu '], mm: 'မင်းလူ', en: 'Min Lu' },
@@ -111,6 +111,40 @@ const translateTitle = (mmTitle) => {
 };
 
 console.log('Starting automated book sync...');
+
+// Pre-flight cleanup: fix glued author names dynamically
+const initialFiles = fs.readdirSync(publicBooksDir);
+initialFiles.forEach(file => {
+  const ext = path.extname(file).toLowerCase();
+  if (!VALID_EXTENSIONS.includes(ext)) return;
+  const baseName = path.basename(file, ext);
+  
+  let newName = file;
+  let changed = false;
+
+  AUTHOR_MAPPINGS.forEach(m => {
+    const mmKey = m.mm.replace(/ /g, '_');
+    // If filename has _AuthorMM but not -AuthorMM, it's glued to the title
+    if (baseName.includes('_' + mmKey) && !baseName.includes('-' + mmKey)) {
+        const index = baseName.lastIndexOf('_' + mmKey);
+        if (index !== -1) {
+            let titlePart = baseName.substring(0, index);
+            let authorPart = mmKey + baseName.substring(index + ('_' + mmKey).length);
+            authorPart = authorPart.replace(/-/g, '_'); // fix broken author hyphens
+            const candidate = titlePart + '-' + authorPart + ext;
+            if (candidate !== file) {
+               newName = candidate;
+               changed = true;
+            }
+        }
+    }
+  });
+
+  if (changed) {
+    fs.renameSync(path.join(publicBooksDir, file), path.join(publicBooksDir, newName));
+    console.log('Auto-fixed filename: ' + file + ' -> ' + newName);
+  }
+});
 
 const files = fs.readdirSync(publicBooksDir);
 const bookGroups = {};

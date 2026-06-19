@@ -15,14 +15,14 @@ export const books = [
       "en": "George Orwell"
     },
     "category": "Fiction",
-    "coverColor": "hsl(292, 60%, 40%)",
+    "coverColor": "hsl(250, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-08-15",
-    "pages": 304,
-    "popular": true,
+    "publishDate": "2023-07-15",
+    "pages": 244,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -41,14 +41,14 @@ export const books = [
       "en": "Noriko Otsu"
     },
     "category": "Translated",
-    "coverColor": "hsl(289, 60%, 40%)",
+    "coverColor": "hsl(86, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 287,
-    "popular": true,
+    "publishDate": "2023-06-15",
+    "pages": 105,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -71,13 +71,13 @@ export const books = [
       "en": "Charmaine Craig"
     },
     "category": "Fiction",
-    "coverColor": "hsl(261, 60%, 40%)",
+    "coverColor": "hsl(295, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-08-15",
-    "pages": 200,
+    "publishDate": "2023-03-15",
+    "pages": 188,
     "popular": false,
     "formats": [
       {
@@ -97,13 +97,13 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(317, 60%, 40%)",
+    "coverColor": "hsl(202, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 315,
+    "publishDate": "2023-03-15",
+    "pages": 365,
     "popular": true,
     "formats": [
       {
@@ -127,14 +127,14 @@ export const books = [
       "en": "Nat Nwe"
     },
     "category": "History",
-    "coverColor": "hsl(182, 60%, 40%)",
+    "coverColor": "hsl(120, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 239,
-    "popular": false,
+    "publishDate": "2023-02-15",
+    "pages": 231,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -157,13 +157,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(4, 60%, 40%)",
+    "coverColor": "hsl(245, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 226,
+    "publishDate": "2023-07-15",
+    "pages": 325,
     "popular": false,
     "formats": [
       {
@@ -187,14 +187,14 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(131, 60%, 40%)",
+    "coverColor": "hsl(274, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 122,
-    "popular": false,
+    "publishDate": "2023-01-15",
+    "pages": 315,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -217,14 +217,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(171, 60%, 40%)",
+    "coverColor": "hsl(331, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 297,
-    "popular": false,
+    "publishDate": "2023-09-15",
+    "pages": 203,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -247,13 +247,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(129, 60%, 40%)",
+    "coverColor": "hsl(132, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 211,
+    "publishDate": "2023-05-15",
+    "pages": 363,
     "popular": false,
     "formats": [
       {
@@ -277,13 +277,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(49, 60%, 40%)",
+    "coverColor": "hsl(82, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 225,
+    "publishDate": "2023-04-15",
+    "pages": 299,
     "popular": false,
     "formats": [
       {
@@ -307,13 +307,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(351, 60%, 40%)",
+    "coverColor": "hsl(204, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 359,
+    "publishDate": "2023-08-15",
+    "pages": 155,
     "popular": true,
     "formats": [
       {
@@ -337,13 +337,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(249, 60%, 40%)",
+    "coverColor": "hsl(340, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 249,
+    "publishDate": "2023-03-15",
+    "pages": 215,
     "popular": false,
     "formats": [
       {
@@ -367,14 +367,14 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(169, 60%, 40%)",
+    "coverColor": "hsl(86, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 190,
-    "popular": true,
+    "publishDate": "2023-07-15",
+    "pages": 315,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -397,14 +397,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(143, 60%, 40%)",
+    "coverColor": "hsl(257, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 356,
-    "popular": true,
+    "publishDate": "2023-08-15",
+    "pages": 286,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -419,32 +419,6 @@ export const books = [
   {
     "id": "book_114",
     "title": {
-      "mm": "ကျားဘီလူးနှင့်တောကြီးဝင်္ကပါ",
-      "en": "ကျားဘီလူးနှင့်တောကြီးဝင်္ကပါ"
-    },
-    "author": {
-      "mm": "Unknown Author",
-      "en": "Unknown Author"
-    },
-    "category": "Fiction",
-    "coverColor": "hsl(250, 60%, 40%)",
-    "description": {
-      "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
-      "en": "This is a great book and highly recommended to read."
-    },
-    "publishDate": "2023-09-15",
-    "pages": 342,
-    "popular": false,
-    "formats": [
-      {
-        "type": "PDF",
-        "url": "/books/ကျားဘီလူးနှင့်တောကြီးဝင်္ကပါ-Unknown_Author.pdf"
-      }
-    ]
-  },
-  {
-    "id": "book_115",
-    "title": {
       "mm": "ကြက်ဈေး",
       "en": "ကြက်ဈေး"
     },
@@ -453,13 +427,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(199, 60%, 40%)",
+    "coverColor": "hsl(192, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 174,
+    "publishDate": "2023-06-15",
+    "pages": 103,
     "popular": false,
     "formats": [
       {
@@ -473,7 +447,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_116",
+    "id": "book_115",
     "title": {
       "mm": "ကြက်သွန်ကြော်လုပ်ငန်း",
       "en": "ကြက်သွန်ကြော်လုပ်ငန်း"
@@ -483,13 +457,13 @@ export const books = [
       "en": "Ludu Daw Amar"
     },
     "category": "Non-Fiction",
-    "coverColor": "hsl(97, 60%, 40%)",
+    "coverColor": "hsl(325, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 214,
+    "publishDate": "2023-02-15",
+    "pages": 124,
     "popular": true,
     "formats": [
       {
@@ -503,7 +477,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_117",
+    "id": "book_116",
     "title": {
       "mm": "ကြယ်ကြွေတို့ရဲ့ အတောင်ပံ",
       "en": "ကြယ်ကြွေတို့ရဲ့ အတောင်ပံ"
@@ -513,13 +487,13 @@ export const books = [
       "en": "Juu"
     },
     "category": "Fiction",
-    "coverColor": "hsl(320, 60%, 40%)",
+    "coverColor": "hsl(12, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 207,
+    "publishDate": "2023-05-15",
+    "pages": 297,
     "popular": false,
     "formats": [
       {
@@ -533,7 +507,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_118",
+    "id": "book_117",
     "title": {
       "mm": "ကြားလိုက်ရသောကြောင့်",
       "en": "ကြားလိုက်ရသောကြောင့်"
@@ -543,14 +517,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(239, 60%, 40%)",
+    "coverColor": "hsl(336, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-08-15",
-    "pages": 228,
-    "popular": true,
+    "publishDate": "2023-04-15",
+    "pages": 141,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -563,7 +537,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_119",
+    "id": "book_118",
     "title": {
       "mm": "ကြောက်လို့ရယ် မဟုတ်ပါဘူး",
       "en": "ကြောက်လို့ရယ် မဟုတ်ပါဘူး"
@@ -573,14 +547,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(340, 60%, 40%)",
+    "coverColor": "hsl(102, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 306,
-    "popular": true,
+    "publishDate": "2023-03-15",
+    "pages": 226,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -593,7 +567,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_120",
+    "id": "book_119",
     "title": {
       "mm": "ကွက်လပ်ကလေးဖြည့်ပေးပါ",
       "en": "ကွက်လပ်ကလေးဖြည့်ပေးပါ"
@@ -603,13 +577,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(75, 60%, 40%)",
+    "coverColor": "hsl(29, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 374,
+    "publishDate": "2023-04-15",
+    "pages": 340,
     "popular": false,
     "formats": [
       {
@@ -623,7 +597,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_121",
+    "id": "book_120",
     "title": {
       "mm": "ခတ္တာပွင့်ချိန်",
       "en": "ခတ္တာပွင့်ချိန်"
@@ -633,14 +607,14 @@ export const books = [
       "en": "Ludu Daw Amar"
     },
     "category": "Non-Fiction",
-    "coverColor": "hsl(196, 60%, 40%)",
+    "coverColor": "hsl(28, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 366,
-    "popular": false,
+    "publishDate": "2023-02-15",
+    "pages": 152,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -653,7 +627,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_122",
+    "id": "book_121",
     "title": {
       "mm": "ခိုးခိုးခစ်ခစ်",
       "en": "ခိုးခိုးခစ်ခစ်"
@@ -663,13 +637,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(312, 60%, 40%)",
+    "coverColor": "hsl(24, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 246,
+    "publishDate": "2023-04-15",
+    "pages": 206,
     "popular": false,
     "formats": [
       {
@@ -683,7 +657,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_123",
+    "id": "book_122",
     "title": {
       "mm": "ခေတ်ရယ် အချစ်ရယ်",
       "en": "ခေတ်ရယ် အချစ်ရယ်"
@@ -693,14 +667,14 @@ export const books = [
       "en": "Sabal Phyu Nu"
     },
     "category": "Fiction",
-    "coverColor": "hsl(353, 60%, 40%)",
+    "coverColor": "hsl(154, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 128,
-    "popular": true,
+    "publishDate": "2023-01-15",
+    "pages": 210,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -713,7 +687,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_124",
+    "id": "book_123",
     "title": {
       "mm": "ခေါင်းခါပြလိုက်ပြီ",
       "en": "ခေါင်းခါပြလိုက်ပြီ"
@@ -723,13 +697,13 @@ export const books = [
       "en": "Mya Than Tint"
     },
     "category": "Fiction",
-    "coverColor": "hsl(245, 60%, 40%)",
+    "coverColor": "hsl(224, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 385,
+    "publishDate": "2023-02-15",
+    "pages": 198,
     "popular": false,
     "formats": [
       {
@@ -743,7 +717,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_125",
+    "id": "book_124",
     "title": {
       "mm": "ခေါင်းလောင်းထိုးသောလူတယောက်",
       "en": "ခေါင်းလောင်းထိုးသောလူတယောက်"
@@ -753,13 +727,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(234, 60%, 40%)",
+    "coverColor": "hsl(47, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 217,
+    "publishDate": "2023-03-15",
+    "pages": 259,
     "popular": false,
     "formats": [
       {
@@ -773,7 +747,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_126",
+    "id": "book_125",
     "title": {
       "mm": "ချာလီ",
       "en": "ချာလီ"
@@ -783,13 +757,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(114, 60%, 40%)",
+    "coverColor": "hsl(228, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 182,
+    "publishDate": "2023-06-15",
+    "pages": 225,
     "popular": false,
     "formats": [
       {
@@ -803,7 +777,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_127",
+    "id": "book_126",
     "title": {
       "mm": "ခြစ်ဒုက္ခ",
       "en": "ခြစ်ဒုက္ခ"
@@ -813,14 +787,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(110, 60%, 40%)",
+    "coverColor": "hsl(145, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-08-15",
-    "pages": 219,
-    "popular": false,
+    "publishDate": "2023-02-15",
+    "pages": 328,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -833,7 +807,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_128",
+    "id": "book_127",
     "title": {
       "mm": "ဂျာအေးကိုရိုက်ပါလို့",
       "en": "ဂျာအေးကိုရိုက်ပါလို့"
@@ -843,13 +817,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(339, 60%, 40%)",
+    "coverColor": "hsl(113, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 350,
+    "publishDate": "2023-07-15",
+    "pages": 366,
     "popular": false,
     "formats": [
       {
@@ -863,7 +837,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_129",
+    "id": "book_128",
     "title": {
       "mm": "ဂျီဟောသူ",
       "en": "ဂျီဟောသူ"
@@ -873,13 +847,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(171, 60%, 40%)",
+    "coverColor": "hsl(154, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 236,
+    "publishDate": "2023-05-15",
+    "pages": 260,
     "popular": false,
     "formats": [
       {
@@ -893,7 +867,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_130",
+    "id": "book_129",
     "title": {
       "mm": "ဂျူးမကလေးအီဗာ",
       "en": "ဂျူးမကလေးအီဗာ"
@@ -903,13 +877,13 @@ export const books = [
       "en": "Juu"
     },
     "category": "Translated",
-    "coverColor": "hsl(216, 60%, 40%)",
+    "coverColor": "hsl(98, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 214,
+    "publishDate": "2023-04-15",
+    "pages": 310,
     "popular": true,
     "formats": [
       {
@@ -923,7 +897,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_131",
+    "id": "book_130",
     "title": {
       "mm": "ငဘ",
       "en": "ငဘ"
@@ -933,13 +907,13 @@ export const books = [
       "en": "Mg Htin"
     },
     "category": "Fiction",
-    "coverColor": "hsl(201, 60%, 40%)",
+    "coverColor": "hsl(29, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 374,
+    "publishDate": "2023-05-15",
+    "pages": 155,
     "popular": false,
     "formats": [
       {
@@ -953,7 +927,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_132",
+    "id": "book_131",
     "title": {
       "mm": "ငယ်သူမို့ မသိပါ",
       "en": "ငယ်သူမို့ မသိပါ"
@@ -963,13 +937,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(221, 60%, 40%)",
+    "coverColor": "hsl(208, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 146,
+    "publishDate": "2023-08-15",
+    "pages": 214,
     "popular": false,
     "formats": [
       {
@@ -983,7 +957,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_133",
+    "id": "book_132",
     "title": {
       "mm": "ငါ့ဓား ငါ့သွေး ငါ့ဧရာဝတီ",
       "en": "ငါ့ဓား ငါ့သွေး ငါ့ဧရာဝတီ"
@@ -993,14 +967,14 @@ export const books = [
       "en": "Nanda"
     },
     "category": "Fiction",
-    "coverColor": "hsl(324, 60%, 40%)",
+    "coverColor": "hsl(125, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 118,
-    "popular": true,
+    "publishDate": "2023-05-15",
+    "pages": 251,
+    "popular": false,
     "formats": [
       {
         "type": "AZW3",
@@ -1017,7 +991,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_134",
+    "id": "book_133",
     "title": {
       "mm": "ငါးကင်စားသူများ",
       "en": "ငါးကင်စားသူများ"
@@ -1027,14 +1001,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(143, 60%, 40%)",
+    "coverColor": "hsl(352, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 316,
-    "popular": true,
+    "publishDate": "2023-08-15",
+    "pages": 228,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -1047,7 +1021,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_135",
+    "id": "book_134",
     "title": {
       "mm": "ငါးကျပ်တန်တစ်ရွက်",
       "en": "ငါးကျပ်တန်တစ်ရွက်"
@@ -1057,14 +1031,14 @@ export const books = [
       "en": "Ni Ko Ye"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(304, 60%, 40%)",
+    "coverColor": "hsl(27, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 292,
-    "popular": false,
+    "publishDate": "2023-08-15",
+    "pages": 339,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -1077,7 +1051,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_136",
+    "id": "book_135",
     "title": {
       "mm": "ငါးပုတ်သင်",
       "en": "ငါးပုတ်သင်"
@@ -1087,13 +1061,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(56, 60%, 40%)",
+    "coverColor": "hsl(195, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 210,
+    "publishDate": "2023-05-15",
+    "pages": 251,
     "popular": false,
     "formats": [
       {
@@ -1107,7 +1081,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_137",
+    "id": "book_136",
     "title": {
       "mm": "ငါးမူး တစ်ကျပ် ပေးရတယ်",
       "en": "ငါးမူး တစ်ကျပ် ပေးရတယ်"
@@ -1117,14 +1091,14 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(196, 60%, 40%)",
+    "coverColor": "hsl(93, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-04-15",
-    "pages": 130,
-    "popular": false,
+    "pages": 192,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -1137,7 +1111,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_138",
+    "id": "book_137",
     "title": {
       "mm": "ငွေစက္ကူများ လူများ",
       "en": "ငွေစက္ကူများ လူများ"
@@ -1147,14 +1121,14 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(120, 60%, 40%)",
+    "coverColor": "hsl(287, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 112,
-    "popular": true,
+    "publishDate": "2023-04-15",
+    "pages": 244,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -1167,7 +1141,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_139",
+    "id": "book_138",
     "title": {
       "mm": "ငှက်ကလေး",
       "en": "ငှက်ကလေး"
@@ -1177,13 +1151,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(60, 60%, 40%)",
+    "coverColor": "hsl(23, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 374,
+    "publishDate": "2023-08-15",
+    "pages": 338,
     "popular": false,
     "formats": [
       {
@@ -1197,7 +1171,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_140",
+    "id": "book_139",
     "title": {
       "mm": "စက်ဝိုင်း",
       "en": "စက်ဝိုင်း"
@@ -1207,14 +1181,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(272, 60%, 40%)",
+    "coverColor": "hsl(118, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 243,
-    "popular": false,
+    "publishDate": "2023-01-15",
+    "pages": 287,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -1227,7 +1201,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_141",
+    "id": "book_140",
     "title": {
       "mm": "စင်ပေါ်ကအပျိုကြီး",
       "en": "စင်ပေါ်ကအပျိုကြီး"
@@ -1237,13 +1211,13 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(163, 60%, 40%)",
+    "coverColor": "hsl(268, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 296,
+    "publishDate": "2023-08-15",
+    "pages": 369,
     "popular": false,
     "formats": [
       {
@@ -1257,7 +1231,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_142",
+    "id": "book_141",
     "title": {
       "mm": "စည်းကြိုးနှင့် ကြက်တောင်",
       "en": "စည်းကြိုးနှင့် ကြက်တောင်"
@@ -1267,13 +1241,13 @@ export const books = [
       "en": "Htin Lin"
     },
     "category": "Fiction",
-    "coverColor": "hsl(267, 60%, 40%)",
+    "coverColor": "hsl(81, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 166,
+    "publishDate": "2023-02-15",
+    "pages": 373,
     "popular": true,
     "formats": [
       {
@@ -1287,7 +1261,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_143",
+    "id": "book_142",
     "title": {
       "mm": "စာအုပ်ပိုး",
       "en": "စာအုပ်ပိုး"
@@ -1297,13 +1271,13 @@ export const books = [
       "en": "Phae Myint"
     },
     "category": "Non-Fiction",
-    "coverColor": "hsl(253, 60%, 40%)",
+    "coverColor": "hsl(12, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 131,
+    "publishDate": "2023-02-15",
+    "pages": 105,
     "popular": false,
     "formats": [
       {
@@ -1317,7 +1291,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_144",
+    "id": "book_143",
     "title": {
       "mm": "စိတ္တဇ",
       "en": "Psychopath"
@@ -1327,14 +1301,14 @@ export const books = [
       "en": "Mg Moe Thu"
     },
     "category": "Mystery & Detective",
-    "coverColor": "hsl(121, 60%, 40%)",
+    "coverColor": "hsl(219, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 188,
-    "popular": false,
+    "publishDate": "2023-05-15",
+    "pages": 360,
+    "popular": true,
     "formats": [
       {
         "type": "AZW3",
@@ -1351,7 +1325,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_145",
+    "id": "book_144",
     "title": {
       "mm": "စိတ်အိုင်ပက်သူ",
       "en": "စိတ်အိုင်ပက်သူ"
@@ -1361,13 +1335,13 @@ export const books = [
       "en": "Ni Ko Ye"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(229, 60%, 40%)",
+    "coverColor": "hsl(256, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 124,
+    "publishDate": "2023-04-15",
+    "pages": 235,
     "popular": false,
     "formats": [
       {
@@ -1381,7 +1355,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_146",
+    "id": "book_145",
     "title": {
       "mm": "စီးဆင်းနေသော မြစ်များ",
       "en": "စီးဆင်းနေသော မြစ်များ"
@@ -1391,14 +1365,14 @@ export const books = [
       "en": "Yin Yin Nu"
     },
     "category": "Fiction",
-    "coverColor": "hsl(290, 60%, 40%)",
+    "coverColor": "hsl(90, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 200,
-    "popular": true,
+    "publishDate": "2023-05-15",
+    "pages": 182,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -1411,7 +1385,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_147",
+    "id": "book_146",
     "title": {
       "mm": "စီးဆင်းလာသော ပုတ္တောဝါဒ",
       "en": "စီးဆင်းလာသော ပုတ္တောဝါဒ"
@@ -1421,13 +1395,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(4, 60%, 40%)",
+    "coverColor": "hsl(352, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 169,
+    "publishDate": "2023-05-15",
+    "pages": 195,
     "popular": false,
     "formats": [
       {
@@ -1441,7 +1415,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_148",
+    "id": "book_147",
     "title": {
       "mm": "စောင်းကြိုးတင်းသည့် သီချင်းသံ",
       "en": "စောင်းကြိုးတင်းသည့် သီချင်းသံ"
@@ -1451,13 +1425,13 @@ export const books = [
       "en": "Htin Lin"
     },
     "category": "Fiction",
-    "coverColor": "hsl(118, 60%, 40%)",
+    "coverColor": "hsl(96, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-08-15",
-    "pages": 374,
+    "publishDate": "2023-03-15",
+    "pages": 170,
     "popular": false,
     "formats": [
       {
@@ -1471,7 +1445,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_149",
+    "id": "book_148",
     "title": {
       "mm": "ဆင်ကုန်သည်",
       "en": "ဆင်ကုန်သည်"
@@ -1481,14 +1455,14 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(23, 60%, 40%)",
+    "coverColor": "hsl(89, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 169,
-    "popular": false,
+    "publishDate": "2023-03-15",
+    "pages": 224,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -1501,7 +1475,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_150",
+    "id": "book_149",
     "title": {
       "mm": "ဆားပုလင်းနှင်းမောင်နှင့် မြကျွန်းသာပေါ်က မျောက်သုံးကောင်",
       "en": "Sar Pu Lin Hnin Maung"
@@ -1511,13 +1485,13 @@ export const books = [
       "en": "Min Thein Kha"
     },
     "category": "Mystery & Detective",
-    "coverColor": "hsl(78, 60%, 40%)",
+    "coverColor": "hsl(156, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 215,
+    "publishDate": "2023-07-15",
+    "pages": 168,
     "popular": false,
     "formats": [
       {
@@ -1531,7 +1505,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_151",
+    "id": "book_150",
     "title": {
       "mm": "ဆားဖျက်လေတယ်",
       "en": "ဆားဖျက်လေတယ်"
@@ -1541,13 +1515,13 @@ export const books = [
       "en": "Aung Thein"
     },
     "category": "Fiction",
-    "coverColor": "hsl(125, 60%, 40%)",
+    "coverColor": "hsl(242, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 338,
+    "publishDate": "2023-05-15",
+    "pages": 284,
     "popular": false,
     "formats": [
       {
@@ -1561,7 +1535,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_152",
+    "id": "book_151",
     "title": {
       "mm": "ဇစ်မြစ်",
       "en": "ဇစ်မြစ်"
@@ -1571,14 +1545,14 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(312, 60%, 40%)",
+    "coverColor": "hsl(20, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 114,
-    "popular": false,
+    "publishDate": "2023-04-15",
+    "pages": 354,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -1591,7 +1565,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_153",
+    "id": "book_152",
     "title": {
       "mm": "ညဉ့်မှောင်ရိပ်မှ ဖန်မီးအိမ်",
       "en": "ညဉ့်မှောင်ရိပ်မှ ဖန်မီးအိမ်"
@@ -1601,13 +1575,13 @@ export const books = [
       "en": "Zin Thant"
     },
     "category": "Fiction",
-    "coverColor": "hsl(233, 60%, 40%)",
+    "coverColor": "hsl(334, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 108,
+    "publishDate": "2023-09-15",
+    "pages": 227,
     "popular": false,
     "formats": [
       {
@@ -1621,7 +1595,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_154",
+    "id": "book_153",
     "title": {
       "mm": "တက္ကသိုလ်ကျောင်းသားတဦး",
       "en": "တက္ကသိုလ်ကျောင်းသားတဦး"
@@ -1631,13 +1605,13 @@ export const books = [
       "en": "Win Oo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(180, 60%, 40%)",
+    "coverColor": "hsl(83, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 207,
+    "publishDate": "2023-04-15",
+    "pages": 279,
     "popular": false,
     "formats": [
       {
@@ -1651,7 +1625,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_155",
+    "id": "book_154",
     "title": {
       "mm": "တကွေ့ကွေတော့တွေ့ကြဦးမည်",
       "en": "တကွေ့ကွေတော့တွေ့ကြဦးမည်"
@@ -1661,13 +1635,13 @@ export const books = [
       "en": "Nat Nwe"
     },
     "category": "History",
-    "coverColor": "hsl(184, 60%, 40%)",
+    "coverColor": "hsl(21, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 103,
+    "publishDate": "2023-09-15",
+    "pages": 369,
     "popular": false,
     "formats": [
       {
@@ -1681,7 +1655,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_156",
+    "id": "book_155",
     "title": {
       "mm": "တမလွန်သို့ ပေးစာတစ်စောင်",
       "en": "တမလွန်သို့ ပေးစာတစ်စောင်"
@@ -1691,14 +1665,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(275, 60%, 40%)",
+    "coverColor": "hsl(314, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 207,
-    "popular": false,
+    "publishDate": "2023-06-15",
+    "pages": 137,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -1711,7 +1685,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_157",
+    "id": "book_156",
     "title": {
       "mm": "တယ်လီဖုန်း",
       "en": "တယ်လီဖုန်း"
@@ -1721,14 +1695,14 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(65, 60%, 40%)",
+    "coverColor": "hsl(206, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 123,
-    "popular": true,
+    "publishDate": "2023-03-15",
+    "pages": 348,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -1741,7 +1715,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_158",
+    "id": "book_157",
     "title": {
       "mm": "တိမ်ဖုံးပါလို့လမသာ",
       "en": "တိမ်ဖုံးပါလို့လမသာ"
@@ -1751,13 +1725,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(125, 60%, 40%)",
+    "coverColor": "hsl(194, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 138,
+    "publishDate": "2023-05-15",
+    "pages": 360,
     "popular": true,
     "formats": [
       {
@@ -1771,7 +1745,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_159",
+    "id": "book_158",
     "title": {
       "mm": "တို့ပိုင်တဲ့မြေ",
       "en": "တို့ပိုင်တဲ့မြေ"
@@ -1781,14 +1755,14 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(341, 60%, 40%)",
+    "coverColor": "hsl(214, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 296,
-    "popular": false,
+    "publishDate": "2023-05-15",
+    "pages": 216,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -1801,7 +1775,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_160",
+    "id": "book_159",
     "title": {
       "mm": "တို့ဘဝ တို့ ကမ္ဘာ",
       "en": "တို့ဘဝ တို့ ကမ္ဘာ"
@@ -1811,14 +1785,14 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(240, 60%, 40%)",
+    "coverColor": "hsl(200, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 386,
-    "popular": true,
+    "publishDate": "2023-01-15",
+    "pages": 142,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -1831,7 +1805,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_161",
+    "id": "book_160",
     "title": {
       "mm": "တို့ယာမြေ",
       "en": "တို့ယာမြေ"
@@ -1841,13 +1815,13 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(357, 60%, 40%)",
+    "coverColor": "hsl(71, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 361,
+    "publishDate": "2023-01-15",
+    "pages": 284,
     "popular": true,
     "formats": [
       {
@@ -1861,7 +1835,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_162",
+    "id": "book_161",
     "title": {
       "mm": "တီဗွီနာ",
       "en": "တီဗွီနာ"
@@ -1871,13 +1845,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(27, 60%, 40%)",
+    "coverColor": "hsl(52, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 134,
+    "publishDate": "2023-08-15",
+    "pages": 341,
     "popular": false,
     "formats": [
       {
@@ -1891,7 +1865,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_163",
+    "id": "book_162",
     "title": {
       "mm": "တီရွာ",
       "en": "တီရွာ"
@@ -1901,14 +1875,14 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(201, 60%, 40%)",
+    "coverColor": "hsl(189, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 339,
-    "popular": false,
+    "publishDate": "2023-07-15",
+    "pages": 373,
+    "popular": true,
     "formats": [
       {
         "type": "AZW3",
@@ -1921,7 +1895,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_164",
+    "id": "book_163",
     "title": {
       "mm": "တီရှာ",
       "en": "တီရှာ"
@@ -1931,13 +1905,13 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(280, 60%, 40%)",
+    "coverColor": "hsl(125, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 369,
+    "publishDate": "2023-07-15",
+    "pages": 169,
     "popular": false,
     "formats": [
       {
@@ -1955,33 +1929,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_165",
-    "title": {
-      "mm": "တောင်တန်းတွေရဲ့အလွန်",
-      "en": "တောင်တန်းတွေရဲ့အလွန်"
-    },
-    "author": {
-      "mm": "ပုညခင်",
-      "en": "Pu Nya Khin"
-    },
-    "category": "Fiction",
-    "coverColor": "hsl(89, 60%, 40%)",
-    "description": {
-      "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
-      "en": "This is a great book and highly recommended to read."
-    },
-    "publishDate": "2023-05-15",
-    "pages": 270,
-    "popular": false,
-    "formats": [
-      {
-        "type": "PDF",
-        "url": "/books/တောင်တန်းတွေရဲ့အလွန်-ပုညခင်_Pu_Nya_Khin.pdf"
-      }
-    ]
-  },
-  {
-    "id": "book_166",
+    "id": "book_164",
     "title": {
       "mm": "တောလည် မောတယ်",
       "en": "တောလည် မောတယ်"
@@ -1991,13 +1939,13 @@ export const books = [
       "en": "Mg Thar Ya"
     },
     "category": "Fiction",
-    "coverColor": "hsl(5, 60%, 40%)",
+    "coverColor": "hsl(279, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 353,
+    "publishDate": "2023-07-15",
+    "pages": 346,
     "popular": false,
     "formats": [
       {
@@ -2007,7 +1955,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_167",
+    "id": "book_165",
     "title": {
       "mm": "ထိုနေ့က ကားကျပ်သည်။",
       "en": "ထိုနေ့က ကားကျပ်သည်။"
@@ -2017,13 +1965,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(172, 60%, 40%)",
+    "coverColor": "hsl(327, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 357,
+    "publishDate": "2023-05-15",
+    "pages": 301,
     "popular": false,
     "formats": [
       {
@@ -2037,7 +1985,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_168",
+    "id": "book_166",
     "title": {
       "mm": "ထိုနေ့က တက်သောကြောင့် ကျသည်",
       "en": "ထိုနေ့က တက်သောကြောင့် ကျသည်"
@@ -2047,13 +1995,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(322, 60%, 40%)",
+    "coverColor": "hsl(36, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 332,
+    "publishDate": "2023-06-15",
+    "pages": 357,
     "popular": false,
     "formats": [
       {
@@ -2067,7 +2015,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_169",
+    "id": "book_167",
     "title": {
       "mm": "ထိုနေ့က မီးမလာပါ",
       "en": "ထိုနေ့က မီးမလာပါ"
@@ -2077,14 +2025,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(7, 60%, 40%)",
+    "coverColor": "hsl(133, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 206,
-    "popular": false,
+    "publishDate": "2023-02-15",
+    "pages": 307,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -2097,7 +2045,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_170",
+    "id": "book_168",
     "title": {
       "mm": "ထီး",
       "en": "ထီး"
@@ -2107,13 +2055,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(176, 60%, 40%)",
+    "coverColor": "hsl(343, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 159,
+    "publishDate": "2023-06-15",
+    "pages": 283,
     "popular": false,
     "formats": [
       {
@@ -2127,7 +2075,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_171",
+    "id": "book_169",
     "title": {
       "mm": "ဒါတော့ သိဘူးလေ",
       "en": "ဒါတော့ သိဘူးလေ"
@@ -2137,13 +2085,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(313, 60%, 40%)",
+    "coverColor": "hsl(282, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 199,
+    "publishDate": "2023-03-15",
+    "pages": 260,
     "popular": false,
     "formats": [
       {
@@ -2157,7 +2105,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_172",
+    "id": "book_170",
     "title": {
       "mm": "ဒီနားခဏ",
       "en": "ဒီနားခဏ"
@@ -2167,14 +2115,14 @@ export const books = [
       "en": "Mg Wanna"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(289, 60%, 40%)",
+    "coverColor": "hsl(4, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 343,
-    "popular": true,
+    "publishDate": "2023-08-15",
+    "pages": 189,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -2187,7 +2135,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_173",
+    "id": "book_171",
     "title": {
       "mm": "ဒေဝတာမြို့တော်",
       "en": "ဒေဝတာမြို့တော်"
@@ -2197,13 +2145,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(272, 60%, 40%)",
+    "coverColor": "hsl(130, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 184,
+    "publishDate": "2023-05-15",
+    "pages": 289,
     "popular": false,
     "formats": [
       {
@@ -2217,7 +2165,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_174",
+    "id": "book_172",
     "title": {
       "mm": "ဒေါသမာန်",
       "en": "ဒေါသမာန်"
@@ -2227,13 +2175,13 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(101, 60%, 40%)",
+    "coverColor": "hsl(185, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 247,
+    "publishDate": "2023-03-15",
+    "pages": 343,
     "popular": false,
     "formats": [
       {
@@ -2247,7 +2195,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_175",
+    "id": "book_173",
     "title": {
       "mm": "နဂါးမျက်စောင်း မင်းခိုက်စိုးစံ Min Khite",
       "en": "နဂါးမျက်စောင်း မင်းခိုက်စိုးစံ Min Khite"
@@ -2257,13 +2205,13 @@ export const books = [
       "en": "Min Khite Soe San"
     },
     "category": "Fiction",
-    "coverColor": "hsl(45, 60%, 40%)",
+    "coverColor": "hsl(342, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-01-15",
-    "pages": 280,
+    "pages": 225,
     "popular": false,
     "formats": [
       {
@@ -2277,7 +2225,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_176",
+    "id": "book_174",
     "title": {
       "mm": "နာမည်တစ်လုံးနှင့်လူ",
       "en": "နာမည်တစ်လုံးနှင့်လူ"
@@ -2287,13 +2235,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(316, 60%, 40%)",
+    "coverColor": "hsl(117, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-07-15",
-    "pages": 186,
+    "pages": 171,
     "popular": true,
     "formats": [
       {
@@ -2307,7 +2255,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_177",
+    "id": "book_175",
     "title": {
       "mm": "နေရိပ်လွတ်သော ပန်းကလေး",
       "en": "နေရိပ်လွတ်သော ပန်းကလေး"
@@ -2317,13 +2265,13 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(205, 60%, 40%)",
+    "coverColor": "hsl(213, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 267,
+    "publishDate": "2023-05-15",
+    "pages": 163,
     "popular": true,
     "formats": [
       {
@@ -2337,7 +2285,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_178",
+    "id": "book_176",
     "title": {
       "mm": "နောက်ဆုံးကျတော့ ကျော်ဟိန်းက ကျော်ဟိန်းပါပဲ",
       "en": "နောက်ဆုံးကျတော့ ကျော်ဟိန်းက ကျော်ဟိန်းပါပဲ"
@@ -2347,14 +2295,14 @@ export const books = [
       "en": "Mg Thar Ya"
     },
     "category": "Fiction",
-    "coverColor": "hsl(273, 60%, 40%)",
+    "coverColor": "hsl(272, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 364,
-    "popular": false,
+    "publishDate": "2023-04-15",
+    "pages": 134,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -2367,7 +2315,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_179",
+    "id": "book_177",
     "title": {
       "mm": "နောက်ဆုံးလို့ နှုတ်မဆက်ခင်မှာ",
       "en": "နောက်ဆုံးလို့ နှုတ်မဆက်ခင်မှာ"
@@ -2377,14 +2325,14 @@ export const books = [
       "en": "Mi Chan Wai"
     },
     "category": "Fiction",
-    "coverColor": "hsl(175, 60%, 40%)",
+    "coverColor": "hsl(18, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 346,
-    "popular": false,
+    "publishDate": "2023-05-15",
+    "pages": 251,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -2397,7 +2345,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_180",
+    "id": "book_178",
     "title": {
       "mm": "နေ့တိုင်း အောင်မြင်လို့ ရပါတယ်",
       "en": "နေ့တိုင်း အောင်မြင်လို့ ရပါတယ်"
@@ -2407,13 +2355,13 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(345, 60%, 40%)",
+    "coverColor": "hsl(181, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 279,
+    "publishDate": "2023-06-15",
+    "pages": 365,
     "popular": false,
     "formats": [
       {
@@ -2427,7 +2375,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_181",
+    "id": "book_179",
     "title": {
       "mm": "နှင့်",
       "en": "နှင့်"
@@ -2437,13 +2385,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(118, 60%, 40%)",
+    "coverColor": "hsl(4, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 226,
+    "publishDate": "2023-09-15",
+    "pages": 303,
     "popular": true,
     "formats": [
       {
@@ -2457,7 +2405,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_182",
+    "id": "book_180",
     "title": {
       "mm": "နှစ်ကိုယ်ခွဲ",
       "en": "နှစ်ကိုယ်ခွဲ"
@@ -2467,14 +2415,14 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(9, 60%, 40%)",
+    "coverColor": "hsl(27, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 382,
-    "popular": false,
+    "publishDate": "2023-09-15",
+    "pages": 119,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -2487,7 +2435,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_183",
+    "id": "book_181",
     "title": {
       "mm": "နှစ်ဆယ့်တစ်ရာစုအကြို ဦးနှောက်များ",
       "en": "နှစ်ဆယ့်တစ်ရာစုအကြို ဦးနှောက်များ"
@@ -2497,13 +2445,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(196, 60%, 40%)",
+    "coverColor": "hsl(330, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 342,
+    "publishDate": "2023-07-15",
+    "pages": 359,
     "popular": false,
     "formats": [
       {
@@ -2517,7 +2465,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_184",
+    "id": "book_182",
     "title": {
       "mm": "နှစ်ဆယ့်ရှစ်နှစ်ရှိပြီဖြစ်တဲ့",
       "en": "နှစ်ဆယ့်ရှစ်နှစ်ရှိပြီဖြစ်တဲ့"
@@ -2527,13 +2475,13 @@ export const books = [
       "en": "Nu Nu Yi Inwa"
     },
     "category": "Fiction",
-    "coverColor": "hsl(152, 60%, 40%)",
+    "coverColor": "hsl(322, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 210,
+    "publishDate": "2023-08-15",
+    "pages": 307,
     "popular": false,
     "formats": [
       {
@@ -2547,7 +2495,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_185",
+    "id": "book_183",
     "title": {
       "mm": "နှစ်ပေါင်းရှစ်ဆယ် ငွေရှစ်ဆယ်",
       "en": "နှစ်ပေါင်းရှစ်ဆယ် ငွေရှစ်ဆယ်"
@@ -2557,14 +2505,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(291, 60%, 40%)",
+    "coverColor": "hsl(119, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 182,
-    "popular": false,
+    "publishDate": "2023-04-15",
+    "pages": 148,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -2577,7 +2525,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_186",
+    "id": "book_184",
     "title": {
       "mm": "နှစ်လောက",
       "en": "နှစ်လောက"
@@ -2587,13 +2535,13 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(208, 60%, 40%)",
+    "coverColor": "hsl(30, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 104,
+    "publishDate": "2023-05-15",
+    "pages": 339,
     "popular": false,
     "formats": [
       {
@@ -2607,7 +2555,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_187",
+    "id": "book_185",
     "title": {
       "mm": "နှမ်းတစ်စေ့၊ ကြယ်တစ်ပွင့်နှင့် မင်တစ်စက်",
       "en": "နှမ်းတစ်စေ့၊ ကြယ်တစ်ပွင့်နှင့် မင်တစ်စက်"
@@ -2617,13 +2565,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(278, 60%, 40%)",
+    "coverColor": "hsl(306, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 163,
+    "publishDate": "2023-08-15",
+    "pages": 164,
     "popular": false,
     "formats": [
       {
@@ -2637,7 +2585,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_188",
+    "id": "book_186",
     "title": {
       "mm": "နှလုံးသားနှင့်လဲလှယ်ကာ",
       "en": "နှလုံးသားနှင့်လဲလှယ်ကာ"
@@ -2647,14 +2595,14 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(207, 60%, 40%)",
+    "coverColor": "hsl(316, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 282,
-    "popular": true,
+    "publishDate": "2023-01-15",
+    "pages": 391,
+    "popular": false,
     "formats": [
       {
         "type": "AZW3",
@@ -2671,33 +2619,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_189",
-    "title": {
-      "mm": "ပင်လယ်ကျား",
-      "en": "ပင်လယ်ကျား"
-    },
-    "author": {
-      "mm": "ဖိုးကျော့ Phoe Kyawt",
-      "en": "ဖိုးကျော့ Phoe Kyawt"
-    },
-    "category": "Fiction",
-    "coverColor": "hsl(91, 60%, 40%)",
-    "description": {
-      "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
-      "en": "This is a great book and highly recommended to read."
-    },
-    "publishDate": "2023-01-15",
-    "pages": 219,
-    "popular": false,
-    "formats": [
-      {
-        "type": "PDF",
-        "url": "/books/ပင်လယ်ကျား-ဖိုးကျော့_Phoe_Kyawt.pdf"
-      }
-    ]
-  },
-  {
-    "id": "book_190",
+    "id": "book_187",
     "title": {
       "mm": "ပဆစ်အိမ်",
       "en": "Pa Sit Eain"
@@ -2707,13 +2629,13 @@ export const books = [
       "en": "Mg Thein Saing"
     },
     "category": "Fiction",
-    "coverColor": "hsl(208, 60%, 40%)",
+    "coverColor": "hsl(310, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 135,
+    "publishDate": "2023-07-15",
+    "pages": 121,
     "popular": false,
     "formats": [
       {
@@ -2731,7 +2653,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_191",
+    "id": "book_188",
     "title": {
       "mm": "ပန်းကျောင်း",
       "en": "ပန်းကျောင်း"
@@ -2741,14 +2663,14 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(325, 60%, 40%)",
+    "coverColor": "hsl(108, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 375,
-    "popular": false,
+    "publishDate": "2023-05-15",
+    "pages": 153,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -2761,7 +2683,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_192",
+    "id": "book_189",
     "title": {
       "mm": "ပန်းတွေနဲ့ ဝေ",
       "en": "ပန်းတွေနဲ့ ဝေ"
@@ -2771,14 +2693,14 @@ export const books = [
       "en": "Mg Wanna"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(99, 60%, 40%)",
+    "coverColor": "hsl(278, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 192,
-    "popular": false,
+    "publishDate": "2023-06-15",
+    "pages": 286,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -2791,7 +2713,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_193",
+    "id": "book_190",
     "title": {
       "mm": "ပန်းပွင့်ခရေ",
       "en": "ပန်းပွင့်ခရေ"
@@ -2801,13 +2723,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(72, 60%, 40%)",
+    "coverColor": "hsl(344, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 193,
+    "publishDate": "2023-07-15",
+    "pages": 117,
     "popular": false,
     "formats": [
       {
@@ -2821,7 +2743,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_194",
+    "id": "book_191",
     "title": {
       "mm": "ပန်းများစေသူ",
       "en": "ပန်းများစေသူ"
@@ -2831,13 +2753,13 @@ export const books = [
       "en": "Khin Hnin Yu"
     },
     "category": "Fiction",
-    "coverColor": "hsl(156, 60%, 40%)",
+    "coverColor": "hsl(56, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 243,
+    "publishDate": "2023-06-15",
+    "pages": 203,
     "popular": false,
     "formats": [
       {
@@ -2847,7 +2769,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_195",
+    "id": "book_192",
     "title": {
       "mm": "ပန်းသာမစာဥ",
       "en": "ပန်းသာမစာဥ"
@@ -2857,13 +2779,13 @@ export const books = [
       "en": "Ba Thaung"
     },
     "category": "Fiction",
-    "coverColor": "hsl(184, 60%, 40%)",
+    "coverColor": "hsl(47, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 118,
+    "publishDate": "2023-07-15",
+    "pages": 264,
     "popular": false,
     "formats": [
       {
@@ -2877,7 +2799,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_196",
+    "id": "book_193",
     "title": {
       "mm": "ပါစတာကို မုန်းတယ် စန္ဒာ",
       "en": "ပါစတာကို မုန်းတယ် စန္ဒာ"
@@ -2887,13 +2809,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(223, 60%, 40%)",
+    "coverColor": "hsl(135, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-04-15",
-    "pages": 285,
+    "pages": 316,
     "popular": false,
     "formats": [
       {
@@ -2907,7 +2829,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_197",
+    "id": "book_194",
     "title": {
       "mm": "ပါတိတ်",
       "en": "ပါတိတ်"
@@ -2917,13 +2839,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(27, 60%, 40%)",
+    "coverColor": "hsl(256, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-08-15",
-    "pages": 377,
+    "publishDate": "2023-07-15",
+    "pages": 277,
     "popular": false,
     "formats": [
       {
@@ -2937,7 +2859,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_198",
+    "id": "book_195",
     "title": {
       "mm": "ပါရမီမယ် မရင့်သော်‌‌ကြောင့်",
       "en": "ပါရမီမယ် မရင့်သော်‌‌ကြောင့်"
@@ -2947,14 +2869,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(317, 60%, 40%)",
+    "coverColor": "hsl(269, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-09-15",
-    "pages": 349,
-    "popular": false,
+    "pages": 145,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -2967,7 +2889,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_199",
+    "id": "book_196",
     "title": {
       "mm": "ပိုချစ်ရတဲ့သူ ကိုယ်ပဲဖြစ်ပါစေ",
       "en": "ပိုချစ်ရတဲ့သူ ကိုယ်ပဲဖြစ်ပါစေ"
@@ -2977,14 +2899,14 @@ export const books = [
       "en": "Juu"
     },
     "category": "Fiction",
-    "coverColor": "hsl(30, 60%, 40%)",
+    "coverColor": "hsl(151, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 294,
-    "popular": false,
+    "publishDate": "2023-06-15",
+    "pages": 182,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -2997,7 +2919,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_200",
+    "id": "book_197",
     "title": {
       "mm": "ပီကင်း",
       "en": "ပီကင်း"
@@ -3007,13 +2929,13 @@ export const books = [
       "en": "Mg Htun Thu"
     },
     "category": "Translated",
-    "coverColor": "hsl(239, 60%, 40%)",
+    "coverColor": "hsl(42, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-09-15",
-    "pages": 354,
+    "pages": 316,
     "popular": false,
     "formats": [
       {
@@ -3027,7 +2949,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_201",
+    "id": "book_198",
     "title": {
       "mm": "ပေါက်ပင်ကိုင်းကိုင်း",
       "en": "ပေါက်ပင်ကိုင်းကိုင်း"
@@ -3037,14 +2959,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(294, 60%, 40%)",
+    "coverColor": "hsl(168, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 163,
-    "popular": true,
+    "publishDate": "2023-03-15",
+    "pages": 155,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -3057,7 +2979,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_202",
+    "id": "book_199",
     "title": {
       "mm": "ပျို့ကရုဏာ",
       "en": "ပျို့ကရုဏာ"
@@ -3067,13 +2989,13 @@ export const books = [
       "en": "Journal Kyaw Ma Ma Lay"
     },
     "category": "Fiction",
-    "coverColor": "hsl(221, 60%, 40%)",
+    "coverColor": "hsl(357, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 354,
+    "publishDate": "2023-09-15",
+    "pages": 162,
     "popular": false,
     "formats": [
       {
@@ -3087,7 +3009,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_203",
+    "id": "book_200",
     "title": {
       "mm": "ပျောက်ဆုံးနေသော",
       "en": "ပျောက်ဆုံးနေသော"
@@ -3097,13 +3019,13 @@ export const books = [
       "en": "Juu"
     },
     "category": "Fiction",
-    "coverColor": "hsl(171, 60%, 40%)",
+    "coverColor": "hsl(83, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 281,
+    "publishDate": "2023-05-15",
+    "pages": 314,
     "popular": true,
     "formats": [
       {
@@ -3121,7 +3043,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_204",
+    "id": "book_201",
     "title": {
       "mm": "ပြန်ခေါ်သက်သေ",
       "en": "ပြန်ခေါ်သက်သေ"
@@ -3131,13 +3053,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(294, 60%, 40%)",
+    "coverColor": "hsl(332, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 136,
+    "publishDate": "2023-07-15",
+    "pages": 238,
     "popular": true,
     "formats": [
       {
@@ -3151,7 +3073,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_205",
+    "id": "book_202",
     "title": {
       "mm": "ပြုံးတတ်တယ်",
       "en": "ပြုံးတတ်တယ်"
@@ -3161,13 +3083,13 @@ export const books = [
       "en": "Mg Thar Ya"
     },
     "category": "Fiction",
-    "coverColor": "hsl(196, 60%, 40%)",
+    "coverColor": "hsl(58, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 182,
+    "publishDate": "2023-04-15",
+    "pages": 220,
     "popular": false,
     "formats": [
       {
@@ -3177,7 +3099,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_206",
+    "id": "book_203",
     "title": {
       "mm": "ပြောင်းဖူးပြုတ်",
       "en": "ပြောင်းဖူးပြုတ်"
@@ -3187,13 +3109,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(64, 60%, 40%)",
+    "coverColor": "hsl(16, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 284,
+    "publishDate": "2023-09-15",
+    "pages": 293,
     "popular": false,
     "formats": [
       {
@@ -3207,7 +3129,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_207",
+    "id": "book_204",
     "title": {
       "mm": "ပွေ ့ဖက်ခြင်း",
       "en": "ပွေ ့ဖက်ခြင်း"
@@ -3217,13 +3139,13 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(331, 60%, 40%)",
+    "coverColor": "hsl(313, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 121,
+    "publishDate": "2023-07-15",
+    "pages": 247,
     "popular": false,
     "formats": [
       {
@@ -3237,7 +3159,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_208",
+    "id": "book_205",
     "title": {
       "mm": "ဖန်ခွက်ထဲကရေတစ်ဝက်",
       "en": "ဖန်ခွက်ထဲကရေတစ်ဝက်"
@@ -3247,14 +3169,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(102, 60%, 40%)",
+    "coverColor": "hsl(253, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 253,
-    "popular": false,
+    "publishDate": "2023-06-15",
+    "pages": 314,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -3267,7 +3189,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_209",
+    "id": "book_206",
     "title": {
       "mm": "ဗာလာနံ ဆိုသော်လည်း",
       "en": "ဗာလာနံ ဆိုသော်လည်း"
@@ -3277,14 +3199,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(276, 60%, 40%)",
+    "coverColor": "hsl(224, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-09-15",
-    "pages": 399,
-    "popular": true,
+    "pages": 137,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -3297,7 +3219,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_210",
+    "id": "book_207",
     "title": {
       "mm": "ဘကြီးမိုး",
       "en": "ဘကြီးမိုး"
@@ -3307,14 +3229,14 @@ export const books = [
       "en": "Mg Wanna"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(99, 60%, 40%)",
+    "coverColor": "hsl(297, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 101,
-    "popular": true,
+    "publishDate": "2023-08-15",
+    "pages": 295,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -3327,7 +3249,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_211",
+    "id": "book_208",
     "title": {
       "mm": "ဘကြီးအောင်တော်တယ်",
       "en": "ဘကြီးအောင်တော်တယ်"
@@ -3337,13 +3259,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(305, 60%, 40%)",
+    "coverColor": "hsl(70, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 381,
+    "publishDate": "2023-09-15",
+    "pages": 122,
     "popular": false,
     "formats": [
       {
@@ -3357,7 +3279,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_212",
+    "id": "book_209",
     "title": {
       "mm": "ဘဝတဏှာ",
       "en": "ဘဝတဏှာ"
@@ -3367,13 +3289,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(86, 60%, 40%)",
+    "coverColor": "hsl(10, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-02-15",
-    "pages": 158,
+    "pages": 371,
     "popular": false,
     "formats": [
       {
@@ -3387,7 +3309,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_213",
+    "id": "book_210",
     "title": {
       "mm": "ဘဝအိပ်မက် ပန်းအိပ်မက်",
       "en": "ဘဝအိပ်မက် ပန်းအိပ်မက်"
@@ -3397,13 +3319,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(248, 60%, 40%)",
+    "coverColor": "hsl(296, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 244,
+    "publishDate": "2023-09-15",
+    "pages": 169,
     "popular": false,
     "formats": [
       {
@@ -3417,7 +3339,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_214",
+    "id": "book_211",
     "title": {
       "mm": "မင်းလူ",
       "en": "မင်းလူ"
@@ -3427,13 +3349,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(188, 60%, 40%)",
+    "coverColor": "hsl(139, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 222,
+    "publishDate": "2023-04-15",
+    "pages": 171,
     "popular": false,
     "formats": [
       {
@@ -3443,7 +3365,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_215",
+    "id": "book_212",
     "title": {
       "mm": "မစပ်သော ငရုတ်",
       "en": "မစပ်သော ငရုတ်"
@@ -3453,14 +3375,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(170, 60%, 40%)",
+    "coverColor": "hsl(101, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 134,
-    "popular": false,
+    "publishDate": "2023-02-15",
+    "pages": 287,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -3473,7 +3395,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_216",
+    "id": "book_213",
     "title": {
       "mm": "မစိန်မြ၏ဒဿန",
       "en": "မစိန်မြ၏ဒဿန"
@@ -3483,13 +3405,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(89, 60%, 40%)",
+    "coverColor": "hsl(10, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 151,
+    "publishDate": "2023-03-15",
+    "pages": 270,
     "popular": true,
     "formats": [
       {
@@ -3503,7 +3425,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_217",
+    "id": "book_214",
     "title": {
       "mm": "မနက်ဖြန်အတွက် ဒီကနေ့",
       "en": "မနက်ဖြန်အတွက် ဒီကနေ့"
@@ -3513,14 +3435,14 @@ export const books = [
       "en": "Win Phae Win"
     },
     "category": "Translated",
-    "coverColor": "hsl(161, 60%, 40%)",
+    "coverColor": "hsl(236, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 228,
-    "popular": false,
+    "publishDate": "2023-09-15",
+    "pages": 163,
+    "popular": true,
     "formats": [
       {
         "type": "AZW3",
@@ -3537,7 +3459,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_218",
+    "id": "book_215",
     "title": {
       "mm": "မန္တလေးပဲပြုတ်",
       "en": "မန္တလေးပဲပြုတ်"
@@ -3547,13 +3469,13 @@ export const books = [
       "en": "Ludu Daw Amar"
     },
     "category": "Non-Fiction",
-    "coverColor": "hsl(212, 60%, 40%)",
+    "coverColor": "hsl(136, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-02-15",
-    "pages": 244,
+    "pages": 112,
     "popular": false,
     "formats": [
       {
@@ -3567,7 +3489,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_219",
+    "id": "book_216",
     "title": {
       "mm": "မန်ကျည်းကိုးပင်",
       "en": "မန်ကျည်းကိုးပင်"
@@ -3577,13 +3499,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(122, 60%, 40%)",
+    "coverColor": "hsl(112, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 201,
+    "publishDate": "2023-05-15",
+    "pages": 331,
     "popular": false,
     "formats": [
       {
@@ -3597,7 +3519,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_220",
+    "id": "book_217",
     "title": {
       "mm": "မမရေချယ်",
       "en": "မမရေချယ်"
@@ -3607,14 +3529,14 @@ export const books = [
       "en": "Tin Maung Myint"
     },
     "category": "Fiction",
-    "coverColor": "hsl(43, 60%, 40%)",
+    "coverColor": "hsl(359, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 278,
-    "popular": true,
+    "publishDate": "2023-09-15",
+    "pages": 288,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -3627,7 +3549,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_221",
+    "id": "book_218",
     "title": {
       "mm": "မသုဓမ္မစာရီ",
       "en": "Ma Thu Da Ma Sa Ri"
@@ -3637,14 +3559,14 @@ export const books = [
       "en": "Moe Moe Inya"
     },
     "category": "Fiction",
-    "coverColor": "hsl(124, 60%, 40%)",
+    "coverColor": "hsl(151, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 156,
-    "popular": true,
+    "publishDate": "2023-08-15",
+    "pages": 247,
+    "popular": false,
     "formats": [
       {
         "type": "AZW3",
@@ -3661,7 +3583,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_222",
+    "id": "book_219",
     "title": {
       "mm": "မဟာမြိုင်ဓားသမားနှင့်မုတ်ဆိတ်ဖြူအဘိုးအို",
       "en": "မဟာမြိုင်ဓားသမားနှင့်မုတ်ဆိတ်ဖြူအဘိုးအို"
@@ -3671,13 +3593,13 @@ export const books = [
       "en": "Min Thein Kha"
     },
     "category": "Mystery & Detective",
-    "coverColor": "hsl(188, 60%, 40%)",
+    "coverColor": "hsl(213, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 264,
+    "publishDate": "2023-05-15",
+    "pages": 279,
     "popular": true,
     "formats": [
       {
@@ -3691,7 +3613,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_223",
+    "id": "book_220",
     "title": {
       "mm": "မဟာရာဇဝင်ကြီး",
       "en": "မဟာရာဇဝင်ကြီး"
@@ -3701,14 +3623,14 @@ export const books = [
       "en": "U Kala"
     },
     "category": "History",
-    "coverColor": "hsl(203, 60%, 40%)",
+    "coverColor": "hsl(74, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 357,
-    "popular": false,
+    "publishDate": "2023-02-15",
+    "pages": 153,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -3721,7 +3643,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_224",
+    "id": "book_221",
     "title": {
       "mm": "မိခင်လောင်းတစ်ဦး၏ မှတ်တမ်း",
       "en": "မိခင်လောင်းတစ်ဦး၏ မှတ်တမ်း"
@@ -3731,14 +3653,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(171, 60%, 40%)",
+    "coverColor": "hsl(249, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 288,
-    "popular": false,
+    "publishDate": "2023-09-15",
+    "pages": 306,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -3751,7 +3673,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_225",
+    "id": "book_222",
     "title": {
       "mm": "မိငယ်သိတဲ့ကိုကိုမောင်",
       "en": "မိငယ်သိတဲ့ကိုကိုမောင်"
@@ -3761,14 +3683,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(137, 60%, 40%)",
+    "coverColor": "hsl(101, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 339,
-    "popular": false,
+    "publishDate": "2023-07-15",
+    "pages": 100,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -3781,33 +3703,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_226",
-    "title": {
-      "mm": "မိတ္တဗလဋီကာ",
-      "en": "မိတ္တဗလဋီကာ"
-    },
-    "author": {
-      "mm": "ဦးနု",
-      "en": "U Nu"
-    },
-    "category": "Fiction",
-    "coverColor": "hsl(272, 60%, 40%)",
-    "description": {
-      "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
-      "en": "This is a great book and highly recommended to read."
-    },
-    "publishDate": "2023-06-15",
-    "pages": 217,
-    "popular": true,
-    "formats": [
-      {
-        "type": "PDF",
-        "url": "/books/မိတ္တဗလဋီကာ-ဦးနု_U_Nu.pdf"
-      }
-    ]
-  },
-  {
-    "id": "book_227",
+    "id": "book_223",
     "title": {
       "mm": "မိတ်ဆွေကောင်း မိတ်ဆွေညစ်",
       "en": "မိတ်ဆွေကောင်း မိတ်ဆွေညစ်"
@@ -3817,14 +3713,14 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(281, 60%, 40%)",
+    "coverColor": "hsl(82, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 361,
-    "popular": true,
+    "publishDate": "2023-08-15",
+    "pages": 373,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -3837,7 +3733,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_228",
+    "id": "book_224",
     "title": {
       "mm": "မိန်းကလေးလက်ရေးသီရင်",
       "en": "မိန်းကလေးလက်ရေးသီရင်"
@@ -3847,13 +3743,13 @@ export const books = [
       "en": "Mg Wanna"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(258, 60%, 40%)",
+    "coverColor": "hsl(64, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 253,
+    "publishDate": "2023-06-15",
+    "pages": 239,
     "popular": false,
     "formats": [
       {
@@ -3867,7 +3763,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_229",
+    "id": "book_225",
     "title": {
       "mm": "မိဘမဲ့",
       "en": "မိဘမဲ့"
@@ -3877,14 +3773,14 @@ export const books = [
       "en": "Ludu U Hla"
     },
     "category": "Non-Fiction",
-    "coverColor": "hsl(324, 60%, 40%)",
+    "coverColor": "hsl(275, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-01-15",
-    "pages": 268,
-    "popular": false,
+    "pages": 110,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -3897,7 +3793,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_230",
+    "id": "book_226",
     "title": {
       "mm": "မောင့်စွမ်းဆောင်ရှင်",
       "en": "မောင့်စွမ်းဆောင်ရှင်"
@@ -3907,13 +3803,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(261, 60%, 40%)",
+    "coverColor": "hsl(136, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-02-15",
-    "pages": 232,
+    "pages": 262,
     "popular": false,
     "formats": [
       {
@@ -3927,7 +3823,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_231",
+    "id": "book_227",
     "title": {
       "mm": "မျက်ခုံးလှုပ်နေရှာပြီဖြစ်တဲ့မြန်မာ့လက်ဖက်ရည်ကြမ်းဝိုင်း",
       "en": "မျက်ခုံးလှုပ်နေရှာပြီဖြစ်တဲ့မြန်မာ့လက်ဖက်ရည်ကြမ်းဝိုင်း"
@@ -3937,14 +3833,14 @@ export const books = [
       "en": "Ludu Daw Amar"
     },
     "category": "Non-Fiction",
-    "coverColor": "hsl(260, 60%, 40%)",
+    "coverColor": "hsl(235, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 196,
-    "popular": false,
+    "publishDate": "2023-06-15",
+    "pages": 151,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -3957,7 +3853,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_232",
+    "id": "book_228",
     "title": {
       "mm": "မျက်နှာကြက်နဲ့ ခိုအိမ်",
       "en": "မျက်နှာကြက်နဲ့ ခိုအိမ်"
@@ -3967,14 +3863,14 @@ export const books = [
       "en": "Su Nhat"
     },
     "category": "Fiction",
-    "coverColor": "hsl(277, 60%, 40%)",
+    "coverColor": "hsl(333, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 222,
-    "popular": true,
+    "publishDate": "2023-06-15",
+    "pages": 163,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -3987,7 +3883,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_233",
+    "id": "book_229",
     "title": {
       "mm": "မြတ် သက် မော်",
       "en": "မြတ် သက် မော်"
@@ -3997,13 +3893,13 @@ export const books = [
       "en": "Shwe U Daung"
     },
     "category": "Mystery & Detective",
-    "coverColor": "hsl(344, 60%, 40%)",
+    "coverColor": "hsl(82, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 261,
+    "publishDate": "2023-04-15",
+    "pages": 214,
     "popular": false,
     "formats": [
       {
@@ -4021,7 +3917,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_234",
+    "id": "book_230",
     "title": {
       "mm": "မြတ်ခိုင်",
       "en": "မြတ်ခိုင်"
@@ -4031,14 +3927,14 @@ export const books = [
       "en": "Min Thein Kha"
     },
     "category": "Mystery & Detective",
-    "coverColor": "hsl(358, 60%, 40%)",
+    "coverColor": "hsl(203, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-06-15",
-    "pages": 379,
-    "popular": false,
+    "pages": 370,
+    "popular": true,
     "formats": [
       {
         "type": "KFX",
@@ -4047,7 +3943,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_235",
+    "id": "book_231",
     "title": {
       "mm": "မြန်မာပြည်မြောက်ပိုင်း",
       "en": "မြန်မာပြည်မြောက်ပိုင်း"
@@ -4057,14 +3953,14 @@ export const books = [
       "en": "Nat Nwe"
     },
     "category": "History",
-    "coverColor": "hsl(176, 60%, 40%)",
+    "coverColor": "hsl(187, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 365,
-    "popular": true,
+    "publishDate": "2023-09-15",
+    "pages": 308,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -4077,7 +3973,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_236",
+    "id": "book_232",
     "title": {
       "mm": "မြန်မာပြည်မှာ ဝယ်ကြသည်",
       "en": "မြန်မာပြည်မှာ ဝယ်ကြသည်"
@@ -4087,14 +3983,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(198, 60%, 40%)",
+    "coverColor": "hsl(277, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 208,
-    "popular": true,
+    "publishDate": "2023-02-15",
+    "pages": 191,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -4107,7 +4003,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_237",
+    "id": "book_233",
     "title": {
       "mm": "မြန်မာအမျိုးသမီးနှစ်ယောက်ရှိလေသည်",
       "en": "မြန်မာအမျိုးသမီးနှစ်ယောက်ရှိလေသည်"
@@ -4117,14 +4013,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(84, 60%, 40%)",
+    "coverColor": "hsl(123, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 253,
-    "popular": false,
+    "publishDate": "2023-09-15",
+    "pages": 238,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -4137,7 +4033,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_238",
+    "id": "book_234",
     "title": {
       "mm": "မြောက်ပြန်လေတွင်",
       "en": "မြောက်ပြန်လေတွင်"
@@ -4147,14 +4043,14 @@ export const books = [
       "en": "Nyein Kyaw"
     },
     "category": "Fiction",
-    "coverColor": "hsl(55, 60%, 40%)",
+    "coverColor": "hsl(113, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-02-15",
-    "pages": 137,
-    "popular": true,
+    "pages": 185,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -4167,33 +4063,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_239",
-    "title": {
-      "mm": "မြောက်ဖျားက",
-      "en": "မြောက်ဖျားက"
-    },
-    "author": {
-      "mm": "စံပယ်ဖြူနု",
-      "en": "Sabal Phyu Nu"
-    },
-    "category": "Fiction",
-    "coverColor": "hsl(44, 60%, 40%)",
-    "description": {
-      "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
-      "en": "This is a great book and highly recommended to read."
-    },
-    "publishDate": "2023-01-15",
-    "pages": 333,
-    "popular": true,
-    "formats": [
-      {
-        "type": "PDF",
-        "url": "/books/မြောက်ဖျားက-အလွမ်းရာသီ-စံပယ်ဖြူနု.pdf"
-      }
-    ]
-  },
-  {
-    "id": "book_240",
+    "id": "book_235",
     "title": {
       "mm": "မြောက်ဖျားကအလွမ်းရာသီ",
       "en": "မြောက်ဖျားကအလွမ်းရာသီ"
@@ -4203,13 +4073,13 @@ export const books = [
       "en": "Sabal Phyu Nu"
     },
     "category": "Fiction",
-    "coverColor": "hsl(311, 60%, 40%)",
+    "coverColor": "hsl(317, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 269,
+    "publishDate": "2023-06-15",
+    "pages": 221,
     "popular": false,
     "formats": [
       {
@@ -4223,7 +4093,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_241",
+    "id": "book_236",
     "title": {
       "mm": "မြောက်ဦးမြို့မှသည် တာချီလိတ်ဆီသို့",
       "en": "မြောက်ဦးမြို့မှသည် တာချီလိတ်ဆီသို့"
@@ -4233,14 +4103,14 @@ export const books = [
       "en": "U Kala"
     },
     "category": "Fiction",
-    "coverColor": "hsl(1, 60%, 40%)",
+    "coverColor": "hsl(6, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 346,
-    "popular": true,
+    "publishDate": "2023-02-15",
+    "pages": 324,
+    "popular": false,
     "formats": [
       {
         "type": "AZW3",
@@ -4257,7 +4127,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_242",
+    "id": "book_237",
     "title": {
       "mm": "မှားတော့ မှားတယ်",
       "en": "မှားတော့ မှားတယ်"
@@ -4267,14 +4137,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(311, 60%, 40%)",
+    "coverColor": "hsl(159, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-08-15",
-    "pages": 319,
-    "popular": true,
+    "publishDate": "2023-04-15",
+    "pages": 104,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -4287,7 +4157,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_243",
+    "id": "book_238",
     "title": {
       "mm": "မှောင်မိုက်မှာ ငို",
       "en": "မှောင်မိုက်မှာ ငို"
@@ -4297,14 +4167,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(100, 60%, 40%)",
+    "coverColor": "hsl(354, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 173,
-    "popular": true,
+    "publishDate": "2023-03-15",
+    "pages": 134,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -4317,7 +4187,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_244",
+    "id": "book_239",
     "title": {
       "mm": "ယတြာ",
       "en": "ယတြာ"
@@ -4327,13 +4197,13 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(199, 60%, 40%)",
+    "coverColor": "hsl(241, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 154,
+    "publishDate": "2023-08-15",
+    "pages": 378,
     "popular": false,
     "formats": [
       {
@@ -4347,7 +4217,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_245",
+    "id": "book_240",
     "title": {
       "mm": "ယမကာလုလင်",
       "en": "ယမကာလုလင်"
@@ -4357,13 +4227,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(202, 60%, 40%)",
+    "coverColor": "hsl(29, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 382,
+    "publishDate": "2023-03-15",
+    "pages": 337,
     "popular": false,
     "formats": [
       {
@@ -4377,7 +4247,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_246",
+    "id": "book_241",
     "title": {
       "mm": "ယုန်နဲ့ခရု",
       "en": "ယုန်နဲ့ခရု"
@@ -4387,13 +4257,13 @@ export const books = [
       "en": "Ludu U Hla"
     },
     "category": "Non-Fiction",
-    "coverColor": "hsl(19, 60%, 40%)",
+    "coverColor": "hsl(316, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 208,
+    "publishDate": "2023-08-15",
+    "pages": 341,
     "popular": false,
     "formats": [
       {
@@ -4407,7 +4277,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_247",
+    "id": "book_242",
     "title": {
       "mm": "ရင်ချင်းဆက်စွယ်တော်ရွက်များ",
       "en": "ရင်ချင်းဆက်စွယ်တော်ရွက်များ"
@@ -4417,13 +4287,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(164, 60%, 40%)",
+    "coverColor": "hsl(174, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 346,
+    "publishDate": "2023-08-15",
+    "pages": 104,
     "popular": false,
     "formats": [
       {
@@ -4437,7 +4307,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_248",
+    "id": "book_243",
     "title": {
       "mm": "ရင်ထဲကဆောင်းရာသီ",
       "en": "ရင်ထဲကဆောင်းရာသီ"
@@ -4447,13 +4317,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(48, 60%, 40%)",
+    "coverColor": "hsl(135, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 274,
+    "publishDate": "2023-03-15",
+    "pages": 131,
     "popular": true,
     "formats": [
       {
@@ -4467,7 +4337,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_249",
+    "id": "book_244",
     "title": {
       "mm": "ရင်ထဲရောက်လာသော ဦးနှောက်များ",
       "en": "ရင်ထဲရောက်လာသော ဦးနှောက်များ"
@@ -4477,13 +4347,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(314, 60%, 40%)",
+    "coverColor": "hsl(209, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 144,
+    "publishDate": "2023-01-15",
+    "pages": 228,
     "popular": false,
     "formats": [
       {
@@ -4497,33 +4367,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_250",
-    "title": {
-      "mm": "ရာဇဓိရာဇ်အရေးတော်ပုံကျမ်း",
-      "en": "ရာဇဓိရာဇ်အရေးတော်ပုံကျမ်း"
-    },
-    "author": {
-      "mm": "ဗညားဒလ",
-      "en": "Banya Dala"
-    },
-    "category": "Fiction",
-    "coverColor": "hsl(6, 60%, 40%)",
-    "description": {
-      "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
-      "en": "This is a great book and highly recommended to read."
-    },
-    "publishDate": "2023-09-15",
-    "pages": 320,
-    "popular": false,
-    "formats": [
-      {
-        "type": "PDF",
-        "url": "/books/ရာဇဓိရာဇ်အရေးတော်ပုံကျမ်း-ဗညားဒလ_Banya_Dala.pdf"
-      }
-    ]
-  },
-  {
-    "id": "book_251",
+    "id": "book_245",
     "title": {
       "mm": "ရိုးရှင်းသော ဘဝမှာ နေထိုင်ပါ",
       "en": "ရိုးရှင်းသော ဘဝမှာ နေထိုင်ပါ"
@@ -4533,13 +4377,13 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(182, 60%, 40%)",
+    "coverColor": "hsl(272, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 350,
+    "publishDate": "2023-05-15",
+    "pages": 292,
     "popular": false,
     "formats": [
       {
@@ -4553,7 +4397,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_252",
+    "id": "book_246",
     "title": {
       "mm": "ရီကွန်ဒီးရှင်း",
       "en": "ရီကွန်ဒီးရှင်း"
@@ -4563,14 +4407,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(295, 60%, 40%)",
+    "coverColor": "hsl(213, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 297,
-    "popular": true,
+    "publishDate": "2023-09-15",
+    "pages": 197,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -4583,7 +4427,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_253",
+    "id": "book_247",
     "title": {
       "mm": "ရုပ်ချောသူ",
       "en": "ရုပ်ချောသူ"
@@ -4593,14 +4437,14 @@ export const books = [
       "en": "P. Moe Nin"
     },
     "category": "Fiction",
-    "coverColor": "hsl(87, 60%, 40%)",
+    "coverColor": "hsl(270, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-04-15",
-    "pages": 126,
-    "popular": true,
+    "pages": 304,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -4613,7 +4457,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_254",
+    "id": "book_248",
     "title": {
       "mm": "ရေခဲခြစ်‌နှင်‌့‌‌ရေခဲချစ်‌",
       "en": "ရေခဲခြစ်‌နှင်‌့‌‌ရေခဲချစ်‌"
@@ -4623,14 +4467,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(59, 60%, 40%)",
+    "coverColor": "hsl(258, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 170,
-    "popular": false,
+    "publishDate": "2023-04-15",
+    "pages": 155,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -4643,7 +4487,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_255",
+    "id": "book_249",
     "title": {
       "mm": "ရေတွင်မြုပ်သော ဖောင်ကလေး စန္ဒာ",
       "en": "ရေတွင်မြုပ်သော ဖောင်ကလေး စန္ဒာ"
@@ -4653,14 +4497,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(242, 60%, 40%)",
+    "coverColor": "hsl(14, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 110,
-    "popular": false,
+    "publishDate": "2023-07-15",
+    "pages": 343,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -4673,7 +4517,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_256",
+    "id": "book_250",
     "title": {
       "mm": "ရေတွင်းကုန်းက ငတုံးတွေအကြောင်း",
       "en": "ရေတွင်းကုန်းက ငတုံးတွေအကြောင်း"
@@ -4688,9 +4532,9 @@ export const books = [
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 369,
-    "popular": true,
+    "publishDate": "2023-01-15",
+    "pages": 347,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -4703,7 +4547,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_257",
+    "id": "book_251",
     "title": {
       "mm": "ရွှေဖလားနဲ့ကြက်သားကိုင်",
       "en": "ရွှေဖလားနဲ့ကြက်သားကိုင်"
@@ -4713,14 +4557,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(303, 60%, 40%)",
+    "coverColor": "hsl(145, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 172,
-    "popular": true,
+    "publishDate": "2023-04-15",
+    "pages": 374,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -4733,7 +4577,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_258",
+    "id": "book_252",
     "title": {
       "mm": "ရှယ်",
       "en": "ရှယ်"
@@ -4743,14 +4587,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(137, 60%, 40%)",
+    "coverColor": "hsl(146, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 267,
-    "popular": true,
+    "publishDate": "2023-01-15",
+    "pages": 125,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -4763,7 +4607,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_259",
+    "id": "book_253",
     "title": {
       "mm": "လက်ဖက်ရည်ဆိုင်ထဲကအိမ်",
       "en": "လက်ဖက်ရည်ဆိုင်ထဲကအိမ်"
@@ -4773,14 +4617,14 @@ export const books = [
       "en": "Moe Kyaw Zin"
     },
     "category": "Fiction",
-    "coverColor": "hsl(314, 60%, 40%)",
+    "coverColor": "hsl(268, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 205,
-    "popular": false,
+    "publishDate": "2023-01-15",
+    "pages": 330,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -4793,7 +4637,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_260",
+    "id": "book_254",
     "title": {
       "mm": "လမင်းလိုက်မုဆိုး",
       "en": "လမင်းလိုက်မုဆိုး"
@@ -4803,13 +4647,13 @@ export const books = [
       "en": "Ni Ko Ye"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(239, 60%, 40%)",
+    "coverColor": "hsl(294, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 377,
+    "publishDate": "2023-02-15",
+    "pages": 193,
     "popular": false,
     "formats": [
       {
@@ -4819,7 +4663,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_261",
+    "id": "book_255",
     "title": {
       "mm": "လမင်းလိုက်မုဆိုး",
       "en": "လမင်းလိုက်မုဆိုး"
@@ -4829,13 +4673,13 @@ export const books = [
       "en": "Ni Ko Ye"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(100, 60%, 40%)",
+    "coverColor": "hsl(307, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 126,
+    "publishDate": "2023-07-15",
+    "pages": 378,
     "popular": false,
     "formats": [
       {
@@ -4849,7 +4693,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_262",
+    "id": "book_256",
     "title": {
       "mm": "လူ",
       "en": "လူ"
@@ -4859,13 +4703,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(277, 60%, 40%)",
+    "coverColor": "hsl(247, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 369,
+    "publishDate": "2023-02-15",
+    "pages": 188,
     "popular": true,
     "formats": [
       {
@@ -4879,7 +4723,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_263",
+    "id": "book_257",
     "title": {
       "mm": "လူစင်စစ်",
       "en": "လူစင်စစ်"
@@ -4889,13 +4733,13 @@ export const books = [
       "en": "Mg Kyat Khoe"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(13, 60%, 40%)",
+    "coverColor": "hsl(212, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 314,
+    "publishDate": "2023-03-15",
+    "pages": 127,
     "popular": true,
     "formats": [
       {
@@ -4909,7 +4753,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_264",
+    "id": "book_258",
     "title": {
       "mm": "လူဆိုး",
       "en": "လူဆိုး"
@@ -4919,14 +4763,14 @@ export const books = [
       "en": "Min Khite Soe San"
     },
     "category": "Fiction",
-    "coverColor": "hsl(289, 60%, 40%)",
+    "coverColor": "hsl(171, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 332,
-    "popular": false,
+    "publishDate": "2023-03-15",
+    "pages": 192,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -4939,7 +4783,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_265",
+    "id": "book_259",
     "title": {
       "mm": "လွမ်းရင်းမျှော် မျှော်ရင်းလွမ်း",
       "en": "လွမ်းရင်းမျှော် မျှော်ရင်းလွမ်း"
@@ -4949,13 +4793,13 @@ export const books = [
       "en": "Ludu Sein Win"
     },
     "category": "Non-Fiction",
-    "coverColor": "hsl(107, 60%, 40%)",
+    "coverColor": "hsl(64, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-08-15",
-    "pages": 127,
+    "publishDate": "2023-03-15",
+    "pages": 358,
     "popular": false,
     "formats": [
       {
@@ -4969,7 +4813,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_266",
+    "id": "book_260",
     "title": {
       "mm": "လှ၍ မလှသူနှင့် မလှ၍ လှသူ",
       "en": "လှ၍ မလှသူနှင့် မလှ၍ လှသူ"
@@ -4979,13 +4823,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(237, 60%, 40%)",
+    "coverColor": "hsl(347, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 268,
+    "publishDate": "2023-02-15",
+    "pages": 334,
     "popular": false,
     "formats": [
       {
@@ -4999,7 +4843,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_267",
+    "id": "book_261",
     "title": {
       "mm": "ဝတ္ထုတိုပေါင်းချုပ်",
       "en": "ဝတ္ထုတိုပေါင်းချုပ်"
@@ -5009,13 +4853,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(335, 60%, 40%)",
+    "coverColor": "hsl(2, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 217,
+    "publishDate": "2023-01-15",
+    "pages": 312,
     "popular": false,
     "formats": [
       {
@@ -5029,7 +4873,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_268",
+    "id": "book_262",
     "title": {
       "mm": "ဝတ္ထုတိုများ",
       "en": "ဝတ္ထုတိုများ"
@@ -5039,14 +4883,14 @@ export const books = [
       "en": "Lin Eain"
     },
     "category": "Fiction",
-    "coverColor": "hsl(310, 60%, 40%)",
+    "coverColor": "hsl(272, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 216,
-    "popular": true,
+    "publishDate": "2023-05-15",
+    "pages": 351,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -5055,7 +4899,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_269",
+    "id": "book_263",
     "title": {
       "mm": "ဝေမျှခြင်း",
       "en": "ဝေမျှခြင်း"
@@ -5065,13 +4909,13 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(133, 60%, 40%)",
+    "coverColor": "hsl(268, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 185,
+    "publishDate": "2023-01-15",
+    "pages": 235,
     "popular": false,
     "formats": [
       {
@@ -5085,7 +4929,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_270",
+    "id": "book_264",
     "title": {
       "mm": "သက်နှင်းနှင့် သူ၏အရိပ်များ",
       "en": "သက်နှင်းနှင့် သူ၏အရိပ်များ"
@@ -5095,13 +4939,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(189, 60%, 40%)",
+    "coverColor": "hsl(186, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 390,
+    "publishDate": "2023-06-15",
+    "pages": 161,
     "popular": false,
     "formats": [
       {
@@ -5115,7 +4959,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_271",
+    "id": "book_265",
     "title": {
       "mm": "သင့်မှာ ကူးစက်နေပြီလား",
       "en": "သင့်မှာ ကူးစက်နေပြီလား"
@@ -5125,13 +4969,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(153, 60%, 40%)",
+    "coverColor": "hsl(332, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 290,
+    "publishDate": "2023-02-15",
+    "pages": 349,
     "popular": false,
     "formats": [
       {
@@ -5145,7 +4989,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_272",
+    "id": "book_266",
     "title": {
       "mm": "သန်းခေါင်ယံလွတ်လပ်ရေး",
       "en": "သန်းခေါင်ယံလွတ်လပ်ရေး"
@@ -5155,13 +4999,13 @@ export const books = [
       "en": "Mg Paw Htun"
     },
     "category": "Fiction",
-    "coverColor": "hsl(164, 60%, 40%)",
+    "coverColor": "hsl(299, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 136,
+    "publishDate": "2023-01-15",
+    "pages": 299,
     "popular": false,
     "formats": [
       {
@@ -5179,7 +5023,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_273",
+    "id": "book_267",
     "title": {
       "mm": "သာဓုနှစ်ခါ ခေါ်လိုက်ပါ၏",
       "en": "သာဓုနှစ်ခါ ခေါ်လိုက်ပါ၏"
@@ -5189,14 +5033,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(222, 60%, 40%)",
+    "coverColor": "hsl(78, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 193,
-    "popular": true,
+    "publishDate": "2023-01-15",
+    "pages": 186,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -5209,7 +5053,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_274",
+    "id": "book_268",
     "title": {
       "mm": "သိရက်နှင့်ကယ်",
       "en": "သိရက်နှင့်ကယ်"
@@ -5219,14 +5063,14 @@ export const books = [
       "en": "Mg Wanna"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(42, 60%, 40%)",
+    "coverColor": "hsl(287, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 136,
-    "popular": true,
+    "publishDate": "2023-04-15",
+    "pages": 225,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -5239,7 +5083,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_275",
+    "id": "book_269",
     "title": {
       "mm": "သူငယ်ချင်းတစ်ယောက်အကြောင်း",
       "en": "သူငယ်ချင်းတစ်ယောက်အကြောင်း"
@@ -5249,13 +5093,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(274, 60%, 40%)",
+    "coverColor": "hsl(11, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 148,
+    "publishDate": "2023-09-15",
+    "pages": 339,
     "popular": false,
     "formats": [
       {
@@ -5269,7 +5113,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_276",
+    "id": "book_270",
     "title": {
       "mm": "သူစောင့်တဲ့ ဥပုသ်",
       "en": "သူစောင့်တဲ့ ဥပုသ်"
@@ -5279,13 +5123,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(297, 60%, 40%)",
+    "coverColor": "hsl(311, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 232,
+    "publishDate": "2023-06-15",
+    "pages": 347,
     "popular": false,
     "formats": [
       {
@@ -5299,7 +5143,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_277",
+    "id": "book_271",
     "title": {
       "mm": "သူတော်ကောင်းဆိုသည်မှာ",
       "en": "သူတော်ကောင်းဆိုသည်မှာ"
@@ -5309,14 +5153,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(7, 60%, 40%)",
+    "coverColor": "hsl(307, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 194,
-    "popular": false,
+    "publishDate": "2023-06-15",
+    "pages": 321,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -5329,33 +5173,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_278",
-    "title": {
-      "mm": "သူလိုလူ",
-      "en": "သူလိုလူ"
-    },
-    "author": {
-      "mm": "ဂျာနယ်ကျော်မမလေး",
-      "en": "Journal Kyaw Ma Ma Lay"
-    },
-    "category": "Fiction",
-    "coverColor": "hsl(234, 60%, 40%)",
-    "description": {
-      "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
-      "en": "This is a great book and highly recommended to read."
-    },
-    "publishDate": "2023-01-15",
-    "pages": 156,
-    "popular": true,
-    "formats": [
-      {
-        "type": "PDF",
-        "url": "/books/သူလိုလူ-ဂျာနယ်ကျော်မမလေး_Journal_Kyaw_Ma_Ma_Lay.pdf"
-      }
-    ]
-  },
-  {
-    "id": "book_279",
+    "id": "book_272",
     "title": {
       "mm": "သူ့ကုသိုလ်",
       "en": "သူ့ကုသိုလ်"
@@ -5365,13 +5183,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(22, 60%, 40%)",
+    "coverColor": "hsl(114, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 224,
+    "publishDate": "2023-01-15",
+    "pages": 381,
     "popular": false,
     "formats": [
       {
@@ -5385,7 +5203,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_280",
+    "id": "book_273",
     "title": {
       "mm": "သံသရာ",
       "en": "သံသရာ"
@@ -5395,13 +5213,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(65, 60%, 40%)",
+    "coverColor": "hsl(268, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 239,
+    "publishDate": "2023-01-15",
+    "pages": 243,
     "popular": false,
     "formats": [
       {
@@ -5415,7 +5233,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_281",
+    "id": "book_274",
     "title": {
       "mm": "ဟိုဘက်ကမ်းက လွမ်းပုံပြင်",
       "en": "ဟိုဘက်ကမ်းက လွမ်းပုံပြင်"
@@ -5425,13 +5243,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(87, 60%, 40%)",
+    "coverColor": "hsl(269, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 115,
+    "publishDate": "2023-04-15",
+    "pages": 228,
     "popular": false,
     "formats": [
       {
@@ -5445,7 +5263,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_282",
+    "id": "book_275",
     "title": {
       "mm": "အကျိုးထူးပေးတော့မယ် တဲ့ဗျ",
       "en": "အကျိုးထူးပေးတော့မယ် တဲ့ဗျ"
@@ -5455,13 +5273,13 @@ export const books = [
       "en": "Mg Wanna"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(216, 60%, 40%)",
+    "coverColor": "hsl(127, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-06-15",
-    "pages": 140,
+    "pages": 335,
     "popular": false,
     "formats": [
       {
@@ -5475,7 +5293,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_283",
+    "id": "book_276",
     "title": {
       "mm": "အကြံအဖန်",
       "en": "အကြံအဖန်"
@@ -5485,13 +5303,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(358, 60%, 40%)",
+    "coverColor": "hsl(97, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 231,
+    "publishDate": "2023-03-15",
+    "pages": 324,
     "popular": false,
     "formats": [
       {
@@ -5505,7 +5323,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_284",
+    "id": "book_277",
     "title": {
       "mm": "အခါတော်ပေးတာက",
       "en": "အခါတော်ပေးတာက"
@@ -5515,14 +5333,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(77, 60%, 40%)",
+    "coverColor": "hsl(53, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 220,
-    "popular": false,
+    "publishDate": "2023-08-15",
+    "pages": 227,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -5535,7 +5353,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_285",
+    "id": "book_278",
     "title": {
       "mm": "အချိန်နှင့် ဒီရေသည် လူကိုမစောင့်",
       "en": "အချိန်နှင့် ဒီရေသည် လူကိုမစောင့်"
@@ -5545,13 +5363,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(89, 60%, 40%)",
+    "coverColor": "hsl(75, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-01-15",
-    "pages": 324,
+    "pages": 308,
     "popular": false,
     "formats": [
       {
@@ -5565,7 +5383,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_286",
+    "id": "book_279",
     "title": {
       "mm": "အတ္ထုပ္ပတ္တိ",
       "en": "အတ္ထုပ္ပတ္တိ"
@@ -5575,13 +5393,13 @@ export const books = [
       "en": "Ludu Daw Amar"
     },
     "category": "Non-Fiction",
-    "coverColor": "hsl(54, 60%, 40%)",
+    "coverColor": "hsl(94, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 151,
+    "publishDate": "2023-06-15",
+    "pages": 322,
     "popular": false,
     "formats": [
       {
@@ -5595,7 +5413,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_287",
+    "id": "book_280",
     "title": {
       "mm": "အထီးကျန်",
       "en": "အထီးကျန်"
@@ -5605,14 +5423,14 @@ export const books = [
       "en": "Mg Wanna"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(189, 60%, 40%)",
+    "coverColor": "hsl(302, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 352,
-    "popular": true,
+    "publishDate": "2023-06-15",
+    "pages": 158,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -5625,7 +5443,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_288",
+    "id": "book_281",
     "title": {
       "mm": "အနီးကဝေး",
       "en": "အနီးကဝေး"
@@ -5635,13 +5453,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(56, 60%, 40%)",
+    "coverColor": "hsl(260, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 359,
+    "publishDate": "2023-02-15",
+    "pages": 303,
     "popular": false,
     "formats": [
       {
@@ -5655,7 +5473,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_289",
+    "id": "book_282",
     "title": {
       "mm": "အပိန်နှင့် အပဲ့တို့၏ သမိုင်း",
       "en": "အပိန်နှင့် အပဲ့တို့၏ သမိုင်း"
@@ -5665,13 +5483,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "History",
-    "coverColor": "hsl(202, 60%, 40%)",
+    "coverColor": "hsl(327, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 237,
+    "publishDate": "2023-01-15",
+    "pages": 366,
     "popular": false,
     "formats": [
       {
@@ -5685,7 +5503,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_290",
+    "id": "book_283",
     "title": {
       "mm": "အဘွားကြီးနှစ်ယောက်ရှိလေသည်",
       "en": "အဘွားကြီးနှစ်ယောက်ရှိလေသည်"
@@ -5695,14 +5513,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(210, 60%, 40%)",
+    "coverColor": "hsl(224, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 319,
-    "popular": true,
+    "publishDate": "2023-01-15",
+    "pages": 247,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -5715,7 +5533,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_291",
+    "id": "book_284",
     "title": {
       "mm": "အဘွားခင်ပေးတဲ့ ဆာပရာဒင်း",
       "en": "အဘွားခင်ပေးတဲ့ ဆာပရာဒင်း"
@@ -5725,14 +5543,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(258, 60%, 40%)",
+    "coverColor": "hsl(198, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 187,
-    "popular": true,
+    "publishDate": "2023-09-15",
+    "pages": 302,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -5745,7 +5563,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_292",
+    "id": "book_285",
     "title": {
       "mm": "အမေချက်တဲ့ ပုစွန်ကျား ခုနစ်ကောင်",
       "en": "အမေချက်တဲ့ ပုစွန်ကျား ခုနစ်ကောင်"
@@ -5755,13 +5573,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(44, 60%, 40%)",
+    "coverColor": "hsl(11, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 127,
+    "publishDate": "2023-09-15",
+    "pages": 293,
     "popular": false,
     "formats": [
       {
@@ -5775,7 +5593,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_293",
+    "id": "book_286",
     "title": {
       "mm": "အမေ့ဆီက ဘတ်ကြိုး",
       "en": "အမေ့ဆီက ဘတ်ကြိုး"
@@ -5785,13 +5603,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(320, 60%, 40%)",
+    "coverColor": "hsl(331, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-05-15",
-    "pages": 382,
+    "publishDate": "2023-06-15",
+    "pages": 112,
     "popular": false,
     "formats": [
       {
@@ -5805,7 +5623,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_294",
+    "id": "book_287",
     "title": {
       "mm": "အများထဲက တစ်ယောက်အကြောင်း",
       "en": "အများထဲက တစ်ယောက်အကြောင်း"
@@ -5815,13 +5633,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(50, 60%, 40%)",
+    "coverColor": "hsl(344, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 237,
+    "publishDate": "2023-06-15",
+    "pages": 232,
     "popular": false,
     "formats": [
       {
@@ -5835,7 +5653,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_295",
+    "id": "book_288",
     "title": {
       "mm": "အများနှင့်မသက်ဆိုင်သောသူ",
       "en": "အများနှင့်မသက်ဆိုင်သောသူ"
@@ -5845,14 +5663,14 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(197, 60%, 40%)",
+    "coverColor": "hsl(292, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 302,
-    "popular": false,
+    "publishDate": "2023-05-15",
+    "pages": 367,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -5865,7 +5683,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_296",
+    "id": "book_289",
     "title": {
       "mm": "အမှတ်အနည်းဆုံးကျောင်းသား မြန်မာစာကိုသွား",
       "en": "အမှတ်အနည်းဆုံးကျောင်းသား မြန်မာစာကိုသွား"
@@ -5875,14 +5693,14 @@ export const books = [
       "en": "Mg Swan Yay"
     },
     "category": "Fiction",
-    "coverColor": "hsl(337, 60%, 40%)",
+    "coverColor": "hsl(36, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 191,
-    "popular": false,
+    "publishDate": "2023-06-15",
+    "pages": 211,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -5895,7 +5713,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_297",
+    "id": "book_290",
     "title": {
       "mm": "အမှန်တရား၏ ဒဏ်ခတ်မှု၌ ပျော်မွေ့တတ်သော",
       "en": "အမှန်တရား၏ ဒဏ်ခတ်မှု၌ ပျော်မွေ့တတ်သော"
@@ -5905,13 +5723,13 @@ export const books = [
       "en": "ယမင်းမြတ်အေး Yamin Myat Aye"
     },
     "category": "Fiction",
-    "coverColor": "hsl(179, 60%, 40%)",
+    "coverColor": "hsl(120, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 389,
+    "publishDate": "2023-09-15",
+    "pages": 291,
     "popular": false,
     "formats": [
       {
@@ -5921,7 +5739,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_298",
+    "id": "book_291",
     "title": {
       "mm": "အမှောင်ထဲက မင်းသားများ",
       "en": "အမှောင်ထဲက မင်းသားများ"
@@ -5931,14 +5749,14 @@ export const books = [
       "en": "Khat Zaw"
     },
     "category": "Fiction",
-    "coverColor": "hsl(46, 60%, 40%)",
+    "coverColor": "hsl(287, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 218,
-    "popular": true,
+    "publishDate": "2023-04-15",
+    "pages": 365,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -5947,7 +5765,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_299",
+    "id": "book_292",
     "title": {
       "mm": "အမှောင်ထဲမှာ",
       "en": "အမှောင်ထဲမှာ"
@@ -5957,13 +5775,13 @@ export const books = [
       "en": "Lamin Mo Mo"
     },
     "category": "Fiction",
-    "coverColor": "hsl(213, 60%, 40%)",
+    "coverColor": "hsl(353, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 152,
+    "publishDate": "2023-05-15",
+    "pages": 119,
     "popular": false,
     "formats": [
       {
@@ -5977,7 +5795,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_300",
+    "id": "book_293",
     "title": {
       "mm": "အရိပ်",
       "en": "အရိပ်"
@@ -5987,14 +5805,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(152, 60%, 40%)",
+    "coverColor": "hsl(114, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 215,
-    "popular": true,
+    "publishDate": "2023-02-15",
+    "pages": 352,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -6007,7 +5825,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_301",
+    "id": "book_294",
     "title": {
       "mm": "အရိပ်မဲ့ရုပ်ပုံလွှာ",
       "en": "အရိပ်မဲ့ရုပ်ပုံလွှာ"
@@ -6017,13 +5835,13 @@ export const books = [
       "en": "Tin Maung Myint"
     },
     "category": "Fiction",
-    "coverColor": "hsl(351, 60%, 40%)",
+    "coverColor": "hsl(140, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-03-15",
-    "pages": 109,
+    "pages": 341,
     "popular": false,
     "formats": [
       {
@@ -6037,7 +5855,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_302",
+    "id": "book_295",
     "title": {
       "mm": "အရုပ်သည်ကြီး",
       "en": "အရုပ်သည်ကြီး"
@@ -6053,7 +5871,7 @@ export const books = [
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-06-15",
-    "pages": 334,
+    "pages": 164,
     "popular": false,
     "formats": [
       {
@@ -6067,7 +5885,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_303",
+    "id": "book_296",
     "title": {
       "mm": "အရွယ််",
       "en": "အရွယ််"
@@ -6077,14 +5895,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(56, 60%, 40%)",
+    "coverColor": "hsl(278, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 163,
-    "popular": true,
+    "publishDate": "2023-08-15",
+    "pages": 223,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -6097,7 +5915,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_304",
+    "id": "book_297",
     "title": {
       "mm": "အလွမ်းမပါသော ပြဇာတ်",
       "en": "Drama Without Sadness"
@@ -6107,14 +5925,14 @@ export const books = [
       "en": "Thit Sar Ni"
     },
     "category": "Fiction",
-    "coverColor": "hsl(56, 60%, 40%)",
+    "coverColor": "hsl(101, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-08-15",
-    "pages": 399,
-    "popular": false,
+    "publishDate": "2023-05-15",
+    "pages": 274,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -6127,7 +5945,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_305",
+    "id": "book_298",
     "title": {
       "mm": "အလွမ်းသစ်",
       "en": "Alwan Thit"
@@ -6137,14 +5955,14 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(214, 60%, 40%)",
+    "coverColor": "hsl(240, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-08-15",
-    "pages": 190,
-    "popular": false,
+    "publishDate": "2023-06-15",
+    "pages": 169,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -6157,7 +5975,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_306",
+    "id": "book_299",
     "title": {
       "mm": "အလွမ်း၌ ချစ်စေသတည်း",
       "en": "အလွမ်း၌ ချစ်စေသတည်း"
@@ -6167,13 +5985,13 @@ export const books = [
       "en": "Min Lu"
     },
     "category": "Humor & Satire",
-    "coverColor": "hsl(149, 60%, 40%)",
+    "coverColor": "hsl(285, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 383,
+    "publishDate": "2023-07-15",
+    "pages": 174,
     "popular": false,
     "formats": [
       {
@@ -6187,7 +6005,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_307",
+    "id": "book_300",
     "title": {
       "mm": "အလှတရားကို တွေ့ရှိခြင်း",
       "en": "အလှတရားကို တွေ့ရှိခြင်း"
@@ -6197,13 +6015,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(53, 60%, 40%)",
+    "coverColor": "hsl(149, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 277,
+    "publishDate": "2023-01-15",
+    "pages": 321,
     "popular": false,
     "formats": [
       {
@@ -6217,7 +6035,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_308",
+    "id": "book_301",
     "title": {
       "mm": "အသေဝနာစ ဗာလာနံ ဆိုသော်လည်း",
       "en": "အသေဝနာစ ဗာလာနံ ဆိုသော်လည်း"
@@ -6227,14 +6045,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(349, 60%, 40%)",
+    "coverColor": "hsl(190, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 337,
-    "popular": false,
+    "publishDate": "2023-05-15",
+    "pages": 205,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -6247,7 +6065,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_309",
+    "id": "book_302",
     "title": {
       "mm": "အသွားနှင့်အပြန်",
       "en": "အသွားနှင့်အပြန်"
@@ -6257,14 +6075,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(282, 60%, 40%)",
+    "coverColor": "hsl(91, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 351,
-    "popular": false,
+    "publishDate": "2023-01-15",
+    "pages": 377,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -6277,7 +6095,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_310",
+    "id": "book_303",
     "title": {
       "mm": "အိပ်ဇိုးဒပ်",
       "en": "Exodus"
@@ -6287,14 +6105,14 @@ export const books = [
       "en": "Mg Moe Thu"
     },
     "category": "Fiction",
-    "coverColor": "hsl(136, 60%, 40%)",
+    "coverColor": "hsl(138, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-04-15",
-    "pages": 303,
-    "popular": true,
+    "publishDate": "2023-01-15",
+    "pages": 231,
+    "popular": false,
     "formats": [
       {
         "type": "AZW3",
@@ -6311,7 +6129,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_311",
+    "id": "book_304",
     "title": {
       "mm": "အိမ်မြဲ နှင်းနွယ်ကလေး",
       "en": "အိမ်မြဲ နှင်းနွယ်ကလေး"
@@ -6321,13 +6139,13 @@ export const books = [
       "en": "Hnin Nwe"
     },
     "category": "Fiction",
-    "coverColor": "hsl(151, 60%, 40%)",
+    "coverColor": "hsl(335, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 387,
+    "publishDate": "2023-06-15",
+    "pages": 174,
     "popular": false,
     "formats": [
       {
@@ -6341,7 +6159,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_312",
+    "id": "book_305",
     "title": {
       "mm": "အိုက်ခ်မန်းစစ်ဆင်ရေး",
       "en": "အိုက်ခ်မန်းစစ်ဆင်ရေး"
@@ -6351,13 +6169,13 @@ export const books = [
       "en": "Linyon Mg Mg"
     },
     "category": "Translated",
-    "coverColor": "hsl(147, 60%, 40%)",
+    "coverColor": "hsl(260, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 314,
+    "publishDate": "2023-01-15",
+    "pages": 352,
     "popular": false,
     "formats": [
       {
@@ -6371,7 +6189,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_313",
+    "id": "book_306",
     "title": {
       "mm": "အုန်းသီးထဲက အရည်ချိုချို",
       "en": "အုန်းသီးထဲက အရည်ချိုချို"
@@ -6381,13 +6199,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(350, 60%, 40%)",
+    "coverColor": "hsl(19, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 396,
+    "publishDate": "2023-07-15",
+    "pages": 329,
     "popular": true,
     "formats": [
       {
@@ -6401,7 +6219,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_314",
+    "id": "book_307",
     "title": {
       "mm": "အေပီစီ ဘတ်စပရို",
       "en": "အေပီစီ ဘတ်စပရို"
@@ -6411,14 +6229,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(221, 60%, 40%)",
+    "coverColor": "hsl(49, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 226,
-    "popular": false,
+    "publishDate": "2023-06-15",
+    "pages": 310,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -6431,7 +6249,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_315",
+    "id": "book_308",
     "title": {
       "mm": "အောင်ဇေရမ်းပုံပြင်",
       "en": "အောင်ဇေရမ်းပုံပြင်"
@@ -6441,14 +6259,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(111, 60%, 40%)",
+    "coverColor": "hsl(165, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-02-15",
-    "pages": 288,
-    "popular": true,
+    "publishDate": "2023-05-15",
+    "pages": 242,
+    "popular": false,
     "formats": [
       {
         "type": "EPUB",
@@ -6461,7 +6279,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_316",
+    "id": "book_309",
     "title": {
       "mm": "အဲဒါ တို့မြန်မာ",
       "en": "အဲဒါ တို့မြန်မာ"
@@ -6471,13 +6289,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(203, 60%, 40%)",
+    "coverColor": "hsl(185, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
     "publishDate": "2023-02-15",
-    "pages": 190,
+    "pages": 343,
     "popular": false,
     "formats": [
       {
@@ -6491,7 +6309,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_317",
+    "id": "book_310",
     "title": {
       "mm": "အံကယ် နဲ့ ဦးလေး",
       "en": "အံကယ် နဲ့ ဦးလေး"
@@ -6501,13 +6319,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(137, 60%, 40%)",
+    "coverColor": "hsl(142, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 106,
+    "publishDate": "2023-05-15",
+    "pages": 389,
     "popular": false,
     "formats": [
       {
@@ -6521,7 +6339,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_318",
+    "id": "book_311",
     "title": {
       "mm": "ဤသို့ပင် မျှော်လင့်မိပါသည်",
       "en": "ဤသို့ပင် မျှော်လင့်မိပါသည်"
@@ -6531,13 +6349,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(156, 60%, 40%)",
+    "coverColor": "hsl(281, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 312,
+    "publishDate": "2023-03-15",
+    "pages": 144,
     "popular": false,
     "formats": [
       {
@@ -6551,7 +6369,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_319",
+    "id": "book_312",
     "title": {
       "mm": "ဦးခက်၊ ဒေါ်သက်နှင့် အရပ်ထဲက လူများအကြောင်း",
       "en": "ဦးခက်၊ ဒေါ်သက်နှင့် အရပ်ထဲက လူများအကြောင်း"
@@ -6561,14 +6379,14 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(27, 60%, 40%)",
+    "coverColor": "hsl(133, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-06-15",
-    "pages": 375,
-    "popular": false,
+    "publishDate": "2023-02-15",
+    "pages": 230,
+    "popular": true,
     "formats": [
       {
         "type": "EPUB",
@@ -6581,7 +6399,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_320",
+    "id": "book_313",
     "title": {
       "mm": "ဧည့်သည်",
       "en": "ဧည့်သည်"
@@ -6591,13 +6409,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(75, 60%, 40%)",
+    "coverColor": "hsl(210, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-03-15",
-    "pages": 395,
+    "publishDate": "2023-09-15",
+    "pages": 382,
     "popular": true,
     "formats": [
       {
@@ -6611,7 +6429,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_321",
+    "id": "book_314",
     "title": {
       "mm": "၁ထောင့်၅ည",
       "en": "1005 Nights"
@@ -6621,13 +6439,13 @@ export const books = [
       "en": "ပုံပြင်များ"
     },
     "category": "Fiction",
-    "coverColor": "hsl(285, 60%, 40%)",
+    "coverColor": "hsl(329, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-01-15",
-    "pages": 328,
+    "publishDate": "2023-02-15",
+    "pages": 303,
     "popular": false,
     "formats": [
       {
@@ -6637,7 +6455,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_322",
+    "id": "book_315",
     "title": {
       "mm": "၂၁ ရာစု မြို့ပြချစ်ခရီး",
       "en": "၂၁ ရာစု မြို့ပြချစ်ခရီး"
@@ -6647,13 +6465,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(65, 60%, 40%)",
+    "coverColor": "hsl(2, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-07-15",
-    "pages": 321,
+    "publishDate": "2023-03-15",
+    "pages": 314,
     "popular": false,
     "formats": [
       {
@@ -6667,7 +6485,7 @@ export const books = [
     ]
   },
   {
-    "id": "book_323",
+    "id": "book_316",
     "title": {
       "mm": "၅၂၈",
       "en": "၅၂၈"
@@ -6677,13 +6495,13 @@ export const books = [
       "en": "Ma Sandar"
     },
     "category": "Fiction",
-    "coverColor": "hsl(194, 60%, 40%)",
+    "coverColor": "hsl(90, 60%, 40%)",
     "description": {
       "mm": "ဤစာအုပ်သည် အလွန်ဖတ်ကောင်းသော စာအုပ်ကောင်းတစ်အုပ်ဖြစ်ပါသည်။",
       "en": "This is a great book and highly recommended to read."
     },
-    "publishDate": "2023-09-15",
-    "pages": 315,
+    "publishDate": "2023-02-15",
+    "pages": 202,
     "popular": false,
     "formats": [
       {

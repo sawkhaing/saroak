@@ -27,7 +27,7 @@ except ValueError:
 
 # Constants
 MAX_DOWNLOADS = int(os.environ.get('MAX_DOWNLOADS', 5))
-VALID_EXTENSIONS = ['.epub', '.pdf', '.azw3', '.kfx']
+VALID_EXTENSIONS = ['.epub', '.azw3', '.kfx']
 PUBLIC_BOOKS_DIR = Path('public/books')
 STATE_FILE = Path('telegram-sync-state.json')
 
