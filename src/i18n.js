@@ -16,9 +16,9 @@ const translations = {
     'nav.language': 'မြန်မာ',
 
     // Hero
-    'hero.title': 'Discover Myanmar Literature',
+    'hero.title': 'The Myanmar Ebook Archive',
     'hero.subtitle':
-      'Your gateway to the finest Myanmar ebooks — read, download, and explore.',
+      'A cozy corner of the internet dedicated to Myanmar literature. We\'ve saved these stories just for you—read, download, and enjoy.',
     'hero.cta': 'Browse Books',
     'hero.learnMore': 'Learn More',
     'hero.stats.books': 'Books',
@@ -92,9 +92,9 @@ const translations = {
     'nav.language': 'English',
 
     // Hero
-    'hero.title': 'မြန်မာစာပေကို ရှာဖွေလိုက်ပါ',
+    'hero.title': 'မြန်မာအီးဘွတ် မော်ကွန်းတိုက်',
     'hero.subtitle':
-      'အကောင်းဆုံးမြန်မာ eBook များကို ဖတ်ရှု၊ ဒေါင်းလုဒ်လုပ်ပြီး စူးစမ်းလိုက်ပါ။',
+      'မြန်မာစာပေအတွက် သီးသန့်ရည်ရွယ်ထားတဲ့ အင်တာနက်ပေါ်က နွေးထွေးတဲ့နေရာလေးပါ။ ဒီဇာတ်လမ်းလေးတွေကို သင့်အတွက် သိမ်းဆည်းပေးထားပါတယ် — ဖတ်ရှု၊ ဒေါင်းလုဒ်လုပ်ပြီး ခံစားလိုက်ပါ။',
     'hero.cta': 'စာအုပ်များ ကြည့်ရန်',
     'hero.learnMore': 'ပိုမိုလေ့လာရန်',
     'hero.stats.books': 'စာအုပ်',
